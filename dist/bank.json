@@ -1,0 +1,416 @@
+[
+  {
+    "id": "levin-tissue",
+    "title": "Revealing non-trivial information structures in aneural biological tissues via functional connectivity",
+    "author": "Blackiston, Dromiack, Grasso and colleagues, including Michael Levin",
+    "date": "2025-04-14",
+    "kind": "Empirical study",
+    "topics": [
+      "Neuroscience",
+      "Biology"
+    ],
+    "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012149",
+    "claim": "Calcium imaging in six frog epidermal organoids reveals structured patterns of functional connectivity before and after injury. Methods used for neural tissue can also investigate non-neural coordination.",
+    "limit": "Functional connectivity is a statistical relationship. Neither network structure nor coordinated repair establishes subjective experience. The sample is small.",
+    "use": "Read the author summary and inspect Figure 1. Separate a measured signal, an inferred network and a claim about mind.",
+    "access": "Open source",
+    "review": "Abstract and publication record checked",
+    "focus": "Michael Levin",
+    "core": true,
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "levin-mind-everywhere",
+    "title": "Mind Everywhere — Part One",
+    "author": "Michael Levin and David B. Resnik",
+    "date": "2026-02-25",
+    "kind": "Theory",
+    "topics": [
+      "Biology",
+      "Philosophy"
+    ],
+    "url": "https://link.springer.com/article/10.1007/s13752-025-00523-6",
+    "claim": "Proposes treating goal-directedness and cognition as testable approaches to interacting with biological systems across scales.",
+    "limit": "This is a conceptual framework drawing on experiments, not an experiment establishing that all matter has experience.",
+    "use": "Compare an operational definition of cognition with an account of conscious experience.",
+    "access": "Abstract open; full text may require library access",
+    "review": "Abstract and publication record checked",
+    "focus": "Michael Levin",
+    "core": false,
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "levin-ingressing",
+    "title": "Ingressing Minds: Causal, Non-Physical Patterns In-Form Natural, Synthetic, and Hybrid Embodiments",
+    "author": "Michael Levin",
+    "date": "2026-09-09",
+    "kind": "Theory",
+    "topics": [
+      "Biology",
+      "Philosophy",
+      "AI"
+    ],
+    "url": "https://www.mdpi.com/2409-9287/11/5/161",
+    "claim": "A theoretical proposal about patterns and their embodiment in natural and engineered systems.",
+    "limit": "Speculative philosophical framework. Biological findings do not independently establish its non-physical ontology.",
+    "use": "Use as an advanced comparison after the empirical tissue study. Track where observation ends and ontology begins.",
+    "access": "Publisher page; lab bibliography available",
+    "review": "Citation confirmed in author bibliography; full text not reviewed",
+    "focus": "Michael Levin",
+    "core": false,
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "solms-hard-problem",
+    "title": "The Hard Problem of Consciousness and the Free Energy Principle",
+    "author": "Mark Solms",
+    "date": "2019",
+    "kind": "Theory",
+    "topics": [
+      "Neuroscience",
+      "Psychology",
+      "Philosophy"
+    ],
+    "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.02714/full",
+    "claim": "Develops an account of consciousness centered on affect, bodily needs and uncertainty, connecting neuropsychology with the free energy principle.",
+    "limit": "A theoretical synthesis. The proposed explanation of subjective experience remains contested; feeling, cognition and cortical processing are not interchangeable terms.",
+    "use": "Read the abstract first, then a faculty-selected passage on affect. Reconstruct the claim and distinguish it from the supporting observations.",
+    "access": "Open full text",
+    "review": "Abstract and full-text structure checked",
+    "focus": "Mark Solms",
+    "core": true,
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "solms-agent",
+    "title": "Inferring Affective Consciousness in an Artificial Agent: A Case Study",
+    "author": "Mark Solms and colleagues",
+    "date": "2026-09-03",
+    "kind": "Preprint",
+    "topics": [
+      "Neuroscience",
+      "Psychology",
+      "AI"
+    ],
+    "url": "https://arxiv.org/abs/2609.03883",
+    "claim": "Describes an artificial agent designed around an affective account of needs and uncertainty, including place-preference behavior.",
+    "limit": "The interpretation of the behavior as felt experience depends on the theoretical framework. A constructed agent is not direct proof of machine consciousness.",
+    "use": "Compare what an agent does with what an investigator infers it feels.",
+    "access": "Open preprint",
+    "review": "Abstract and publication record checked",
+    "focus": "Mark Solms",
+    "core": false,
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "solms-subcortical",
+    "title": "When does consciousness arise? A subcortical model of its origins",
+    "author": "Mark Solms and coauthors",
+    "date": "2026",
+    "kind": "Theory",
+    "topics": [
+      "Neuroscience",
+      "Psychology"
+    ],
+    "url": "https://link.springer.com/article/10.1007/s00429-026-03113-9",
+    "claim": "Advances a subcortical, affect-centered account of the origins of consciousness using developmental and neuroscientific evidence.",
+    "limit": "A model and synthesis, not an agreed test of the onset of consciousness. Developmental inferences require particular care.",
+    "use": "Faculty background for contrasting cortical and subcortical accounts.",
+    "access": "Publisher article",
+    "review": "Abstract and publication record checked",
+    "focus": "Mark Solms",
+    "core": false,
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "berg-self-report",
+    "title": "Large Language Models Report Subjective Experience Under Self-Referential Processing",
+    "author": "Cameron Berg, Diogo de Lucena and Judd Rosenblatt",
+    "date": "2025-10-27",
+    "kind": "Preprint",
+    "topics": [
+      "AI",
+      "Philosophy",
+      "Psychology"
+    ],
+    "url": "https://arxiv.org/abs/2510.24797",
+    "claim": "Reports that induced self-reference changes first-person experience reports across language models, with behavioral and mechanistic probes.",
+    "limit": "The authors explicitly state that these results are not direct evidence of consciousness. Model self-reports cannot simply be treated as human testimony.",
+    "use": "Analyze the abstract alongside its explicit limitation. Compare a behavioral finding with an interpretation of experience.",
+    "access": "Open preprint",
+    "review": "Abstract and publication record checked",
+    "focus": "Cameron Berg",
+    "core": true,
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "berg-learning",
+    "title": "Why Learning Requires Feeling",
+    "author": "Cameron Berg",
+    "date": "2026",
+    "kind": "Theory",
+    "topics": [
+      "AI",
+      "Philosophy",
+      "Psychology"
+    ],
+    "url": "https://ojs.aaai.org/index.php/AAAI-SS/article/download/42547/50107/46648",
+    "claim": "Argues that evaluation relative to goals and felt positive or negative experience are one process. Published in the AAAI Spring Symposium Series.",
+    "limit": "The identification is the paper’s philosophical thesis. Signed error signals alone do not settle whether a system experiences anything.",
+    "use": "Map the premises of the identity argument and identify the inference that an opposing account would reject.",
+    "access": "Open PDF",
+    "review": "Abstract and opening argument inspected",
+    "focus": "Cameron Berg",
+    "core": false,
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "berg-pain",
+    "title": "The Pain Axis: LLMs Represent Self-Directed Harm and Act on It",
+    "author": "Valen Tagliabue, Leonard Dung and Cameron Berg",
+    "date": "2026-09-25",
+    "kind": "Preprint",
+    "topics": [
+      "AI",
+      "Psychology",
+      "Philosophy"
+    ],
+    "url": "https://arxiv.org/abs/2609.16247v2",
+    "claim": "Finds an internal direction associated with pain-related material across 25 open-weight models, then tests effects of interventions on model behavior.",
+    "limit": "A pain-related representation and behavior do not establish felt pain. This entry refers to version 2, revised September 25, 2026.",
+    "use": "Read the existing experiment as a methods case. Distinguish semantic representation, causal intervention and phenomenological interpretation.",
+    "access": "Open preprint",
+    "review": "Abstract and publication record checked",
+    "focus": "Cameron Berg",
+    "core": false,
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "cogitate",
+    "title": "Adversarial testing of global neuronal workspace and integrated information theories of consciousness",
+    "author": "COGITATE Consortium and collaborators",
+    "date": "2025-04-30",
+    "kind": "Empirical study",
+    "topics": [
+      "Neuroscience",
+      "Philosophy"
+    ],
+    "url": "https://www.nature.com/articles/s41586-025-08888-1",
+    "claim": "A preregistered collaboration compares predictions from two major theories using brain measurements from 256 participants. Results challenge some predictions of each.",
+    "limit": "This experiment tests specified predictions under particular tasks. It does not dispose of every version of either theory or settle consciousness.",
+    "use": "Compare a prediction written before an experiment with the observation used to evaluate it.",
+    "access": "Author PDF linked from the research field; publisher access varies",
+    "review": "Publisher abstract/search record checked; full paper not reviewed",
+    "focus": "Other",
+    "core": false,
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "seth",
+    "title": "Conscious artificial intelligence and biological naturalism",
+    "author": "Anil K. Seth",
+    "date": "2025-04-21",
+    "kind": "Theory",
+    "topics": [
+      "AI",
+      "Philosophy",
+      "Neuroscience"
+    ],
+    "url": "https://doi.org/10.1017/S0140525X25000032",
+    "claim": "Examines the possibility that consciousness depends on biological properties, challenging assumptions that the right computation is sufficient.",
+    "limit": "A theoretical position rather than a demonstration that artificial consciousness is impossible.",
+    "use": "Pair with Berg or Solms. Give the strongest version of each account before comparing their evidential commitments.",
+    "access": "Publisher article",
+    "review": "Publisher abstract and article record checked",
+    "focus": "Other",
+    "core": false,
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "butlin",
+    "title": "Consciousness in Artificial Intelligence: Insights from the Science of Consciousness",
+    "author": "Patrick Butlin, Robert Long and colleagues",
+    "date": "2023-08-17",
+    "kind": "Research report",
+    "topics": [
+      "AI",
+      "Philosophy",
+      "Neuroscience"
+    ],
+    "url": "https://arxiv.org/abs/2308.08708",
+    "claim": "Derives possible indicators of AI consciousness from several scientific theories, offering a framework for evaluation.",
+    "limit": "Indicators depend on unsettled theories. A checklist cannot certify subjective experience. This is a foundational report, not a current inventory of AI models.",
+    "use": "Compare theory-derived indicators with the evidence in Berg’s self-report study.",
+    "access": "Open report",
+    "review": "Abstract and publication record checked",
+    "focus": "Other",
+    "core": false,
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "zhuangzi",
+    "title": "Zhuangzi, chapter 3: Nourishing the Lord of Life",
+    "author": "Zhuangzi; English translation by James Legge",
+    "date": "Ancient text",
+    "kind": "Cultural work",
+    "topics": [
+      "Asian Studies",
+      "Philosophy",
+      "Sport"
+    ],
+    "url": "https://ctext.org/zhuangzi/nourishing-the-lord-of-life",
+    "claim": "Cook Ding’s account of skilled action brings bodily practice, attention and the cultivation of life into the course.",
+    "limit": "A philosophical narrative in a specific textual and translation history. Do not equate Dao with a modern psychological measure or call this an ancient neuroscience experiment.",
+    "use": "Read the complete chapter. Compare the language of deliberate caution and practiced movement with a described athletic or musical skill.",
+    "access": "Open Chinese text and historical English translation",
+    "review": "Primary-text passage checked",
+    "focus": "Other",
+    "core": true,
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "dickinson",
+    "title": "The Brain—is wider than the Sky",
+    "author": "Emily Dickinson",
+    "date": "19th century",
+    "kind": "Cultural work",
+    "topics": [
+      "Poetry",
+      "Philosophy"
+    ],
+    "url": "https://modpo.org/explore/text-of-dickinsons-the-brain-is-wider-than-the-sky/",
+    "claim": "A short poem makes the relation between mind, world and scale available through formal analysis.",
+    "limit": "A poetic claim has a different evidential role from a measurement. Analyze syntax, analogy and form without turning poetry into an illustration of a theory.",
+    "use": "Read the whole poem, then write a precise account of one comparison and its limits.",
+    "access": "Open teaching text",
+    "review": "Teaching text located; edition comparison pending",
+    "focus": "Other",
+    "core": true,
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "reich",
+    "title": "Music for 18 Musicians",
+    "author": "Steve Reich",
+    "date": "1974–1976",
+    "kind": "Cultural work",
+    "topics": [
+      "Music",
+      "Psychology",
+      "Sport"
+    ],
+    "url": "https://stevereich.com/discography/",
+    "claim": "A proposed shared listening work for examining pulse, attention, ensemble coordination and the experience of musical time.",
+    "limit": "These are proposed teaching connections. A recording alone does not establish a neural mechanism or a collective consciousness.",
+    "use": "Listen to a complete authorized recording. Describe audible changes with timestamps before interpreting the ensemble’s coordination.",
+    "access": "Recording availability and campus license must be confirmed",
+    "review": "Composer discography and label record checked",
+    "focus": "Other",
+    "core": true,
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "clark",
+    "title": "Caminhando (Walking)",
+    "author": "Lygia Clark",
+    "date": "1963",
+    "kind": "Cultural work",
+    "topics": [
+      "Art",
+      "Philosophy",
+      "Psychology"
+    ],
+    "url": "https://www.moma.org/artists/27445-lygia-clark",
+    "claim": "Clark’s participatory practice shifts attention toward the relation between an object, an action and its participant. MoMA describes Caminhando as an invitation to transform a paper Möbius strip.",
+    "limit": "Historical and aesthetic interpretation differs from experimental evidence. The course should preserve the work’s Brazilian artistic context.",
+    "use": "Study documentation of Caminhando and compare descriptions of the object with descriptions of the action.",
+    "access": "Open museum text; reproduction rights vary",
+    "review": "Museum collection essay checked",
+    "focus": "Other",
+    "core": true,
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "music-brain",
+    "title": "Brain correlates of music-evoked emotions",
+    "author": "Stefan Koelsch",
+    "date": "2014-02-20",
+    "kind": "Review",
+    "topics": [
+      "Music",
+      "Neuroscience",
+      "Psychology"
+    ],
+    "url": "https://www.nature.com/articles/nrn3666",
+    "claim": "Reviews neural systems associated with music-evoked emotion, including reward and affective processing.",
+    "limit": "An older synthesis, not the latest review. Associations between brain activity and reported feelings do not supply a full explanation of musical meaning.",
+    "use": "Faculty background for the Reich unit; distinguish a listener’s description from a measured correlate.",
+    "access": "Publisher abstract open; full text may require library access",
+    "review": "Abstract and publication record checked",
+    "focus": "Other",
+    "core": false,
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "sport-attention",
+    "title": "Research of visual attention in basketball shooting: A systematic review with meta-analysis",
+    "author": "Matic Sirnik, Frane Erčulj and Jernej Rošker",
+    "date": "2022",
+    "kind": "Review",
+    "topics": [
+      "Sport",
+      "Psychology",
+      "Neuroscience"
+    ],
+    "url": "https://journals.sagepub.com/doi/10.1177/17479541221075740",
+    "claim": "Synthesizes research on visual attention and shooting performance, including quiet eye and conditions such as pressure and fatigue.",
+    "limit": "Sport-specific findings do not automatically transfer to music, meditation or every kind of expertise. Methods and contexts differ across studies.",
+    "use": "Pair the abstract with Cook Ding. Compare operational measures of visual attention with a literary description of skilled action.",
+    "access": "Publisher abstract; library access may be needed",
+    "review": "Abstract and publication record checked",
+    "focus": "Other",
+    "core": false,
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "pilgrimage",
+    "title": "On the Roads: Catholic and Buddhist Pilgrimage",
+    "author": "Madera Allan and Constance Kassor",
+    "date": "2023",
+    "kind": "Lecture",
+    "topics": [
+      "Asian Studies",
+      "Philosophy",
+      "Art"
+    ],
+    "url": "https://lux.lawrence.edu/convocations/19/",
+    "claim": "A Lawrence convocation contribution provides a local route into comparative pilgrimage traditions.",
+    "limit": "Its use in MIND(s) is a proposal, not an endorsement by the speakers. Embodied attention and transformation are proposed curricular connections.",
+    "use": "Consider a companion unit on movement, memory, practice and place with relevant faculty.",
+    "access": "Open institutional archive",
+    "review": "Archive record checked; lecture not reviewed",
+    "focus": "Other",
+    "core": false,
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "borges",
+    "title": "Borges: Collected Fictions — Lawrence lecture",
+    "author": "Madera Allan",
+    "date": "2012-02-15",
+    "kind": "Lecture",
+    "topics": [
+      "Philosophy",
+      "Poetry"
+    ],
+    "url": "https://lux.lawrence.edu/frst_lectures/112/",
+    "claim": "An archived First-Year Studies lecture documents an existing Lawrence resource for teaching Borges across disciplines.",
+    "limit": "The archive record establishes the lecture’s existence, not its suitability for a particular MIND(s) assignment.",
+    "use": "A future literature expansion could examine memory and personhood through a faculty-selected Borges story.",
+    "access": "Open institutional archive",
+    "review": "Archive record checked; lecture not reviewed",
+    "focus": "Other",
+    "core": false,
+    "checked": "2026-10-10"
+  }
+]
