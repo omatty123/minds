@@ -1,0 +1,177 @@
+[
+  {
+    "id": "mind",
+    "layer": "research",
+    "label": "Mind",
+    "title": "Mind in the head",
+    "regions": [
+      "head"
+    ],
+    "evidence": "Survey · Anglin, 2014",
+    "finding": "97.1% named the head or brain.",
+    "description": "This was the free-response result for mind in a study recruiting 206 Rutgers students. Participants also selected locations on a body diagram.",
+    "limit": "These are reported beliefs in one student sample, not observed spontaneous gestures or a cross-cultural census.",
+    "sources": [
+      {
+        "url": "https://doi.org/10.1016/j.concog.2014.08.014",
+        "label": "Study and methods"
+      }
+    ]
+  },
+  {
+    "id": "self",
+    "layer": "research",
+    "label": "Self",
+    "title": "Self has more than one reported location",
+    "regions": [
+      "head",
+      "chest"
+    ],
+    "evidence": "Survey · Anglin, 2014",
+    "finding": "40.5% named head, brain or mind; 12.7% named heart or chest.",
+    "description": "These are selected free-response categories. Another 22.4% named the body without specifying one region.",
+    "limit": "Other responses are not plotted. These percentages describe this study’s respondents, not the world.",
+    "sources": [
+      {
+        "url": "https://doi.org/10.1016/j.concog.2014.08.014",
+        "label": "Study and response categories"
+      }
+    ]
+  },
+  {
+    "id": "soul",
+    "layer": "research",
+    "label": "Soul",
+    "title": "Soul often moves toward the chest",
+    "regions": [
+      "chest",
+      "head"
+    ],
+    "evidence": "Survey · Anglin, 2014",
+    "finding": "42.0% named heart or chest; 22.0% named head, brain or mind.",
+    "description": "These are selected free-response categories from the same study. Changing the term changed the pattern of answers.",
+    "limit": "Other responses included the body generally and no bodily location. This does not establish that a soul has a physical location.",
+    "sources": [
+      {
+        "url": "https://doi.org/10.1016/j.concog.2014.08.014",
+        "label": "Study and response categories"
+      }
+    ]
+  },
+  {
+    "id": "pointing",
+    "layer": "research",
+    "label": "Pointing to self",
+    "title": "An actual pointing task",
+    "regions": [
+      "head",
+      "chest"
+    ],
+    "evidence": "Experiment · Alsmith & Longo, 2014",
+    "finding": "Self-location judgments clustered around head and upper torso.",
+    "description": "Participants adjusted a pointer toward themselves while blindfolded, or judged its alignment visually. The study asked about the self.",
+    "limit": "This is a structured experiment, not a study of spontaneous gestures for the word “mind.”",
+    "sources": [
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24457520/",
+        "label": "Study abstract"
+      },
+      {
+        "url": "https://psyc.bbk.ac.uk/bodylab/docs/alsmith%26longo-consc%26cogn-2014.pdf",
+        "label": "Author-hosted paper"
+      }
+    ]
+  },
+  {
+    "id": "maeum",
+    "layer": "language",
+    "label": "마음 · maeum",
+    "title": "Korean 마음: a gesture toward the heart",
+    "regions": [
+      "chest"
+    ],
+    "evidence": "Contributor observation · Korea",
+    "finding": "People point to the heart when referring to maeum.",
+    "description": "Matty Wegehaupt reports this gesture from his experience in Korea. The word 마음 includes mind and heart, as well as intention and will.",
+    "limit": "The gesture is a contributor’s observation. The dictionary supports the word’s senses; it does not establish how often or how widely the gesture occurs.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/마음#Korean",
+        "label": "Dictionary: 마음"
+      },
+      {
+        "url": "#body-observation",
+        "label": "Observation credit"
+      }
+    ]
+  },
+  {
+    "id": "asl",
+    "layer": "language",
+    "label": "ASL · MIND",
+    "title": "A sign toward the upper head",
+    "regions": [
+      "head"
+    ],
+    "evidence": "Documented sign · American Sign Language",
+    "finding": "The forefinger points toward the side of the upper head.",
+    "description": "HandSpeak documents this form for MIND. A sign’s location is part of how the language expresses meaning.",
+    "limit": "The sign does not by itself reveal a signer’s theory of consciousness. ASL is distinct from other signed languages.",
+    "sources": [
+      {
+        "url": "https://www.handspeak.com/word/1385/",
+        "label": "HandSpeak demonstration"
+      },
+      {
+        "url": "#signs",
+        "label": "More signed-language resources"
+      }
+    ]
+  },
+  {
+    "id": "egypt",
+    "layer": "history",
+    "label": "Egypt · heart",
+    "title": "Heart, mind and memory",
+    "regions": [
+      "chest"
+    ],
+    "evidence": "Historical account · ancient Egypt",
+    "finding": "The heart has a place in accounts of mind and memory.",
+    "description": "The British Museum’s Greenfield Papyrus record connects these aspects of a person with the heart, within a funerary and religious setting.",
+    "limit": "This textual evidence is not an observation of how ancient Egyptians pointed to themselves.",
+    "sources": [
+      {
+        "url": "bank.html#egypt-heart",
+        "label": "Museum source and context"
+      },
+      {
+        "url": "#symbols",
+        "label": "See the heart amulet"
+      }
+    ]
+  },
+  {
+    "id": "xin",
+    "layer": "history",
+    "label": "Chinese · 心",
+    "title": "Heart and thinking in 心",
+    "regions": [
+      "chest"
+    ],
+    "evidence": "Historical lexical record · Chinese",
+    "finding": "Xīn connects the bodily heart and thinking.",
+    "description": "The Chinese Text Project dictionary records these related senses. “Heart-mind” keeps the connection visible in translation.",
+    "limit": "A lexical record does not establish a pointing custom or one doctrine shared by all Chinese traditions.",
+    "sources": [
+      {
+        "url": "bank.html#word-xin",
+        "label": "Chinese Text Project source"
+      },
+      {
+        "url": "syllabus.html#jikji",
+        "label": "心 in Jikji’s fuller title"
+      }
+    ]
+  }
+]

@@ -96,6 +96,14 @@ Controls, panels and labels have square corners. Thin straight rules are the rec
 - **Semantic comparison:** eight selected, overlapping clusters use native buttons with `aria-pressed` and `aria-controls`. Selection marks the heading in red with an underline and displays its examples in a warm gray panel. Each example links a dictionary and the existing recording. All panels remain readable without JavaScript and in print; playback requires JavaScript. Connections describe selected meanings, not language ancestry or a universal definition.
 - **Signed-language and visual studies:** ASL THINK uses an explicit load button before inserting the provider's iframe; BSL MIND uses native video controls. Source links remain visible. Three visual studies distinguish modern sans-serif 心, an Egyptian heart amulet and Rodin's *The Thinker*. Keep museum attribution and contextual interpretation adjacent to each object.
 
+### Body-location explorer
+
+The scoped section at `mind-words.html#body` uses a schematic body beside the selected evidence on desktop. A warm neutral figure surface and fine outline keep the active red head/chest markers legible. Marker size does not encode response percentages or anatomical boundaries. Native layer buttons use an ink fill for selection; account buttons use a red underline. Each account keeps its evidence type, finding, limitation and sources together. The eight accounts remain distinct across Research, Language & gestures, and Historical beliefs; contributor observations retain attribution.
+
+At 700px and below, the figure and reading panel stack; the SVG height changes from 490px to 330px. Controls wrap and retain a 44px minimum height. Selection updates pressed states, the SVG description, caption and polite status. All evidence panels remain available without JavaScript. Print hides the figure and controls, exposes all accounts, and uses 11pt evidence text.
+
+Local review, 10 October 2026: all eight selections passed at 1440px and 390px, with no horizontal overflow and rendered Public Sans/Apple SD Gothic Neo. The independent finish reviewer reported SHIP for the scoped screenshots and code. This section is local only at `/Users/wegehaum/Documents/ChatGPT/META/minds/dist/mind-words.html#body`; this record does not verify live deployment.
+
 ## Do's and Don'ts
 
 - Keep compact headers, aligned navigation, direct source links and visible evidence qualifications.
