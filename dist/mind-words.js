@@ -1,0 +1,28 @@
+'use strict';
+(()=>{
+const data=JSON.parse(document.querySelector('#spoken-data').textContent);
+const byId=new Map(data.map(w=>[w.id,w]));
+const audio=new Audio();audio.preload='none';
+const status=document.querySelector('#spoken-status');
+const playAll=document.querySelector('#play-all');
+const stop=document.querySelector('#stop-audio');
+const rows=[...document.querySelectorAll('.spoken-row')];
+let selected=byId.get('en')||data[0],queue=[],position=0,playing=false,token=0,timer;
+const el=id=>document.querySelector('#'+id);
+function select(w){selected=w;el('current-word').textContent=w.word;el('current-word').lang=w.code;el('current-word').dir=w.direction||'auto';el('current-language').textContent=w.language;el('current-roman').textContent=w.roman||'';el('current-meaning').textContent=w.meaning;el('current-note').textContent=w.note;el('current-type').textContent=w.recordingContext==='phrase'?'Recorded phrase: '+w.recordedText:'Speaker recording';el('current-source').href=w.dictionary;el('current-credit').href='#credit-'+w.id;for(const row of rows)row.classList.toggle('is-current',row.dataset.id===w.id);for(const node of document.querySelectorAll('.spoken-wheel-word'))node.classList.toggle('is-current',node.dataset.id===w.id);}
+function cancel(){token++;clearTimeout(timer);audio.pause();audio.onended=null;queue=[];playing=false;playAll.textContent='Play all';playAll.setAttribute('aria-pressed','false');stop.disabled=true;}
+async function play(w){const mine=++token;clearTimeout(timer);audio.pause();select(w);audio.src=w.audio;status.textContent='Loading '+w.language+'…';stop.disabled=false;audio.onended=()=>{if(mine!==token)return;if(queue.length&&position<queue.length-1){position++;timer=setTimeout(()=>play(queue[position]),450);}else{playing=false;queue=[];playAll.textContent='Play all';playAll.setAttribute('aria-pressed','false');stop.disabled=true;status.textContent='Finished '+w.language+'.';}};try{await audio.play();if(mine!==token)return;status.textContent='Playing '+w.language+' · '+(queue.length?(position+1)+' of '+queue.length:'one recording');}catch(e){if(mine!==token||e.name==='AbortError')return;cancel();status.textContent='Audio could not play. Select the word to try again; the recording credit links to its source.';}}
+function one(w){cancel();play(w);}
+for(const row of rows)row.querySelector('button').addEventListener('click',()=>one(byId.get(row.dataset.id)));
+el('replay').addEventListener('click',()=>one(selected));
+stop.addEventListener('click',()=>{cancel();status.textContent='Stopped.';});
+playAll.addEventListener('click',()=>{if(playing){audio.pause();clearTimeout(timer);playing=false;playAll.textContent='Continue';playAll.setAttribute('aria-pressed','false');status.textContent='Paused.';return;}if(queue.length){playing=true;playAll.textContent='Pause';playAll.setAttribute('aria-pressed','true');if(audio.ended)play(queue[position]);else {status.textContent='Playing '+selected.language+' · '+(position+1)+' of '+queue.length;audio.play().catch(()=>{cancel();status.textContent='Could not resume. Select a word to restart.';});}return;}queue=rows.filter(r=>!r.hidden).map(r=>byId.get(r.dataset.id));if(!queue.length)return;position=0;playing=true;playAll.textContent='Pause';playAll.setAttribute('aria-pressed','true');play(queue[0]);});
+el('word-search').addEventListener('input',e=>{cancel();const q=e.target.value.trim().toLocaleLowerCase();let n=0;for(const row of rows){const w=byId.get(row.dataset.id);row.hidden=![w.language,w.word,w.roman,w.meaning].join(' ').toLocaleLowerCase().includes(q);if(!row.hidden)n++;}el('word-count').textContent=n+' of '+data.length+' languages';status.textContent=n?'Select a word or play the matching languages.':'No matching words.';});
+window.addEventListener('pagehide',cancel);
+const svg=el('spoken-wheel'),ns='http://www.w3.org/2000/svg';
+function make(tag,attrs,parent){const x=document.createElementNS(ns,tag);for(const [k,v]of Object.entries(attrs))x.setAttribute(k,v);parent.append(x);return x;}
+make('circle',{cx:500,cy:500,r:248,class:'spoken-orbit'},svg);
+data.forEach((w,i)=>{const a=i*360/data.length;const left=a>180;const g=make('g',{class:'spoken-wheel-word',role:'button',tabindex:'0','data-id':w.id,'aria-label':'Hear '+w.language+': '+w.word},svg);const rad=(a-90)*Math.PI/180;const x=500+260*Math.cos(rad),y=500+260*Math.sin(rad);make('circle',{cx:x,cy:y,r:4},g);const t=make('text',{transform:'translate(500 500) rotate('+(left?a+90:a-90)+')',x:left?-278:278,y:6,'text-anchor':(left!==(w.direction==='rtl'))?'end':'start',lang:w.code,direction:w.direction||'ltr'},g);t.textContent=w.word;const title=make('title',{},g);title.textContent=w.language+' · '+w.meaning;g.addEventListener('click',()=>one(w));g.addEventListener('keydown',e=>{if(['Enter',' '].includes(e.key)){e.preventDefault();one(w);}if(['ArrowRight','ArrowDown','ArrowLeft','ArrowUp'].includes(e.key)){e.preventDefault();const dir=['ArrowRight','ArrowDown'].includes(e.key)?1:-1;svg.querySelectorAll('.spoken-wheel-word')[(i+dir+data.length)%data.length].focus();}});});
+document.fonts.ready.then(()=>{for(const t of svg.querySelectorAll('text')){const n=t.getComputedTextLength();if(n>205)t.style.fontSize=(22*205/n)+'px';}});
+select(selected);el('spoken-controls').hidden=false;
+})();

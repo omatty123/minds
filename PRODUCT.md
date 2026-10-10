@@ -27,3 +27,6 @@ Treat disciplines as intellectual contributors. Distinguish observation, interpr
 
 ## Curriculum correction — 10 October 2026
 Multicultural approaches to MIND are the first priority. Great works must deal directly with mind and receive sustained reading. Use the WATER syllabus’s works-centered structure and writing sequence as the model. Do not organize the common course as a weekly tour of researchers. Contemporary research supports and challenges the works. Words for mind, translation and ancient approaches belong in the course itself. The six proposed sustained works are candidates, not user-approved selections.
+
+## Pronunciation companion — 10 October 2026
+A pronunciation collection modeled on WATER, with a target of 50 languages. The user chose recorded human voices only. Keep the actual verified count visible; label meanings, recording credits and licensing. Do not pad the count with synthetic speech, different regional recordings of the same language, or unrelated homographs.

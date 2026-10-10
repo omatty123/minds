@@ -20,3 +20,6 @@ For bank changes edit bank.json and run python3 build.py. dist/style.css and dis
 
 ## Curriculum priority — 10 October 2026
 Multicultural approaches to mind are the central priority. Select great works that deal directly with mind, selfhood, experience or mental cultivation. Give them sustained teaching time. The live WATER syllabus supplied the works-centered structure and Summary → Synthesis → Revision → Final Synthesis model. The current six-work slate is an assistant-proposed candidate, not user approval of individual titles. Preserve the research bank and its distinctions; do not restore a course organized primarily around technical papers.
+
+## Pronunciation collection — 10 October 2026
+Use recorded human voices only. The user explicitly rejected synthesized pronunciation, even to reach 50 languages. Check each recording’s language, spoken word, attribution and reuse terms. Do not count regional accents as different languages or present an incomplete collection as 50 recordings. Keep lexical distinctions and source links visible.

@@ -48,7 +48,7 @@ components:
 
 MIND(s) uses a compact journalism layout: a black masthead, white reading surfaces, red emphasis, sans-serif typography throughout. The user explicitly selected the black, white and red journalism direction and direct code construction. The specific measurements and component treatments below document the implementation; they are not additional recorded user approvals.
 
-This document describes `dist/style.css`, `dist/app.js` and the four HTML pages: proposal, model syllabus, learning bank and participation. The shared system favors readable source records, visible limits and direct navigation. It uses typography and rules without decorative imagery or animation.
+This document describes `dist/style.css`, `dist/app.js` and the five HTML pages: proposal, model syllabus, learning bank, pronunciation collection and participation. The shared system favors readable source records, visible limits and direct navigation. It uses typography and rules without decorative imagery or animation.
 
 ## Colors
 
@@ -102,3 +102,7 @@ Controls, panels and labels have square corners. Thin straight rules are the rec
 - Do not present the selected learning bank as an exhaustive inventory or the faculty proposal as an adopted curriculum.
 
 Local review record, 10 October 2026: all four pages were reviewed at 1440px and 390px, with captures in `.impeccable/review/`. Before the user’s subsequent sans-serif correction, the independent finish reviewer reported **SHIP**, with no material findings and the mobile table note above. This records that review disposition, not institutional or user approval of every design detail.
+
+## Pronunciation companion
+
+`mind-words.html` uses a radial word selector on desktop and a two-column list on mobile. The playback controls keep a stable position above the changing word details. Red marks the selected word. Each recording has a lexical source, attribution and license. Phrase recordings are identified in both the list and player. Browser inspection at 1440px and 390px confirmed no horizontal page overflow and sans-serif rendering for every script used in the word selectors.
