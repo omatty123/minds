@@ -22,7 +22,7 @@ jobs:
           python-version: '3.x'
       - run: python3 build.py
       - run: git diff --exit-code -- dist
-      - run: node --check dist/app.js && node --check dist/mind-words.js && node --check dist/mind-atlas.js && node --check dist/body-map.js && node --check dist/history.js && node tests/history.mjs && node tests/check.mjs && node tests/mind-words.mjs
+      - run: node --check dist/app.js && node --check dist/mind-words.js && node --check dist/mind-atlas.js && node --check dist/body-map.js && node --check dist/history.js && node --check dist/possibilities.js && node tests/possibilities.mjs && node tests/history.mjs && node tests/check.mjs && node tests/mind-words.mjs
       - uses: actions/upload-pages-artifact@v3
         if: github.event_name != 'pull_request'
         with:

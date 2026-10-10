@@ -6,11 +6,12 @@ Live address after successful deployment: https://omatty123.github.io/minds/
 
 ## Work on the site
 
-- `build.py` generates six HTML pages from the authored page content and `bank.json`.
+- `build.py` generates seven HTML pages from the authored page content and `bank.json`.
 - `syllabus-content.html` contains the syllabus prose; `slate.json` defines the six sustained works. `build.py` renders the slate, language comparison and proposed pacing.
 - `mind-words.json` contains the pronunciation collection and audio attribution. `mind_words_page.py` renders it; `dist/mind-words.js` and `.css` provide the player and layout. Audio files are credited individually; human voices only.
 - `semantic-clusters.json` defines eight selected, overlapping meaning clusters. `mind_atlas.py` adds these, signed-language resources and three visual studies to the pronunciation page; `dist/mind-atlas.css` and `.js` provide their responsive layout and interactions. Dictionary links and audio references come from `mind-words.json`.
 - `history.json` contains 44 global-history accounts, separate from the learning bank. `history_page.py` renders `dist/history.html`; `dist/history.css` and `dist/history.js` provide its layout and filters. The build publishes an unchanged copy of the index as `dist/history.json`.
+- `possibilities.json` contains 28 proposed campus candidates, separate from the 53-record learning bank and 44-account global history. `possibilities_page.py` renders `dist/possibilities.html`; `dist/possibilities.css` and `dist/possibilities.js` provide layout, filters and shortlist controls. The build publishes an unchanged copy as `dist/possibilities.json`.
 - `bank.json` is the source of truth for the learning bank. Every record has a stable ID, source URL, evidence category, review depth, check date, teaching use and limit.
 - `dist/style.css` and `dist/app.js` are authored source files, not disposable build output.
 - `dist/fonts/` contains self-hosted Public Sans files with their SIL Open Font Licenses. Fonts came from Google Fonts; no remote font requests are needed.
@@ -70,3 +71,12 @@ The global history contains 44 selected accounts, nine recurring comparison them
 Each account identifies a work or encounter, interpretation, limits, source links and review depth. The overview and themes are editorial comparisons, not a universal classification or a progression toward modern science. Review depth varies from selected passages and specialist overviews to abstracts, museum records and explicitly reused learning-bank notes. See `research/global-history-method.md` for retrieval limits and priority gaps, including further African, Indigenous American and Pacific traditions, Australian Aboriginal traditions, Southeast and Central Asia, Tibetan traditions, additional religious schools, women’s intellectual histories, disability and neurodiversity.
 
 Local QA covered 1440px and 390px layouts, filters, empty/reset states, URL persistence, direct account links, no horizontal overflow, rendered sans-serif fonts and source access without JavaScript. The scoped independent finish reviewer reported SHIP. This addition is local only at `/Users/wegehaum/Documents/ChatGPT/META/minds/dist/history.html`; live deployment has not yet been verified.
+
+
+## Campus possibilities — 10 October 2026
+
+The seventh page offers 28 source-linked works, objects and proposed activities. Four curated routes select four candidates each. Search, campus connection, activity and duration filters combine; filters and shortlist IDs persist in the URL. Route and campus-connection links preserve selections. Direct candidate anchors expose teaching notes and clear conflicting filters. Print-shortlist includes selected records and their notes; all candidates and source disclosures remain readable without JavaScript.
+
+The collection supports faculty recruitment and planning. Activities and times are editorial estimates, not tested lessons or departmental endorsements. Source review depth, campus-catalog coverage and access limitations are recorded in `research/campus-possibilities.md`. It does not change the six-work model syllabus, 53-record learning bank or 44-account history.
+
+Local QA covered 1440px and 390px layouts, filters, shortlist selection, URL restoration, print, direct anchors, source access without JavaScript, no horizontal overflow and rendered Public Sans. The expanded shared navigation wraps at 850px and 600px. The finish reviewer found a selection-loss issue in route links; that issue was fixed and the scoped review reported SHIP. This addition is local only at `/Users/wegehaum/Documents/ChatGPT/META/minds/dist/possibilities.html`; live deployment has not yet been verified.

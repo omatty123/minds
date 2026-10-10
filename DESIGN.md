@@ -48,7 +48,7 @@ components:
 
 MIND(s) uses a compact journalism layout: a black masthead, white reading surfaces, red emphasis, sans-serif typography throughout. The user explicitly selected the black, white and red journalism direction and direct code construction. The specific measurements and component treatments below document the implementation; they are not additional recorded user approvals.
 
-This document describes `dist/style.css`, `dist/app.js` and the six HTML pages: proposal, model syllabus, learning bank, pronunciation collection, global history and participation, including the scoped pronunciation additions in `dist/mind-atlas.css` and `dist/mind-atlas.js`. The shared system favors readable source records, visible limits and direct navigation. It uses typography and rules; the pronunciation page also uses sourced objects and signed-language demonstrations as evidence.
+This document describes `dist/style.css`, `dist/app.js` and the seven HTML pages: proposal, model syllabus, learning bank, pronunciation collection, global history, campus possibilities and participation, including the scoped pronunciation additions in `dist/mind-atlas.css` and `dist/mind-atlas.js`. The shared system favors readable source records, visible limits and direct navigation. It uses typography and rules; the pronunciation page also uses sourced objects and signed-language demonstrations as evidence.
 
 ## Colors
 
@@ -70,7 +70,7 @@ The shared content container is 1280px maximum with 42px horizontal padding. The
 
 Desktop layouts use two columns for the opening and explanatory sections, and three columns for discipline and research summaries. Source rows use a 180px metadata column beside the reading column. Paragraph widths are constrained locally where long lines would impair reading.
 
-At 850px, horizontal padding becomes 26px, gaps contract, syllabus meeting lists become one column, filters become two columns, and source metadata narrows to 135px. At 600px, padding becomes 20px, main content grids stack, filters become one column, and source metadata forms a wrapping row. Navigation remains a visible four-link row. The edition date is hidden in the mobile masthead.
+At 850px, horizontal padding becomes 26px, gaps contract, syllabus meeting lists become one column, filters become two columns, and source metadata narrows to 135px. At 600px, padding becomes 20px, main content grids stack, filters become one column, and source metadata forms a wrapping row. The seven-link navigation wraps into visible rows at 850px and below, with tighter spacing at 600px; link text stays unbroken. The edition date is hidden in the mobile masthead.
 
 The mobile assessment table retains a 510px minimum width inside a horizontally scrollable container. This is an intentional current accommodation, with scroll discoverability a nonblocking review note. Do not shrink its text to force all columns into the viewport.
 
@@ -113,6 +113,16 @@ At 760px and below, the synthesis and account rows stack, themes form two column
 Theme, period, region, tradition, discipline and search filters combine. URL keys are `theme`, `era`, `region`, `tradition`, `discipline` and `q`; changes use `history.replaceState`. Native buttons expose pressed states, the result count uses a polite live status, and reset focuses search. Stable account fragments open source details and clear conflicting filters. Without JavaScript, all accounts and native disclosures remain readable while unavailable filtering controls stay hidden.
 
 Local review, 10 October 2026: 1440px and 390px checks covered filters, URL state, direct links, no horizontal overflow, actual sans-serif fonts and source access without JavaScript. The scoped independent finish reviewer reported SHIP. This addition is local only at `/Users/wegehaum/Documents/ChatGPT/META/minds/dist/history.html`; this record does not verify live deployment.
+
+### Campus possibilities
+
+The seventh page extends the shared black, white and red Public Sans system. A compact introduction leads to four source-linked entry routes in an ink panel, followed by two columns of ruled candidate records. Native disclosures group materials, activity steps, student output, context and sources. Red filled buttons mark shortlist selections; a gray control row shows the selection count, view, print and clear actions.
+
+At 760px and below, routes form two columns, candidate and campus-connection records stack, and filters use two columns with search and campus connection spanning both. Controls retain visible labels and at least 44px height. Natural heading wraps and square controls preserve the shared system.
+
+Filters use URL keys `q`, `area`, `mode`, `time` and `route`; shortlist state uses `pick` and `shortlist`. Route and campus-connection links preserve selected IDs. Direct candidate fragments open native disclosures and clear conflicting filters. Without JavaScript, all records and disclosures remain available while inactive controls stay hidden. Normal print exposes all candidates; Print shortlist exposes selected candidates and teaching notes. Candidate evidence text prints at 11pt. Print hides the extended introduction and collection heading, uses a 24pt title with reduced opening padding, and permits candidate records to span pages. Three-line orphan and widow limits preserve readable continuations without leaving a mostly empty opening sheet.
+
+Local review, 10 October 2026: 1440px and 390px checks covered filters, shortlist and URL state, print, direct anchors, no-JavaScript access, no horizontal overflow and rendered Public Sans. A reviewer finding about selections lost through route links was fixed; the scoped finish review reported SHIP. This addition is local only at `/Users/wegehaum/Documents/ChatGPT/META/minds/dist/possibilities.html`; this record does not verify live deployment.
 
 ## Do's and Don'ts
 

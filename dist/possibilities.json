@@ -1,0 +1,762 @@
+[
+  {
+    "id": "poem-memory",
+    "title": "Learn a poem by heart",
+    "object": "Emily Dickinson · The Brain—is wider than the Sky",
+    "areas": [
+      "Literature & languages",
+      "Music & performance",
+      "Learning & access"
+    ],
+    "mode": "Memorize",
+    "minutes": 20,
+    "materials": "An authorized poem text; paper.",
+    "idea": "Make memory part of the encounter with a work about mind.",
+    "steps": [
+      "Read the poem aloud or silently.",
+      "Learn a short passage using rhythm, imagery or repetition.",
+      "Reconstruct it from memory, then mark changes against the text."
+    ],
+    "output": "A marked comparison of the remembered and printed passage.",
+    "note": "Use private recall or paired recitation; public performance is optional. This is not a memory ranking.",
+    "source": {
+      "url": "https://modpo.org/explore/text-of-dickinsons-the-brain-is-wider-than-the-sky/",
+      "label": "The Brain—is wider than the Sky"
+    },
+    "status": "Proposed teaching adaptation",
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "retrieval",
+    "title": "Compare two ways of studying",
+    "object": "Roediger & Karpicke · Test-Enhanced Learning (2006)",
+    "areas": [
+      "Learning & access",
+      "Psychology & neuroscience",
+      "Mathematics & computing"
+    ],
+    "mode": "Test & model",
+    "minutes": 20,
+    "materials": "Two short instructor-written passages; a timer; next-class recall sheet.",
+    "idea": "Turn memorization into a testable teaching problem.",
+    "steps": [
+      "Alternate rereading and closed-text retrieval across two passages.",
+      "Switch the passage assignments across small groups.",
+      "Compare delayed recall next class using a common scoring guide."
+    ],
+    "output": "An aggregate comparison and a short account of confounds.",
+    "note": "The published study supports retrieval practice; this short adaptation is not a replication or a diagnostic test. Do not collect named performance records for research.",
+    "source": {
+      "url": "https://www.psychologicalscience.org/journals/psychological-science/j.1467-9280.2006.01693.x/",
+      "label": "Roediger & Karpicke · study abstract"
+    },
+    "status": "Proposed teaching adaptation",
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "vedic",
+    "title": "Hear how a text is preserved",
+    "object": "UNESCO · Tradition of Vedic chanting",
+    "areas": [
+      "Religion & philosophy",
+      "Literature & languages",
+      "Music & performance"
+    ],
+    "mode": "Listen & watch",
+    "minutes": 25,
+    "materials": "UNESCO documentation; a recording with identified performers and context.",
+    "idea": "Connect sacred text, sound, exactness and trained memory.",
+    "steps": [
+      "Introduce the named tradition and recording.",
+      "Annotate repeated sounds, pitch patterns and correction procedures visible in the documentation.",
+      "Compare oral transmission with a printed passage."
+    ],
+    "output": "An annotated listening timeline and transmission comparison.",
+    "note": "Study the documented practice; any participatory recitation should be developed with a qualified practitioner. The proposal does not claim a generic memory benefit from all chant.",
+    "source": {
+      "url": "https://ich.unesco.org/en/RL/tradition-of-vedic-chanting-00062",
+      "label": "UNESCO · Tradition of Vedic chanting"
+    },
+    "status": "Proposed teaching adaptation",
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "chorus",
+    "title": "Make a room sound together",
+    "object": "Vickhoff et al. · Music structure and singers’ heart-rate variability (2013)",
+    "areas": [
+      "Music & performance",
+      "Psychology & neuroscience",
+      "Mathematics & computing"
+    ],
+    "mode": "Perform & move",
+    "minutes": 15,
+    "materials": "A facilitator’s short neutral vocal pattern; the study’s published figures.",
+    "idea": "Pair the experience of coordinated singing with evidence about bodily timing.",
+    "steps": [
+      "Speak or hum a short neutral pattern at comfortable volume.",
+      "Repeat with a shared conductor cue; offer a listening role.",
+      "Inspect the study’s published breathing and heart-rate figures."
+    ],
+    "output": "A description separating heard coordination from measured physiology.",
+    "note": "Use ordinary breathing. Classroom synchrony does not demonstrate shared consciousness, and no participant biosensors are required.",
+    "source": {
+      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2013.00334/full",
+      "label": "Vickhoff et al. · original study"
+    },
+    "status": "Proposed teaching adaptation",
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "clapping",
+    "title": "Keep one pattern; shift another",
+    "object": "Steve Reich · Clapping Music (1972)",
+    "areas": [
+      "Music & performance",
+      "Mathematics & computing",
+      "Movement & sport"
+    ],
+    "mode": "Perform & move",
+    "minutes": 20,
+    "materials": "Authorized score or recording; an instructor-made beginner pattern.",
+    "idea": "Let musical structure become a problem of attention, timing and relation.",
+    "steps": [
+      "Hear a passage of Reich’s work.",
+      "Keep one simple pattern fixed while a second group shifts its starting point.",
+      "Draw the repeating cycle and mark the return to alignment."
+    ],
+    "output": "A cycle diagram linked to the performed pattern.",
+    "note": "The beginner exercise is an adaptation, not a reproduction of the score. Tapping or visual cue tracking can replace clapping.",
+    "source": {
+      "url": "https://stevereich.com/composition/clapping-music/",
+      "label": "Steve Reich · composer’s notes"
+    },
+    "status": "Proposed teaching adaptation",
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "trance",
+    "title": "Collective trance: music, movement and context",
+    "object": "Healing Dance Music of the Kalahari San · Smithsonian Folkways",
+    "areas": [
+      "Anthropology & society",
+      "Religion & philosophy",
+      "Music & performance"
+    ],
+    "mode": "Listen & watch",
+    "minutes": 40,
+    "materials": "Licensed recording or available preview; album notes.",
+    "idea": "Treat trance as a serious subject of cultural and musical inquiry.",
+    "steps": [
+      "Identify the people, occasion and documentation behind the recording.",
+      "Trace the musical features described in the notes alongside the recording.",
+      "Separate participant meanings, the recorder’s interpretation and physiological hypotheses."
+    ],
+    "output": "A three-column evidence account tied to specific moments.",
+    "note": "The recording documents a particular healing tradition. A listening session does not recreate it. A practitioner-led campus event would require an invitation, collaboration and agreed terms.",
+    "source": {
+      "url": "https://folkways.si.edu/healing-dance-music-of-the-kalahari-san/world/album/smithsonian",
+      "label": "Smithsonian Folkways · recording and album notes"
+    },
+    "status": "Proposed teaching adaptation",
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "ritual-data",
+    "title": "Read a collective event as data",
+    "object": "Konvalinka et al. · Synchronized arousal in a fire-walking ritual (2011)",
+    "areas": [
+      "Anthropology & society",
+      "Psychology & neuroscience",
+      "Mathematics & computing"
+    ],
+    "mode": "Test & model",
+    "minutes": 30,
+    "materials": "Published graphs and methods; no live ritual reenactment.",
+    "idea": "Bring ethnography and quantitative analysis into the same class.",
+    "steps": [
+      "Locate the performers and spectator groups in the study design.",
+      "Mark the shared time patterns in published heart-rate plots.",
+      "Distinguish correlation, social relationship and the authors’ interpretation."
+    ],
+    "output": "An annotated figure with a bounded claim.",
+    "note": "Use the published case, not classroom fire-walking. Physiological synchrony does not by itself establish collective trance or one group mind.",
+    "source": {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3100954/",
+      "label": "Konvalinka et al. · original research"
+    },
+    "status": "Proposed teaching adaptation",
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "attention",
+    "title": "Catch reading competing with color",
+    "object": "J. R. Stroop · Studies of interference in serial verbal reactions (1935)",
+    "areas": [
+      "Psychology & neuroscience",
+      "Literature & languages",
+      "Learning & access"
+    ],
+    "mode": "Test & model",
+    "minutes": 15,
+    "materials": "Instructor-made congruent and incongruent color-word sheets.",
+    "idea": "Make automaticity and attention immediately observable.",
+    "steps": [
+      "Name colors on a short practice sheet.",
+      "Compare congruent and incongruent sheets with order varied across volunteers.",
+      "Record aggregate time and errors, then identify practice and language effects."
+    ],
+    "output": "A simple results table and a limitations note.",
+    "note": "Offer the published dataset or a non-color analysis role. The exercise is not an intelligence test; color perception and reading fluency affect participation.",
+    "source": {
+      "url": "https://psychclassics.yorku.ca/Stroop/",
+      "label": "Stroop · original article"
+    },
+    "status": "Proposed teaching adaptation",
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "blind-spot",
+    "title": "Make a mark disappear",
+    "object": "Exploratorium · Blind Spot",
+    "areas": [
+      "Natural sciences",
+      "Psychology & neuroscience",
+      "Art & making"
+    ],
+    "mode": "Test & model",
+    "minutes": 15,
+    "materials": "A dot-and-cross card; ruler; source demonstration.",
+    "idea": "Connect the physical eye with a constructed visual experience.",
+    "steps": [
+      "Follow the museum’s dot-and-cross demonstration.",
+      "Mark the viewing distance at which the dot disappears.",
+      "Compare the observation with the source’s retinal explanation."
+    ],
+    "output": "A labeled diagram of the setup and a description of the effect.",
+    "note": "Offer diagram analysis as an alternative. This demonstration is not a vision screening.",
+    "source": {
+      "url": "https://www.exploratorium.edu/snacks/blind-spot",
+      "label": "Exploratorium · science demonstration"
+    },
+    "status": "Proposed teaching adaptation",
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "paper",
+    "title": "Think with a strip of paper",
+    "object": "Lygia Clark · Caminhando (Walking)",
+    "areas": [
+      "Art & making",
+      "Mathematics & computing",
+      "Religion & philosophy"
+    ],
+    "mode": "Make & curate",
+    "minutes": 25,
+    "materials": "Paper strips, tape and scissors; artwork documentation.",
+    "idea": "An object can make choice and embodied action visible.",
+    "steps": [
+      "Study Clark’s documented work.",
+      "Make and cut a paper Möbius strip as a clearly labeled classroom response.",
+      "Record how each action changes the available next action."
+    ],
+    "output": "The altered paper form with an action sequence.",
+    "note": "Use pre-cut forms or a partner cutting role where useful. The response is not the original artwork or evidence for a specific consciousness theory.",
+    "source": {
+      "url": "https://www.moma.org/artists/27445-lygia-clark",
+      "label": "Caminhando (Walking)"
+    },
+    "status": "Proposed teaching adaptation",
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "jikji-object",
+    "title": "Mind as a printed object",
+    "object": "Jikji · surviving 1377 metal-type edition",
+    "areas": [
+      "Archives & history",
+      "Religion & philosophy",
+      "Art & making",
+      "Literature & languages"
+    ],
+    "mode": "Make & curate",
+    "minutes": 35,
+    "materials": "Digital facsimile or authorized reproduction; English translation.",
+    "idea": "Connect Buddhist teaching, typography, material history and transmission.",
+    "steps": [
+      "Inspect a reproduced page and the fuller title.",
+      "Read a short translated passage beside the page.",
+      "Write a museum label distinguishing the teaching from the printing history."
+    ],
+    "output": "A 100-word object label with source and translation credits.",
+    "note": "Use reproductions; do not imply a campus holding of the original. Jikji is the oldest surviving movable-metal-type book, not the first printing of any kind.",
+    "source": {
+      "url": "https://www.bnf.fr/fr/le-jikji-un-tresor-de-limprimerie",
+      "label": "Jikji: the book and its printing history"
+    },
+    "status": "Proposed teaching adaptation",
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "translations",
+    "title": "Translate heart, mind and self",
+    "object": "MIND(s) · multilingual word collection and dictionaries",
+    "areas": [
+      "Literature & languages",
+      "Religion & philosophy",
+      "Learning & access"
+    ],
+    "mode": "Read & compare",
+    "minutes": 30,
+    "materials": "Three dictionary records; human recordings; source-language readers if available.",
+    "idea": "Make translation a campus-wide contribution rather than a decorative word list.",
+    "steps": [
+      "Choose three documented terms.",
+      "List the senses supported by each dictionary.",
+      "Translate a short instructor-selected sentence and annotate what each choice loses."
+    ],
+    "output": "A small bilingual or multilingual translation display.",
+    "note": "Do not treat a dictionary gloss as an entire culture’s philosophy. Contributions from fluent readers need credit.",
+    "source": {
+      "url": "https://krdict.korean.go.kr/eng/dicSearch/SearchView?ParaWordNo=20911",
+      "label": "마음 maeum: Korean lexical record"
+    },
+    "status": "Proposed teaching adaptation",
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "signed",
+    "title": "Mind in a signed language",
+    "object": "HandSpeak · ASL MIND; ASL University · THINK",
+    "areas": [
+      "Literature & languages",
+      "Learning & access",
+      "Music & performance"
+    ],
+    "mode": "Listen & watch",
+    "minutes": 25,
+    "materials": "Provider-hosted demonstrations; captions and written definitions.",
+    "idea": "Bring language, movement and access into the theme.",
+    "steps": [
+      "View a documented sign and its explanation.",
+      "Describe handshape, location and movement using the source.",
+      "Compare the meaning with an English dictionary entry."
+    ],
+    "output": "An annotated account of one sign, with its provider credited.",
+    "note": "For instruction and participant practice, involve a qualified ASL educator. ASL is not universal sign language; a sign’s location is not a signer’s theory of mind.",
+    "source": {
+      "url": "https://www.handspeak.com/word/1385/",
+      "label": "MIND in American Sign Language"
+    },
+    "status": "Proposed teaching adaptation",
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "dialogue",
+    "title": "Put the mind–body dispute on stage",
+    "object": "Elisabeth of Bohemia and Descartes · correspondence (1643)",
+    "areas": [
+      "Religion & philosophy",
+      "Music & performance",
+      "Literature & languages"
+    ],
+    "mode": "Perform & move",
+    "minutes": 30,
+    "materials": "Authorized translated excerpts; role cards based on the text.",
+    "idea": "Let theatre clarify an argument and its stakes.",
+    "steps": [
+      "Assign readers the two correspondents and a textual narrator.",
+      "Read an exchange without rewriting its claims.",
+      "Restage it with pauses marking premises, objections and replies."
+    ],
+    "output": "An annotated performance script.",
+    "note": "The staging is interpretive. Keep the historical participants’ claims separate from newly written commentary.",
+    "source": {
+      "url": "https://plato.stanford.edu/entries/elisabeth-bohemia/",
+      "label": "Stanford Encyclopedia · Elisabeth of Bohemia"
+    },
+    "status": "Proposed teaching adaptation",
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "dream-film",
+    "title": "Make two versions of one awakening",
+    "object": "Zhuangzi · butterfly dream",
+    "areas": [
+      "Art & making",
+      "Literature & languages",
+      "Religion & philosophy"
+    ],
+    "mode": "Make & curate",
+    "minutes": 40,
+    "materials": "Chapter 2 in translation; storyboard paper or a phone camera.",
+    "idea": "Use film form to examine how certainty is produced.",
+    "steps": [
+      "Read the dream episode closely.",
+      "Storyboard the same moment from two viewpoints.",
+      "Label the framing or editing choice that changes the apparent identity."
+    ],
+    "output": "Two six-frame storyboards or brief silent sequences.",
+    "note": "Identify the translation and label the film as an adaptation. A simulation interpretation is not the text’s established conclusion.",
+    "source": {
+      "url": "https://ctext.org/zhuangzi/adjustment-of-controversies/ens",
+      "label": "Zhuangzi, chapter 2: the butterfly dream"
+    },
+    "status": "Proposed teaching adaptation",
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "skill",
+    "title": "Watch skilled action become intelligible",
+    "object": "Zhuangzi · Cook Ding; a simple coached movement",
+    "areas": [
+      "Movement & sport",
+      "Music & performance",
+      "Religion & philosophy"
+    ],
+    "mode": "Perform & move",
+    "minutes": 25,
+    "materials": "Chapter 3; a low-impact movement or instrumental phrase chosen by a facilitator.",
+    "idea": "Connect athletic and musical expertise with philosophical accounts of skill.",
+    "steps": [
+      "Read the description of Cook Ding’s practice.",
+      "Observe an experienced performer demonstrate one simple movement.",
+      "Compare the performer’s explanation with a novice’s sequence description."
+    ],
+    "output": "A close comparison of text and demonstration.",
+    "note": "Use seated or observational participation. The example is an analogy, not proof that one philosophy explains all expertise.",
+    "source": {
+      "url": "https://ctext.org/zhuangzi/nourishing-the-lord-of-life",
+      "label": "Zhuangzi, chapter 3: Nourishing the Lord of Life"
+    },
+    "status": "Proposed teaching adaptation",
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "sport",
+    "title": "Annotate attention in a sporting action",
+    "object": "Visual attention in basketball shooting · research review",
+    "areas": [
+      "Movement & sport",
+      "Psychology & neuroscience",
+      "Mathematics & computing"
+    ],
+    "mode": "Listen & watch",
+    "minutes": 30,
+    "materials": "An authorized or consented demonstration video; published study diagrams.",
+    "idea": "Give athletics a substantive role in thinking about perception and training.",
+    "steps": [
+      "Mark phases of a shot in a short recording.",
+      "Compare the annotations with the review’s account of visual attention.",
+      "Distinguish a visible head direction from a measured eye movement."
+    ],
+    "output": "A video annotation and measurement plan.",
+    "note": "Video alone is not eye tracking. This is not a prescription to change an athlete’s technique.",
+    "source": {
+      "url": "https://journals.sagepub.com/doi/10.1177/17479541221075740",
+      "label": "Research of visual attention in basketball shooting: A systematic review with meta-analysis"
+    },
+    "status": "Proposed teaching adaptation",
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "framing",
+    "title": "Hold the numbers steady; change the words",
+    "object": "Tversky & Kahneman · The Framing of Decisions and the Psychology of Choice (1981)",
+    "areas": [
+      "Economics & public life",
+      "Mathematics & computing",
+      "Psychology & neuroscience"
+    ],
+    "mode": "Test & model",
+    "minutes": 25,
+    "materials": "Two instructor-written equivalent budget scenarios; private response slips.",
+    "idea": "Connect judgment with public communication and quantitative reasoning.",
+    "steps": [
+      "Verify that both scenarios have identical numerical outcomes.",
+      "Present one framing to each group and record anonymous choices.",
+      "Reveal the alternate wording and compare the results with the paper."
+    ],
+    "output": "A numerical equivalence check and aggregate choice table.",
+    "note": "A small classroom result may differ from published findings. Avoid treating political disagreement as a cognitive defect.",
+    "source": {
+      "url": "https://stanford.edu/class/psych205/papers/Tversky-Kahneman-1981.pdf",
+      "label": "Tversky & Kahneman · original paper"
+    },
+    "status": "Proposed teaching adaptation",
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "social-self",
+    "title": "Read the self through a social world",
+    "object": "W. E. B. Du Bois · The Souls of Black Folk",
+    "areas": [
+      "Anthropology & society",
+      "Economics & public life",
+      "Literature & languages",
+      "Music & performance"
+    ],
+    "mode": "Read & compare",
+    "minutes": 40,
+    "materials": "Opening chapter and an authorized musical example from The Sorrow Songs.",
+    "idea": "Connect mind with history, power, identity and musical form.",
+    "steps": [
+      "Trace the opening chapter’s account of double consciousness.",
+      "Locate a musical or formal feature in the work.",
+      "Write a passage-based comparison of individual experience and social judgment."
+    ],
+    "output": "A short textual analysis with precise references.",
+    "note": "Do not require personal disclosure or ask students to represent a racial group. Preserve the historical specificity of the concept.",
+    "source": {
+      "url": "https://www.gutenberg.org/files/408/408-h/408-h.htm",
+      "label": "The Souls of Black Folk"
+    },
+    "status": "Proposed teaching adaptation",
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "receptor",
+    "title": "Build the scale between molecule and action",
+    "object": "RCSB PDB-101 · Acetylcholine Receptor",
+    "areas": [
+      "Natural sciences",
+      "Psychology & neuroscience",
+      "Art & making"
+    ],
+    "mode": "Make & curate",
+    "minutes": 30,
+    "materials": "The receptor’s structure viewer or printed diagram; modeling materials.",
+    "idea": "Give chemistry and biochemistry a concrete object in the study of mind.",
+    "steps": [
+      "Locate the binding site and membrane channel in the model.",
+      "Arrange a sequence from transmitter binding to channel opening.",
+      "Mark the explanatory gap between this mechanism and a complete account of experience."
+    ],
+    "output": "A molecular-to-cellular diagram with explicit scale labels.",
+    "note": "A molecular model explains a mechanism, not consciousness as a whole. Use a physical or printed model when the viewer is inaccessible.",
+    "source": {
+      "url": "https://pdb101-east.rcsb.org/motm/71",
+      "label": "RCSB PDB-101 · Acetylcholine Receptor"
+    },
+    "status": "Proposed teaching adaptation",
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "cells",
+    "title": "Read coordination without a brain",
+    "object": "Levin and collaborators · information structures in aneural tissues",
+    "areas": [
+      "Natural sciences",
+      "Mathematics & computing",
+      "Religion & philosophy"
+    ],
+    "mode": "Test & model",
+    "minutes": 35,
+    "materials": "Published figures; a small instructor-made network dataset.",
+    "idea": "Connect living organization with the language of cognition.",
+    "steps": [
+      "Identify what the study actually measures.",
+      "Draw a network from the sample dataset.",
+      "Separate measured coordination from a claim about felt experience."
+    ],
+    "output": "An annotated network and two differently scoped claims.",
+    "note": "The sample is an instructional model, not tissue data. No live biological experiment is proposed here.",
+    "source": {
+      "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012149",
+      "label": "Revealing non-trivial information structures in aneural biological tissues via functional connectivity"
+    },
+    "status": "Proposed teaching adaptation",
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "machine",
+    "title": "Compare performance with a claim to experience",
+    "object": "Alan Turing · Computing Machinery and Intelligence",
+    "areas": [
+      "Mathematics & computing",
+      "Religion & philosophy",
+      "Economics & public life"
+    ],
+    "mode": "Read & compare",
+    "minutes": 35,
+    "materials": "Turing’s article; instructor-written illustrative transcripts.",
+    "idea": "Make computing part of the common course without equating fluency with consciousness.",
+    "steps": [
+      "Read Turing’s test proposal.",
+      "Compare two clearly labeled illustrative transcripts against stated criteria.",
+      "Write separate conclusions about performance and subjective experience."
+    ],
+    "output": "A test specification with a limits statement.",
+    "note": "Synthetic transcripts must be labeled. No private student writing needs to be sent to an AI system.",
+    "source": {
+      "url": "https://www.csee.umbc.edu/courses/471/papers/turing.pdf",
+      "label": "Turing · 1950 article"
+    },
+    "status": "Proposed teaching adaptation",
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "mind-tools",
+    "title": "Take the notebook seriously",
+    "object": "Clark & Chalmers · The Extended Mind",
+    "areas": [
+      "Mathematics & computing",
+      "Learning & access",
+      "Religion & philosophy"
+    ],
+    "mode": "Test & model",
+    "minutes": 20,
+    "materials": "Short paper excerpt; a notebook or task checklist.",
+    "idea": "Bring everyday tools and accessibility into the philosophical account.",
+    "steps": [
+      "Read the paper’s notebook example.",
+      "Complete a short planning task with an external checklist.",
+      "Diagram the roles played by person, tool and environment."
+    ],
+    "output": "A system diagram and a passage-based argument.",
+    "note": "This is an illustration of a disputed thesis, not a test proving that tools are conscious.",
+    "source": {
+      "url": "https://home.cs.colorado.edu/~mozer/Teaching/syllabi/CogSci/readings/ClarkChalmers1998.pdf",
+      "label": "Clark & Chalmers · The Extended Mind"
+    },
+    "status": "Proposed teaching adaptation",
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "soundwalk",
+    "title": "Make a record of directed attention",
+    "object": "William James · attention; a campus soundwalk",
+    "areas": [
+      "Environment & place",
+      "Music & performance",
+      "Psychology & neuroscience"
+    ],
+    "mode": "Perform & move",
+    "minutes": 25,
+    "materials": "A brief James excerpt; a chosen accessible location; notebook.",
+    "idea": "Let place, sound and attention enter the same observation.",
+    "steps": [
+      "Listen briefly without a recording device.",
+      "Repeat while attending to one sound category.",
+      "Compare the two written inventories."
+    ],
+    "output": "Two sound inventories with a note on the change of method.",
+    "note": "Offer a stationary indoor location and a visual observation alternative. The exercise illustrates attention; it does not prove a restorative effect of nature.",
+    "source": {
+      "url": "https://www.yorku.ca/pclassic/James/Principles/prin11.htm",
+      "label": "William James · Principles of Psychology, chapter XI: Attention"
+    },
+    "status": "Proposed teaching adaptation",
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "deep-time",
+    "title": "Infer a mind from an object",
+    "object": "Smithsonian · early tools, images and instruments",
+    "areas": [
+      "Environment & place",
+      "Archives & history",
+      "Natural sciences",
+      "Art & making"
+    ],
+    "mode": "Make & curate",
+    "minutes": 30,
+    "materials": "Museum object records and images; material or replica examples if available.",
+    "idea": "Connect archaeology, material evidence and the limits of interpretation.",
+    "steps": [
+      "Choose one documented early object.",
+      "Describe its observable features before interpreting them.",
+      "Write separate labels for a supported capacity and an uncertain belief."
+    ],
+    "output": "A two-part museum label distinguishing evidence and inference.",
+    "note": "Do not present an object as a transcript of its maker’s beliefs or living peoples as replicas of prehistoric societies.",
+    "source": {
+      "url": "https://humanorigins.si.edu/evidence/behavior",
+      "label": "Smithsonian · behavioral evidence"
+    },
+    "status": "Proposed teaching adaptation",
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "hyecho",
+    "title": "Compare observation and interpretation on a journey",
+    "object": "Hyecho’s pilgrimage account · translation credited to Matty Wegehaupt and collaborators",
+    "areas": [
+      "Archives & history",
+      "Literature & languages",
+      "Religion & philosophy",
+      "Environment & place"
+    ],
+    "mode": "Read & compare",
+    "minutes": 35,
+    "materials": "Authorized translated passage and the Michigan project’s context.",
+    "idea": "Connect travel, religious practice and the limits of knowing other people.",
+    "steps": [
+      "Read a short passage with its translation credit.",
+      "Mark direct observation separately from reported information and interpretation.",
+      "Compare the account with the project’s historical explanation."
+    ],
+    "output": "A source-based annotation suitable for a small exhibition.",
+    "note": "Confirm the edition and excerpt access. This is a proposal to use the published work, not an endorsement by the project’s contributors.",
+    "source": {
+      "url": "https://hyecho-buddhist-pilgrim.asian.lsa.umich.edu/about.php",
+      "label": "Hyecho’s pilgrimage account — translation and teaching context"
+    },
+    "status": "Proposed teaching adaptation",
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "archive",
+    "title": "Curate a campus history of attention",
+    "object": "Lawrence’s Lux · public concert programs and archival collections",
+    "areas": [
+      "Archives & history",
+      "Music & performance",
+      "Anthropology & society"
+    ],
+    "mode": "Make & curate",
+    "minutes": 45,
+    "materials": "Three public items selected from Lux with a librarian or archivist.",
+    "idea": "Make the campus’s own intellectual and performance history part of MIND(s).",
+    "steps": [
+      "Choose three public objects around one practice, such as recital preparation or collective listening.",
+      "Record creator, date, audience and context for each.",
+      "Write an exhibition introduction linking the objects through an explicit argument."
+    ],
+    "output": "A three-object exhibition proposal.",
+    "note": "The linked catalog identifies collections, not a preselected set of objects. Selection and reuse terms still need checking; no private records are included.",
+    "source": {
+      "url": "https://lux.lawrence.edu/communities.html",
+      "label": "Lux · public collections directory"
+    },
+    "status": "Proposed teaching adaptation",
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "mindful-reading",
+    "title": "Observe attention during a short reading",
+    "object": "Dhammapada · verses on mind",
+    "areas": [
+      "Religion & philosophy",
+      "Learning & access",
+      "Literature & languages"
+    ],
+    "mode": "Read & compare",
+    "minutes": 15,
+    "materials": "A credited translation of verses 33–43; a neutral short prose passage.",
+    "idea": "Pair a text on mental cultivation with a modest observation of attention.",
+    "steps": [
+      "Read the selected verses in their Buddhist context.",
+      "Read the prose silently for two minutes, noting a return of attention if it occurs.",
+      "Distinguish the textual teaching from this classroom observation."
+    ],
+    "output": "A private observation note and a textual annotation.",
+    "note": "Participation can be textual only. This is not a therapeutic intervention or a complete Buddhist meditation practice.",
+    "source": {
+      "url": "https://suttacentral.net/dhp33-43/en/sujato",
+      "label": "Dhammapada 33–43: Cittavagga"
+    },
+    "status": "Proposed teaching adaptation",
+    "checked": "2026-10-10"
+  }
+]
