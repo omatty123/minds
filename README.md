@@ -1,6 +1,6 @@
 # MIND(s)
 
-Public working proposal for a future Lawrence University First-Year Studies theme. The first edition includes a ten-week model syllabus and 20 annotated sources. It is an independent faculty proposal, not an adopted curriculum.
+Public working proposal for a future Lawrence University First-Year Studies theme. The first edition includes a ten-week model syllabus and an expanding annotated source collection. It is an independent faculty proposal, not an adopted curriculum.
 
 Live address after successful deployment: https://omatty123.github.io/minds/
 
@@ -41,3 +41,5 @@ No confidential strategy, student information, personal correspondence or inferr
 ## Verification of the first edition
 
 Local automated checks cover stable source IDs, seven core works, eight requested disciplinary areas, all required bank fields, internal pages and fragments, and matching source/published JSON. Browser checks cover 1440px and 390px layouts, source filters, empty/reset states, query persistence, fragment opening, print generation, no-JavaScript source access and browser errors. Screenshots and QA output stay local in the ignored `.impeccable/` directory.
+
+October 10, 2026 addition: Cade Metz’s AI-agent correspondence article and Hyecho’s pilgrimage account, with translation credit and proposed teaching context. The attached newspaper text is not republished.

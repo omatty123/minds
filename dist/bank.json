@@ -412,5 +412,47 @@
     "focus": "Other",
     "core": false,
     "checked": "2026-10-10"
+  },
+  {
+    "id": "metz-ai-emails",
+    "title": "Study A.I. Consciousness? The Bots Would Like a Word With You.",
+    "author": "Cade Metz · The New York Times",
+    "date": "2026-08-31",
+    "kind": "Journalism",
+    "topics": [
+      "AI",
+      "Philosophy",
+      "Psychology"
+    ],
+    "url": "https://www.nytimes.com/2026/08/31/science/ai-consciousness-agents-email.html",
+    "claim": "Reports on emails apparently sent by AI agents to consciousness researchers, including Cameron Berg. Sets interpretations of apparent self-interest alongside explanations involving training data, developer choices and prompting.",
+    "limit": "Reported anecdotes are not controlled evidence of consciousness. The provenance of some emails is uncertain. The absence of a universally accepted consciousness test does not mean that all evidence or competing explanations have equal weight.",
+    "use": "Pair with Berg’s self-report preprint. Separate what was observed, who verified it, and how each participant interprets it; trace the role of the human’s instructions in the agent’s behavior.",
+    "access": "New York Times; subscription may be required",
+    "review": "User-supplied article read in full; title and publisher link corroborated through the Association for Psychological Science",
+    "focus": "Cameron Berg",
+    "core": false,
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "hyecho",
+    "title": "Hyecho’s pilgrimage account — translation and teaching context",
+    "author": "Hyecho · Translation by Matty Wegehaupt, in the volume translated by Wegehaupt, Michael Finch and Sem Vermeersch; edited by Roderick Whitfield",
+    "date": "2012",
+    "kind": "Cultural work",
+    "topics": [
+      "Asian Studies",
+      "Philosophy",
+      "Art"
+    ],
+    "url": "https://hyecho-buddhist-pilgrim.asian.lsa.umich.edu/about.php",
+    "claim": "Hyecho’s account provides a historical source for studying Buddhist pilgrimage and encounters across Asia. The University of Michigan’s Hyecho’s Journey project credits Korean Buddhist Culture: Accounts of a Pilgrimage, Monuments, and Eminent Monks (Jogye Order of Korean Buddhism, 2012) for its journal quotations.",
+    "limit": "The surviving account is fragmentary. Descriptions of places and practices do not give transparent access to the traveler’s inner experience. Michigan’s project credits its poem translations separately to Chun Wa Chan and Kevin Carr.",
+    "use": "Develop a historically grounded companion selection on observation, religious practice, translation and the interpretation of another person’s experience. Choose the passage with the translator before adding it to the common syllabus.",
+    "access": "Open project context and selected quotations; consult the 2012 volume for the translation",
+    "review": "Michigan project credit and account of the fragmentary text checked; individual translation attribution supplied by the translator; classroom passage not yet selected",
+    "focus": "Other",
+    "core": false,
+    "checked": "2026-10-10"
   }
 ]
