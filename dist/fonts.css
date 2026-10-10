@@ -1,18 +1,4 @@
 @font-face {
-  font-family: 'Besley';
-  font-style: normal;
-  font-weight: 600;
-  font-display: swap;
-  src: url(fonts/besley-600.ttf) format('truetype');
-}
-@font-face {
-  font-family: 'Besley';
-  font-style: normal;
-  font-weight: 700;
-  font-display: swap;
-  src: url(fonts/besley-700.ttf) format('truetype');
-}
-@font-face {
   font-family: 'Public Sans';
   font-style: normal;
   font-weight: 400;

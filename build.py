@@ -66,5 +66,5 @@ participate='''<div class="page-title"><h1>Shape the proposal.</h1><p class="sta
 page('participate.html','Take part',participate)
 shutil.copyfile(ROOT/'bank.json',OUT/'bank.json')
 (OUT/'.nojekyll').touch()
-(OUT/'favicon.svg').write_text('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" fill="#bd1622"/><text x="32" y="46" font-family="Georgia,serif" font-weight="bold" font-size="45" fill="white" text-anchor="middle">M</text></svg>')
+(OUT/'favicon.svg').write_text('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" fill="#bd1622"/><text x="32" y="46" font-family="Arial,Helvetica,sans-serif" font-weight="bold" font-size="45" fill="white" text-anchor="middle">M</text></svg>')
 print('Built 4 pages and',len(DATA),'source entries.')

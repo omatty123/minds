@@ -11,13 +11,13 @@ colors:
   masthead-accent: "#f15b65"
 typography:
   headline:
-    fontFamily: "Besley, Georgia, serif"
+    fontFamily: "Public Sans, Arial, sans-serif"
     fontSize: "clamp(2.45rem, 4.7vw, 4.4rem)"
     fontWeight: 600
     lineHeight: 1.15
     letterSpacing: "-.035em"
   section:
-    fontFamily: "Besley, Georgia, serif"
+    fontFamily: "Public Sans, Arial, sans-serif"
     fontSize: "clamp(1.6rem, 2.4vw, 2rem)"
     fontWeight: 600
     lineHeight: 1.3
@@ -46,7 +46,7 @@ components:
 
 ## Overview
 
-MIND(s) uses a compact journalism layout: a black masthead, white reading surfaces, red emphasis, serif headlines and sans-serif working text. The user explicitly selected the black, white and red journalism direction and direct code construction. The specific measurements and component treatments below document the implementation; they are not additional recorded user approvals.
+MIND(s) uses a compact journalism layout: a black masthead, white reading surfaces, red emphasis, sans-serif typography throughout. The user explicitly selected the black, white and red journalism direction and direct code construction. The specific measurements and component treatments below document the implementation; they are not additional recorded user approvals.
 
 This document describes `dist/style.css`, `dist/app.js` and the four HTML pages: proposal, model syllabus, learning bank and participation. The shared system favors readable source records, visible limits and direct navigation. It uses typography and rules without decorative imagery or animation.
 
@@ -58,7 +58,7 @@ Red marks primary actions, active navigation, source types and editorial rules. 
 
 ## Typography
 
-Besley supplies the wordmark, main headings, section headings and research titles. Public Sans supplies paragraphs, navigation, controls and metadata. Both have system fallbacks. Headings normally use weight 600; the wordmark uses 700. Paragraph leading is generous while metadata remains compact.
+Public Sans supplies every text role: wordmark, headings, research titles, paragraphs, navigation, controls and metadata. Arial and sans-serif are the fallbacks. Serif type is prohibited unless the user explicitly requests a specific exception. Headings normally use weight 600; the wordmark uses 700. Paragraph leading is generous while metadata remains compact.
 
 Let headings wrap naturally. Do not add decorative line breaks or constrain their width to strand short phrases. The desktop opening title remains on one line above 1100px; mobile overrides its size. Keep the distinction between reading text and smaller publication metadata.
 
@@ -101,4 +101,4 @@ Controls, panels and labels have square corners. Thin straight rules are the rec
 - Do not add decorative imagery, gradients, shadows or oversized introductory areas to fill space.
 - Do not present the selected learning bank as an exhaustive inventory or the faculty proposal as an adopted curriculum.
 
-Local review record, 10 October 2026: all four pages were reviewed at 1440px and 390px, with captures in `.impeccable/review/`. The independent finish reviewer reported **SHIP**, with no material findings and the mobile table note above. This records that review disposition, not institutional or user approval of every design detail.
+Local review record, 10 October 2026: all four pages were reviewed at 1440px and 390px, with captures in `.impeccable/review/`. Before the user’s subsequent sans-serif correction, the independent finish reviewer reported **SHIP**, with no material findings and the mobile table note above. This records that review disposition, not institutional or user approval of every design detail.

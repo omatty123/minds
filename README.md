@@ -9,7 +9,7 @@ Live address after successful deployment: https://omatty123.github.io/minds/
 - `build.py` generates four HTML pages from the authored page content and `bank.json`.
 - `bank.json` is the source of truth for the learning bank. Every record has a stable ID, source URL, evidence category, review depth, check date, teaching use and limit.
 - `dist/style.css` and `dist/app.js` are authored source files, not disposable build output.
-- `dist/fonts/` contains self-hosted Besley and Public Sans files with their SIL Open Font Licenses. Fonts came from Google Fonts; no remote font requests are needed.
+- `dist/fonts/` contains self-hosted Public Sans files with their SIL Open Font Licenses. Fonts came from Google Fonts; no remote font requests are needed.
 - `PRODUCT.md` records scope and user choices. `DESIGN.md` describes the inspected design.
 
 Build and check with Python 3 and Node 22 or later:
