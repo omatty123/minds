@@ -909,5 +909,89 @@
     "access": "Open text",
     "core": false,
     "checked": "2026-10-10"
+  },
+  {
+    "id": "jikji-text",
+    "title": "Jikji: Essential Passages Pointing Directly to the Mind",
+    "author": "Baegun; translated by Eun-su Cho and John Jorgensen",
+    "date": "1377 / English edition 2020",
+    "kind": "Cultural work",
+    "topics": [
+      "Asian Studies",
+      "Philosophy",
+      "History"
+    ],
+    "url": "https://www.jokb.org/JIKJI-traduction-english.pdf",
+    "claim": "A Korean Buddhist compilation presents teachings on mind and awakening. This English edition gives access to the work beyond its importance as a printed object.",
+    "limit": "The 1377 metal-type edition survives only in its second volume. Translation choices and religious vocabulary require contextual reading.",
+    "use": "Opening encounter with the title and book; proposed week-3 companion: translators’ introduction, beginning on printed page 5. Select a short primary-text passage after further review.",
+    "review": "Title, publication information and contents inspected; full translation not reviewed",
+    "focus": "Other",
+    "access": "Open English PDF from the Jogye Order; copyrighted translation",
+    "core": false,
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "jikji-history",
+    "title": "Jikji: the book and its printing history",
+    "author": "Bibliothèque nationale de France",
+    "date": "Undated",
+    "kind": "Institutional resource",
+    "topics": [
+      "Asian Studies",
+      "Philosophy",
+      "History"
+    ],
+    "url": "https://www.bnf.fr/fr/le-jikji-un-tresor-de-limprimerie",
+    "claim": "The BnF identifies the 1377 Cheongju edition as the oldest known surviving book printed with movable metal type, 78 years before Gutenberg’s Bible. It holds the surviving second volume.",
+    "limit": "This is a survival claim about a particular printing technology, not a claim that printing began in 1377.",
+    "use": "Establish the object, location, date and comparison with Gutenberg; follow the BnF link to the digitized volume.",
+    "review": "Institutional account read",
+    "focus": "Other",
+    "access": "Open institutional account in French, with links to the digitized object",
+    "core": false,
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "jikji-title",
+    "title": "From Jikji to Gutenberg: research on the books",
+    "author": "University of Utah, J. Willard Marriott Library",
+    "date": "Undated",
+    "kind": "Institutional resource",
+    "topics": [
+      "Asian Studies",
+      "Philosophy",
+      "History"
+    ],
+    "url": "https://jikji.utah.edu/research/",
+    "claim": "The project gives Jikji’s full title, its English rendering as The Essential Passages Pointing Directly to Mind, and its 1377 metal-type and 1378 woodblock editions.",
+    "limit": "The title establishes a direct textual connection to mind; it does not make Buddhist mind equivalent to a modern scientific concept.",
+    "use": "Connect the characters 直指心體 to translation, Buddhist practice and the material forms of the book.",
+    "review": "Jikji title and edition descriptions read",
+    "focus": "Other",
+    "access": "Open research overview",
+    "core": false,
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "printing-asia",
+    "title": "The History of Printing in Asia — Part 1",
+    "author": "Ryan Wolfson-Ford, Library of Congress",
+    "date": "2021-06-22",
+    "kind": "Institutional resource",
+    "topics": [
+      "Asian Studies",
+      "Philosophy",
+      "History"
+    ],
+    "url": "https://blogs.loc.gov/international-collections/2021/06/the-history-of-printing-in-asia-according-to-library-of-congress-asian-collections-part-1/",
+    "claim": "The Library of Congress places early printing in East Asia and describes Buddhist woodblock texts and Bi Sheng’s eleventh-century earthenware movable type.",
+    "limit": "Earlier printing history must be distinguished from the earliest surviving metal-type book. Routes of transmission to Europe remain uncertain.",
+    "use": "Place Jikji within an already substantial Asian printing history before comparing it with Gutenberg.",
+    "review": "Early printing and movable-type sections read",
+    "focus": "Other",
+    "access": "Open institutional article",
+    "core": false,
+    "checked": "2026-10-10"
   }
 ]
