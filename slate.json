@@ -1,0 +1,74 @@
+[
+  {
+    "id": "zhuangzi",
+    "weeks": "Weeks 1–2",
+    "title": "Zhuangzi · The Inner Chapters",
+    "form": "Early Chinese philosophical literature",
+    "sources": [
+      "zhuangzi-inner"
+    ],
+    "entry": "A butterfly dream, Cook Ding’s practiced movement, and the fasting of the heart-mind.",
+    "depth": "Perspective, transformation and the limits of fixed judgments. The stories make difficult philosophy available through concrete scenes.",
+    "selection": "The seven Inner Chapters. Robert Eno’s university-hosted translation supplies an accessible starting edition; compare translation choices before adoption."
+  },
+  {
+    "id": "dhammapada",
+    "weeks": "Week 3",
+    "title": "Dhammapada · Sayings of the Dhamma",
+    "form": "Early Buddhist verse in Pāli",
+    "sources": [
+      "dhammapada"
+    ],
+    "entry": "Brief verses describe an unsettled mind and the work of cultivating it.",
+    "depth": "Attention, desire, conduct and liberation. Read mental training within the work’s Buddhist purposes.",
+    "selection": "The complete short verse collection, with close reading of the opening and Cittavagga, verses 33–43. Proposed translation: Bhikkhu Sujato."
+  },
+  {
+    "id": "ghazali",
+    "weeks": "Week 4",
+    "title": "Al-Ghazālī · Deliverance from Error",
+    "form": "Islamic philosophical and spiritual autobiography",
+    "sources": [
+      "ghazali"
+    ],
+    "entry": "A scholar’s confidence in what he knows gives way to searching doubt.",
+    "depth": "Perception, reason, certainty and Sufi practice. A Persian author writing in Arabic develops an account that deserves study on its own terms.",
+    "selection": "The complete short work. Select a modern scholarly translation; the linked historical version enables an initial comparison."
+  },
+  {
+    "id": "descartes",
+    "weeks": "Week 5",
+    "title": "René Descartes · Meditations on First Philosophy",
+    "form": "Early modern European philosophy, written in Latin",
+    "sources": [
+      "descartes"
+    ],
+    "entry": "Dreaming and doubt unsettle ordinary certainty; the thinker examines what remains.",
+    "depth": "The thinking self, knowledge and embodiment. Compare the argument with al-Ghazālī without assuming either agreement or direct influence.",
+    "selection": "Meditations I, II and VI, with a short guide to III–V. The complete six meditations remain available for deeper reading."
+  },
+  {
+    "id": "dubois",
+    "weeks": "Weeks 6–7",
+    "title": "W. E. B. Du Bois · The Souls of Black Folk",
+    "form": "African American essays, history and music",
+    "sources": [
+      "dubois"
+    ],
+    "entry": "A person encounters the self through other people’s racialized judgments.",
+    "depth": "Double-consciousness, social recognition and the relation between inward life and public power. The Sorrow Songs make listening central.",
+    "selection": "Forethought and chapters I, III, XI, XIII and XIV. Retain the musical epigraphs and pair chapter XIV with historically contextualized recordings selected with music faculty."
+  },
+  {
+    "id": "soseki",
+    "weeks": "Weeks 8–10",
+    "title": "Natsume Sōseki · Kokoro",
+    "form": "Modern Japanese novel",
+    "sources": [
+      "soseki"
+    ],
+    "entry": "A young man tries to understand the private life of a person he calls Sensei.",
+    "depth": "Heart, mind, secrecy and responsibility. Narrative makes knowing another person a different undertaking from explaining a mechanism.",
+    "selection": "The complete novel over three weeks. Confirm the translation and divide readings by that edition. Its extended narrative gives the course time to develop and revise interpretations."
+  }
+]

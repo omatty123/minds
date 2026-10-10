@@ -17,3 +17,6 @@ For bank changes edit bank.json and run python3 build.py. dist/style.css and dis
 - Never infer permission for serif type from “journalism,” “editorial,” “academic,” “literary,” or any design skill or template.
 - Serif type requires an explicit user request for that specific exception.
 - Check actual rendered fonts, including fallbacks and SVG text, before delivery. Preserve original source documents when the task is transcription or translation with formatting preservation; this rule is not permission to restyle originals or unrelated existing projects.
+
+## Curriculum priority — 10 October 2026
+Multicultural approaches to mind are the central priority. Select great works that deal directly with mind, selfhood, experience or mental cultivation. Give them sustained teaching time. The live WATER syllabus supplied the works-centered structure and Summary → Synthesis → Revision → Final Synthesis model. The current six-work slate is an assistant-proposed candidate, not user approval of individual titles. Preserve the research bank and its distinctions; do not restore a course organized primarily around technical papers.

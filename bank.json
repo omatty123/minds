@@ -16,7 +16,7 @@
     "access": "Open source",
     "review": "Abstract and publication record checked",
     "focus": "Michael Levin",
-    "core": true,
+    "core": false,
     "checked": "2026-10-10"
   },
   {
@@ -78,7 +78,7 @@
     "access": "Open full text",
     "review": "Abstract and full-text structure checked",
     "focus": "Mark Solms",
-    "core": true,
+    "core": false,
     "checked": "2026-10-10"
   },
   {
@@ -140,7 +140,7 @@
     "access": "Open preprint",
     "review": "Abstract and publication record checked",
     "focus": "Cameron Berg",
-    "core": true,
+    "core": false,
     "checked": "2026-10-10"
   },
   {
@@ -265,7 +265,7 @@
     "access": "Open Chinese text and historical English translation",
     "review": "Primary-text passage checked",
     "focus": "Other",
-    "core": true,
+    "core": false,
     "checked": "2026-10-10"
   },
   {
@@ -285,7 +285,7 @@
     "access": "Open teaching text",
     "review": "Teaching text located; edition comparison pending",
     "focus": "Other",
-    "core": true,
+    "core": false,
     "checked": "2026-10-10"
   },
   {
@@ -306,7 +306,7 @@
     "access": "Recording availability and campus license must be confirmed",
     "review": "Composer discography and label record checked",
     "focus": "Other",
-    "core": true,
+    "core": false,
     "checked": "2026-10-10"
   },
   {
@@ -327,7 +327,7 @@
     "access": "Open museum text; reproduction rights vary",
     "review": "Museum collection essay checked",
     "focus": "Other",
-    "core": true,
+    "core": false,
     "checked": "2026-10-10"
   },
   {
@@ -452,6 +452,461 @@
     "access": "Open project context and selected quotations; consult the 2012 volume for the translation",
     "review": "Michigan project credit and account of the fragmentary text checked; individual translation attribution supplied by the translator; classroom passage not yet selected",
     "focus": "Other",
+    "core": false,
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "sacks-hat",
+    "title": "The Man Who Mistook His Wife for a Hat",
+    "author": "Oliver Sacks",
+    "date": "1985",
+    "kind": "Clinical narrative",
+    "topics": [
+      "Neuroscience",
+      "Psychology",
+      "Music"
+    ],
+    "url": "https://www.oliversacks.com/oliver-sacks-books/the-man-who-mistook-his-wife-for-a-hat/",
+    "claim": "Clinical stories connect perception, memory and identity with particular human lives. Proposed as the sustained narrative-neuroscience selection.",
+    "limit": "A clinician’s narrated cases are neither controlled experiments nor unmediated patient testimony. Read the narrator’s choices and historical language critically.",
+    "use": "Begin with the title narrative; develop a manageable selection on memory, bodily awareness and music after reviewing the full edition.",
+    "review": "Author’s official book record checked; complete edition and excerpt load still to review",
+    "focus": "Other",
+    "access": "Official book information and audio interview; obtain the book through library or purchase",
+    "core": false,
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "leguin-lathe",
+    "title": "The Lathe of Heaven",
+    "author": "Ursula K. Le Guin",
+    "date": "1971",
+    "kind": "Cultural work",
+    "topics": [
+      "Philosophy",
+      "Psychology",
+      "Literature"
+    ],
+    "url": "https://www.ursulakleguin.com/the-lathe-of-heaven",
+    "claim": "George Orr’s dreams change reality, and his psychiatrist tries to direct them. The proposed full novel brings dreaming, intervention and power into sustained literary study.",
+    "limit": "Fiction develops possibilities and consequences; it does not establish a mechanism of dreaming. Preserve the novel’s form and historical setting.",
+    "use": "Read the complete novel over two weeks. Return to the Zhuangzi dream passage while attending to the differences between the works.",
+    "review": "Author’s official synopsis and authorized chapter-10 excerpt checked; full-book teaching review pending",
+    "focus": "Other",
+    "access": "Official synopsis and authorized excerpt; full novel through library or purchase",
+    "core": false,
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "solms-spring",
+    "title": "The Hidden Spring: A Journey to the Source of Consciousness",
+    "author": "Mark Solms",
+    "date": "2021",
+    "kind": "Theory",
+    "topics": [
+      "Neuroscience",
+      "Psychology",
+      "Philosophy"
+    ],
+    "url": "https://profilebooks.com/work/the-hidden-spring/",
+    "claim": "A book for general readers develops Solms’s argument that conscious experience is rooted in feeling. It supplies a more approachable route into his technical research.",
+    "limit": "This is an argued account of consciousness, not an agreed solution. The later technical chapters require substantial guidance.",
+    "use": "Proposed selection: Introduction and chapters 1, 5 and 6, with a short bridge explaining omitted material. Keep the full technical argument in the learning bank.",
+    "review": "Publisher record, contents and introductory preview checked; complete selected chapters need teaching review",
+    "focus": "Mark Solms",
+    "access": "Publisher preview; full book through library or purchase",
+    "core": false,
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "plato-chariot",
+    "title": "Phaedrus, 246a–b: the soul’s chariot",
+    "author": "Plato; translation by Harold North Fowler",
+    "date": "4th century BCE",
+    "kind": "Cultural work",
+    "topics": [
+      "Philosophy",
+      "History"
+    ],
+    "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0174%3Atext%3DPhaedrus%3Apage%3D246",
+    "claim": "The charioteer and unequal horses offer an image of conflict within the soul. This is one ancient approach to agency, desire and self-direction.",
+    "limit": "Plato’s psychē is not simply the modern English mind. A short image needs the dialogue’s context, including its treatment of love.",
+    "use": "Use 246a–b as the opening passage, with context supplied from the dialogue; distinguish metaphor from literal anatomy.",
+    "review": "Perseus translation passage located and indexed text checked",
+    "focus": "Other",
+    "access": "Open source record or text",
+    "core": false,
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "zhuangzi-dream",
+    "title": "Zhuangzi, chapter 2: the butterfly dream",
+    "author": "Zhuangzi; translation by James Legge",
+    "date": "Ancient text",
+    "kind": "Cultural work",
+    "topics": [
+      "Asian Studies",
+      "Philosophy",
+      "Literature"
+    ],
+    "url": "https://ctext.org/zhuangzi/adjustment-of-controversies/ens",
+    "claim": "The concluding butterfly passage unsettles the relation between dreaming, identity and waking perspective.",
+    "limit": "The passage belongs to a larger argument about distinctions and transformation. It is not a statement that reality is simply unreal.",
+    "use": "Pair the concluding passage with chapter 3’s Cook Ding and revisit it alongside Le Guin. Compare a current translation before adopting Legge’s older wording.",
+    "review": "Chinese Text Project translation record and indexed concluding passage checked; direct fetch restricted",
+    "focus": "Other",
+    "access": "Open source record or text",
+    "core": false,
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "dhammapada-mind",
+    "title": "Dhammapada 33–43: Cittavagga",
+    "author": "Early Buddhist verse collection; translation by Bhikkhu Sujato",
+    "date": "Ancient text",
+    "kind": "Cultural work",
+    "topics": [
+      "Asian Studies",
+      "Philosophy",
+      "Poetry"
+    ],
+    "url": "https://suttacentral.net/dhp33-43/en/sujato",
+    "claim": "A short group of verses treats the restless mind and the work of training it. Pāli citta appears in a practical and ethical setting.",
+    "limit": "Do not turn a Buddhist liberation practice into a generic productivity technique. Citta is not interchangeable with every term translated as mind.",
+    "use": "Read the eleven verses with the linked Pāli text and translation. Keep their religious purpose visible.",
+    "review": "SuttaCentral translation record and indexed bilingual passages checked",
+    "focus": "Other",
+    "access": "Open source record or text",
+    "core": false,
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "egypt-heart",
+    "title": "Heart, mind and memory in the Greenfield Papyrus",
+    "author": "Ancient Egyptian funerary work; British Museum object EA10554,80",
+    "date": "c. 950–930 BCE",
+    "kind": "Cultural work",
+    "topics": [
+      "Art",
+      "History",
+      "Philosophy"
+    ],
+    "url": "https://www.britishmuseum.org/collection/object/Y_EA10554-80",
+    "claim": "The museum’s account identifies the heart as a location of mind and memory in ancient Egyptian understandings of a person.",
+    "limit": "This particular funerary source does not stand for all Egyptians at every period. Heart, personhood and afterlife belong to its religious setting.",
+    "use": "Begin with an actual object and its catalog description, then compare the place given to the heart with other ancient selections.",
+    "review": "Museum catalog’s indexed object description checked; direct fetch restricted",
+    "focus": "Other",
+    "access": "Museum catalog and object image; image reuse terms must be checked separately",
+    "core": false,
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "dickinson-funeral",
+    "title": "I felt a Funeral, in my Brain (340)",
+    "author": "Emily Dickinson",
+    "date": "19th century",
+    "kind": "Cultural work",
+    "topics": [
+      "Poetry",
+      "Psychology",
+      "Philosophy"
+    ],
+    "url": "https://www.poetryfoundation.org/poems/45706/i-felt-a-funeral-in-my-brain-340",
+    "claim": "A companion to The Brain—is wider than the Sky, selected for close attention to the language and sound of an interior experience.",
+    "limit": "Do not diagnose the poet or identify the poetic speaker with the author. Establish interpretation through the poem.",
+    "use": "Read both short poems in full, aloud and on the page; return to sound, syntax and changes of scale.",
+    "review": "Poetry Foundation text record and edition attribution checked; direct fetch restricted",
+    "focus": "Other",
+    "access": "Open source record or text",
+    "core": false,
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "word-mind",
+    "title": "mind: English word history",
+    "author": "Oxford Learner’s Dictionaries",
+    "date": "Reference entry",
+    "kind": "Language reference",
+    "topics": [
+      "Language",
+      "Philosophy"
+    ],
+    "url": "https://www.oxfordlearnersdictionaries.com/definition/english/mind_1",
+    "claim": "English mind comes through Old English gemynd, associated with memory and thought. Its Indo-European ancestry connects it with Latin mens and Sanskrit manas.",
+    "limit": "The history of this English word is not the origin of human thought or a universal definition of mind.",
+    "use": "Trace the word’s history alongside present uses such as remembering, paying attention and objecting.",
+    "review": "Dictionary entry and word-origin note checked",
+    "focus": "Other",
+    "access": "Open source record or text",
+    "core": false,
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "word-nous",
+    "title": "νόος / νοῦς: Greek lexical record",
+    "author": "Liddell–Scott–Jones, via Perseus Scaife ATLAS",
+    "date": "Reference entry",
+    "kind": "Language reference",
+    "topics": [
+      "Language",
+      "Philosophy"
+    ],
+    "url": "https://atlas.perseus.tufts.edu/dictionaries/entry/urn%3Acite2%3Ascaife-viewer%3Adictionaries.v1%3Alsj-n71023/",
+    "claim": "The dictionary records senses involving perception, thought and understanding for noos / nous.",
+    "limit": "Ancient Greek has several relevant terms. Nous is not a direct substitute for psychē, the soul in the Phaedrus passage.",
+    "use": "Distinguish an English translation from the specific Greek term an author uses.",
+    "review": "Indexed dictionary entry checked; direct fetch restricted",
+    "focus": "Other",
+    "access": "Open source record or text",
+    "core": false,
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "word-mens",
+    "title": "mens: Latin lexical record",
+    "author": "Lewis and Short, via Perseus Scaife ATLAS",
+    "date": "Reference entry",
+    "kind": "Language reference",
+    "topics": [
+      "Language",
+      "Philosophy"
+    ],
+    "url": "https://atlas.perseus.tufts.edu/dictionaries/entry/urn%3Acite2%3Ascaife-viewer%3Adictionary-entries.atlas_v1%3Alat.ls.perseus-eng2-n28694/",
+    "claim": "Mens can refer to mind, understanding and judgment.",
+    "limit": "Latin also uses animus and other terms with overlapping ranges; a gloss does not establish a single Latin theory of mind.",
+    "use": "Compare mens with the English adjective mental, while distinguishing etymological kinship from identical meaning.",
+    "review": "Indexed dictionary entry checked; direct fetch restricted",
+    "focus": "Other",
+    "access": "Open source record or text",
+    "core": false,
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "word-manas",
+    "title": "manas: Sanskrit lexical record",
+    "author": "Monier-Williams dictionary, via Sanskrit Dictionary",
+    "date": "Reference entry",
+    "kind": "Language reference",
+    "topics": [
+      "Language",
+      "Philosophy"
+    ],
+    "url": "https://www.sanskritdictionary.com/?q=manas",
+    "claim": "The lexical range includes thinking, intention and feeling. Manas is one of several Sanskrit terms used in accounts of mental life.",
+    "limit": "Its philosophical meaning depends on school and passage. Do not collapse manas, citta, consciousness and self into one term.",
+    "use": "Introduce manas beside the Pāli citta of the Dhammapada, identifying their distinct textual settings.",
+    "review": "Indexed dictionary entry checked; direct fetch restricted",
+    "focus": "Other",
+    "access": "Open source record or text",
+    "core": false,
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "word-xin",
+    "title": "心 xīn: Chinese lexical record",
+    "author": "Chinese Text Project dictionary",
+    "date": "Reference entry",
+    "kind": "Language reference",
+    "topics": [
+      "Language",
+      "Philosophy"
+    ],
+    "url": "https://ctext.org/dictionary.pl?char=%E5%BF%83&if=en",
+    "claim": "The dictionary connects the bodily heart with the organ of thinking in historical Chinese usage. Heart-mind is a useful translation cue.",
+    "limit": "A shared character does not imply one doctrine across Chinese traditions or across Chinese, Korean and Japanese.",
+    "use": "Keep heart and thinking together while reading an actual passage, rather than assigning China a single worldview.",
+    "review": "Indexed dictionary entry and cited Mengzi wording checked; direct fetch restricted",
+    "focus": "Other",
+    "access": "Open source record or text",
+    "core": false,
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "word-maeum",
+    "title": "마음 maeum: Korean lexical record",
+    "author": "National Institute of Korean Language",
+    "date": "Reference entry",
+    "kind": "Language reference",
+    "topics": [
+      "Language",
+      "Philosophy"
+    ],
+    "url": "https://krdict.korean.go.kr/eng/dicSearch/SearchView?ParaWordNo=20911",
+    "claim": "The Korean-English dictionary gives senses involving mind, heart, feeling and intention.",
+    "limit": "This is a modern usage entry, not an etymology or a complete account of Korean Buddhist or Confucian terminology.",
+    "use": "Compare ordinary uses and translation choices; distinguish modern Korean vocabulary from ancient-text terminology.",
+    "review": "National Institute dictionary entry checked",
+    "focus": "Other",
+    "access": "Open source record or text",
+    "core": false,
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "word-kokoro",
+    "title": "心 / こころ kokoro: Japanese lexical record",
+    "author": "JapanDict, using JMdict lexical data",
+    "date": "Reference entry",
+    "kind": "Language reference",
+    "topics": [
+      "Language",
+      "Philosophy"
+    ],
+    "url": "https://www.japandict.com/%E5%BF%83",
+    "claim": "The dictionary gives mind, heart and spirit among the English glosses for kokoro.",
+    "limit": "These are possible translations in context, not three components or one fixed Japanese philosophy.",
+    "use": "Compare the Japanese reading with Chinese xīn without assuming identical usage from a shared written character.",
+    "review": "Dictionary reading and English senses checked",
+    "focus": "Other",
+    "access": "Open source record or text",
+    "core": false,
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "zhuangzi-inner",
+    "title": "Zhuangzi: The Inner Chapters",
+    "author": "Traditionally attributed to Zhuang Zhou; translation by Robert Eno",
+    "date": "Ancient text",
+    "kind": "Cultural work",
+    "topics": [
+      "Asian Studies",
+      "Philosophy",
+      "Literature",
+      "Sport"
+    ],
+    "url": "https://scholarworks.iu.edu/iuswrrest/api/core/bitstreams/5dc89a23-c6bf-4190-a1e4-6762dc5359cc/content",
+    "claim": "Seven chapters address perspective, distinctions, transformation and cultivated action. Proposed as a sustained opening work.",
+    "limit": "Authorship and textual layers are debated. The translation includes interpretive choices and should be compared with another edition.",
+    "use": "Read the seven Inner Chapters over two weeks; return to the butterfly, Cook Ding and fasting of the heart-mind.",
+    "review": "University-hosted translator’s introduction and text inspected; full teaching review pending",
+    "focus": "Other",
+    "access": "Open text",
+    "core": true,
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "dhammapada",
+    "title": "Dhammapada / Sayings of the Dhamma",
+    "author": "Early Buddhist verse collection; translation by Bhikkhu Sujato",
+    "date": "Ancient text",
+    "kind": "Cultural work",
+    "topics": [
+      "Asian Studies",
+      "Philosophy",
+      "Poetry"
+    ],
+    "url": "https://suttacentral.net/edition/dhp/en/sujato",
+    "claim": "A sustained verse collection on conduct, mental cultivation and liberation, with a chapter devoted to citta.",
+    "limit": "This Pāli collection is one Buddhist work, not a statement of everything all Buddhist traditions teach.",
+    "use": "Read the collection with particular attention to the opening verses and chapter 3; preserve its ethical and religious purposes.",
+    "review": "SuttaCentral edition located; selected bilingual verses checked; complete teaching review pending",
+    "focus": "Other",
+    "access": "Open text",
+    "core": true,
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "ghazali",
+    "title": "Deliverance from Error / al-Munqidh min al-ḍalāl",
+    "author": "Abū Ḥāmid al-Ghazālī",
+    "date": "Early 12th century",
+    "kind": "Cultural work",
+    "topics": [
+      "Philosophy",
+      "Religious Studies",
+      "Literature"
+    ],
+    "url": "https://www.ghazali.org/books/md/gz101.htm",
+    "claim": "An intellectual and spiritual autobiography examines the reliability of perception and reason, and the pursuit of certainty through religious practice.",
+    "limit": "A medieval Persian Muslim scholar writing in Arabic does not represent a single Islamic mind. Avoid reducing his account to a precursor of Descartes.",
+    "use": "Read the short work in full, including its Sufi conclusion. Compare the historical public translation with a modern scholarly edition before adoption.",
+    "review": "Primary translation’s doubt and Sufi sections inspected; modern edition comparison pending",
+    "focus": "Other",
+    "access": "Open text",
+    "core": true,
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "descartes",
+    "title": "Meditations on First Philosophy",
+    "author": "René Descartes; translation by Ian Johnston",
+    "date": "1641",
+    "kind": "Cultural work",
+    "topics": [
+      "Philosophy",
+      "History"
+    ],
+    "url": "https://web.viu.ca/johnstoi/descartes/descartesmeditations.htm",
+    "claim": "The meditations examine doubt, the thinking self and the relation between mind and body.",
+    "limit": "The arguments concerning God and knowledge are part of the work, not disposable background. Comparison with al-Ghazālī does not establish historical influence.",
+    "use": "Read Meditations I, II and VI with a guide to the intervening argument; retain the full six meditations for extension.",
+    "review": "Translator’s edition and selected meditation text inspected",
+    "focus": "Other",
+    "access": "Open text",
+    "core": true,
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "dubois",
+    "title": "The Souls of Black Folk",
+    "author": "W. E. B. Du Bois",
+    "date": "1903",
+    "kind": "Cultural work",
+    "topics": [
+      "Literature",
+      "History",
+      "Music",
+      "Philosophy"
+    ],
+    "url": "https://www.gutenberg.org/files/408/408-h/408-h.htm",
+    "claim": "Double-consciousness connects the experience of self to the racialized judgment of others. The book also makes song integral to its account of Black life.",
+    "limit": "The concept belongs to specific histories of racism and emancipation. It is not a generic label for having two identities.",
+    "use": "Proposed sustained selection: Forethought and chapters I, III, XI, XIII and XIV, retaining the musical epigraphs and Sorrow Songs.",
+    "review": "Primary text, chapter headings, opening account of double-consciousness and Sorrow Songs inspected",
+    "focus": "Other",
+    "access": "Open text",
+    "core": true,
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "soseki",
+    "title": "Kokoro",
+    "author": "Natsume Sōseki",
+    "date": "1914",
+    "kind": "Cultural work",
+    "topics": [
+      "Asian Studies",
+      "Literature",
+      "Psychology"
+    ],
+    "url": "https://www.penguin.co.uk/books/178231/kokoro-by-soseki-natsume/9780143106036",
+    "claim": "A young narrator’s relationship with Sensei makes another person’s inner life a sustained problem of interpretation, set amid generational change in Japan.",
+    "limit": "The novel is not a dictionary definition of kokoro or a representative account of every Japanese person. Its treatment of suicide needs thoughtful teaching preparation.",
+    "use": "Read the complete novel over three weeks, relating the title’s heart/mind range to narrative voice, secrecy and moral responsibility.",
+    "review": "Publisher synopsis and edition record checked; complete novel and translation review pending",
+    "focus": "Other",
+    "access": "Publisher record; complete translated novel through library or purchase",
+    "core": true,
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "word-qalb",
+    "title": "Qalb and reasoning in Qur’an 22:46",
+    "author": "Quranic Arabic Corpus",
+    "date": "Reference to Qur’an 22:46",
+    "kind": "Language reference",
+    "topics": [
+      "Language",
+      "Religious Studies",
+      "Philosophy"
+    ],
+    "url": "https://corpus.quran.com/wordbyword.jsp?chapter=22&verse=46",
+    "claim": "The verse places hearts and reasoning together; the corpus identifies qulūb, the plural of qalb, and a verb of reasoning.",
+    "limit": "One verse is a contextual example, not a complete dictionary or an account of every Arabic term for mind.",
+    "use": "Introduce the relation of heart and understanding before reading al-Ghazālī. Distinguish qalb from terms associated with intellect and self.",
+    "review": "Indexed grammatical analysis and translated verse checked",
+    "focus": "Other",
+    "access": "Open text",
     "core": false,
     "checked": "2026-10-10"
   }

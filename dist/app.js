@@ -22,3 +22,8 @@ if(controls){
  window.addEventListener('hashchange',revealHash);
  window.addEventListener('popstate',()=>{readURL();filter(false);revealHash();});
 }
+
+// Include the proposed readings in print while preserving the screen disclosure state.
+let printDetails=[];
+window.addEventListener('beforeprint',()=>{printDetails=[...document.querySelectorAll('.slate-work details:not([open])')];for(const d of printDetails)d.open=true;});
+window.addEventListener('afterprint',()=>{for(const d of printDetails)d.open=false;printDetails=[];});

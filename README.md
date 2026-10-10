@@ -7,6 +7,7 @@ Live address after successful deployment: https://omatty123.github.io/minds/
 ## Work on the site
 
 - `build.py` generates four HTML pages from the authored page content and `bank.json`.
+- `syllabus-content.html` contains the syllabus prose; `slate.json` defines the six sustained works. `build.py` renders the slate, language comparison and proposed pacing.
 - `bank.json` is the source of truth for the learning bank. Every record has a stable ID, source URL, evidence category, review depth, check date, teaching use and limit.
 - `dist/style.css` and `dist/app.js` are authored source files, not disposable build output.
 - `dist/fonts/` contains self-hosted Public Sans files with their SIL Open Font Licenses. Fonts came from Google Fonts; no remote font requests are needed.
@@ -34,12 +35,14 @@ The first research pass is dated October 10, 2026. It is a selected collection, 
 
 Keep original publication date separate from verification date and preprint revision date. State whether a note rests on an abstract, a full text or a catalog entry. A journal publication is not automatically an empirical result. Include counterarguments. Never imply that neural complexity, adaptive behavior or AI self-report alone proves consciousness.
 
-The seven core works are a discussion draft. Confirm exact scientific excerpts, editions, recording access, workload and current institutional policies before adoption. The public 2024 announcement suggests a possible fall 2028 transition, but the schedule and selection process remain unconfirmed.
+The six sustained works in `slate.json` are a multicultural discussion draft. Confirm exact scientific excerpts, editions, recording access, workload and current institutional policies before adoption. The 2024 four-year announcement and current works-page label 2024–27 need reconciliation; the transition and selection process remain unconfirmed.
 
 No confidential strategy, student information, personal correspondence or inferred faculty endorsements belong in this repository. Public contributions use GitHub issues.
 
 ## Verification of the first edition
 
-Local automated checks cover stable source IDs, seven core works, eight requested disciplinary areas, all required bank fields, internal pages and fragments, and matching source/published JSON. Browser checks cover 1440px and 390px layouts, source filters, empty/reset states, query persistence, fragment opening, print generation, no-JavaScript source access and browser errors. Screenshots and QA output stay local in the ignored `.impeccable/` directory.
+Local automated checks cover stable source IDs, six sustained works and matching bank labels, eight requested disciplinary areas, all required bank fields, internal pages and fragments, and matching source/published JSON. Browser checks cover 1440px and 390px layouts, source filters, empty/reset states, query persistence, fragment opening, print generation, no-JavaScript source access and browser errors. Screenshots and QA output stay local in the ignored `.impeccable/` directory.
 
 October 10, 2026 addition: Cade Metz’s AI-agent correspondence article and Hyecho’s pilgrimage account, with translation credit and proposed teaching context. The attached newspaper text is not republished.
+
+October 10, 2026 syllabus revision: checked the live WATER syllabus and its full six-selection slate. Replaced the initial research-survey syllabus with a multicultural great-works model, nine language entries, ancient sources, recurring arts/practice encounters, and the WATER section’s proposed writing structure. Prior syllabus remains in Git at 0dddcf3. Source review depth remains visible; selected editions and workload are not yet fully reviewed.
