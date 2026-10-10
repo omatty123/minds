@@ -6,10 +6,11 @@ Live address after successful deployment: https://omatty123.github.io/minds/
 
 ## Work on the site
 
-- `build.py` generates five HTML pages from the authored page content and `bank.json`.
+- `build.py` generates six HTML pages from the authored page content and `bank.json`.
 - `syllabus-content.html` contains the syllabus prose; `slate.json` defines the six sustained works. `build.py` renders the slate, language comparison and proposed pacing.
 - `mind-words.json` contains the pronunciation collection and audio attribution. `mind_words_page.py` renders it; `dist/mind-words.js` and `.css` provide the player and layout. Audio files are credited individually; human voices only.
 - `semantic-clusters.json` defines eight selected, overlapping meaning clusters. `mind_atlas.py` adds these, signed-language resources and three visual studies to the pronunciation page; `dist/mind-atlas.css` and `.js` provide their responsive layout and interactions. Dictionary links and audio references come from `mind-words.json`.
+- `history.json` contains 44 global-history accounts, separate from the learning bank. `history_page.py` renders `dist/history.html`; `dist/history.css` and `dist/history.js` provide its layout and filters. The build publishes an unchanged copy of the index as `dist/history.json`.
 - `bank.json` is the source of truth for the learning bank. Every record has a stable ID, source URL, evidence category, review depth, check date, teaching use and limit.
 - `dist/style.css` and `dist/app.js` are authored source files, not disposable build output.
 - `dist/fonts/` contains self-hosted Public Sans files with their SIL Open Font Licenses. Fonts came from Google Fonts; no remote font requests are needed.
@@ -61,3 +62,11 @@ Local browser review checked cluster selection, Korean audio, BSL playback, imag
 October 10, 2026 body-location explorer: `mind-words.html#body` adds eight selected accounts in three evidence layers: Research, Language & gestures, and Historical beliefs. `body-locations.json` supplies the accounts; `body_map.py` renders them; `dist/body-map.css` and `dist/body-map.js` supply layout and selection. See `research/body-locations.md` for research scope. Head and chest markers are schematic, with no anatomical or frequency scale. Korean 마음’s heart gesture is attributed to Matty Wegehaupt’s observation; its dictionary source supports meanings, not gesture prevalence.
 
 Local QA covered all eight selections and three layers at 1440px and 390px, marker/panel/pressed-state agreement, no horizontal overflow, rendered sans-serif fonts and all eight panels without JavaScript. The independent finish reviewer reported SHIP for the scoped screenshots and code. This addition is local only at `/Users/wegehaum/Documents/ChatGPT/META/minds/dist/mind-words.html#body`; live deployment has not yet been verified.
+
+## Global history — 10 October 2026
+
+The global history contains 44 selected accounts, nine recurring comparison themes and six broad period groups. Search, region, tradition or approach, discipline, theme and period filters combine; their state is shareable through URL query parameters. Account headings and “Link to this account” use stable fragments. With JavaScript, a direct account link opens its source details and clears conflicting filters. Without JavaScript, all accounts and native expandable source details remain available; filtering controls are unavailable.
+
+Each account identifies a work or encounter, interpretation, limits, source links and review depth. The overview and themes are editorial comparisons, not a universal classification or a progression toward modern science. Review depth varies from selected passages and specialist overviews to abstracts, museum records and explicitly reused learning-bank notes. See `research/global-history-method.md` for retrieval limits and priority gaps, including further African, Indigenous American and Pacific traditions, Australian Aboriginal traditions, Southeast and Central Asia, Tibetan traditions, additional religious schools, women’s intellectual histories, disability and neurodiversity.
+
+Local QA covered 1440px and 390px layouts, filters, empty/reset states, URL persistence, direct account links, no horizontal overflow, rendered sans-serif fonts and source access without JavaScript. The scoped independent finish reviewer reported SHIP. This addition is local only at `/Users/wegehaum/Documents/ChatGPT/META/minds/dist/history.html`; live deployment has not yet been verified.

@@ -1,0 +1,1252 @@
+[
+  {
+    "id": "before-writing",
+    "date": "Before written records",
+    "era": "Before writing",
+    "region": "Multiple regions",
+    "tradition": "Archaeological evidence",
+    "disciplines": [
+      "Archaeology",
+      "Art",
+      "Music"
+    ],
+    "themes": [
+      "life",
+      "relations"
+    ],
+    "title": "Minds before surviving explanations",
+    "answer": "Tools, images, instruments and burials preserve evidence of human capacities long before written theories of mind.",
+    "depth": "Making and using objects can reveal planning, skill, social learning and symbolic activity. Archaeologists reason from material traces; those traces rarely specify their makers’ exact account of a self or soul.",
+    "work": "Encounter: the Smithsonian’s collection of behavioral evidence, including tools, art and music.",
+    "limit": "A burial is not a transcript of belief. Living oral traditions are not fossils of prehistory.",
+    "sources": [
+      {
+        "url": "https://humanorigins.si.edu/evidence/behavior",
+        "label": "Smithsonian · behavioral evidence",
+        "review": "Museum overview checked"
+      }
+    ],
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "egypt",
+    "date": "c. 1550–1200 BCE objects",
+    "era": "Ancient accounts",
+    "region": "Africa",
+    "tradition": "Egyptian religious traditions",
+    "disciplines": [
+      "Religion",
+      "Art",
+      "Medicine"
+    ],
+    "themes": [
+      "heart",
+      "self"
+    ],
+    "title": "The heart remembers a life",
+    "answer": "Egyptian heart amulets connect intelligence, feeling, memory and conduct with the heart.",
+    "depth": "In funerary judgment the heart could testify about a person’s deeds. Protecting it was therefore also a concern with identity and moral accountability. An object makes a complex account of the person tangible.",
+    "work": "Encounter: New Kingdom heart amulets and the Weighing of the Heart.",
+    "limit": "The museum account concerns a funerary setting; Egyptian ideas changed across periods and texts.",
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/art/collection/search/689621",
+        "label": "The Met · heart amulets",
+        "review": "Museum object record checked"
+      }
+    ],
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "mesopotamia",
+    "date": "First millennium BCE textual tradition",
+    "era": "Ancient accounts",
+    "region": "West Asia & North Africa",
+    "tradition": "Mesopotamian healing traditions",
+    "disciplines": [
+      "Medicine",
+      "Religion"
+    ],
+    "themes": [
+      "body",
+      "heart"
+    ],
+    "title": "Distress receives names",
+    "answer": "Akkadian diagnostic texts describe changes in thought and feeling within a medical and religious account of illness.",
+    "depth": "A study of the Diagnostic Handbook traces recurring descriptions translated as depression, heartbreak and an altered mind. Therapeutic texts also invoke ghosts and witchcraft. Symptoms and explanations must be distinguished.",
+    "work": "Encounter: descriptions in the Akkadian Diagnostic Handbook, through a specialist study.",
+    "limit": "Modern translations such as “depression” do not establish equivalence with a modern diagnosis.",
+    "sources": [
+      {
+        "url": "https://ora.ox.ac.uk/objects/uuid%3A96f4ebba-4e1c-4250-b96e-4c14d545646e",
+        "label": "Oxford research archive · diagnostic texts",
+        "review": "Research abstract checked"
+      }
+    ],
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "upanishads",
+    "date": "First millennium BCE; dating debated",
+    "era": "Ancient accounts",
+    "region": "South Asia",
+    "tradition": "Upanishadic & Hindu traditions",
+    "disciplines": [
+      "Philosophy",
+      "Religion"
+    ],
+    "themes": [
+      "awareness",
+      "self"
+    ],
+    "title": "The knowing behind thought",
+    "answer": "The Kena Upanishad distinguishes the mind’s thinking from that which makes thinking possible.",
+    "depth": "Knowing is not treated simply as possession of an object. The text directs attention toward Brahman and the limits of ordinary perception and thought. Later Hindu schools interpret self and ultimate reality in substantially different ways.",
+    "work": "Great work: Kena Upanishad; compare the Katha Upanishad in the same volume.",
+    "limit": "The linked 1919 edition is Swami Paramananda’s translation and commentary, with its own theological perspective; its historical introduction is not our dating authority.",
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/3283/pg3283-images.html",
+        "label": "Kena Upanishad · Paramananda translation",
+        "review": "Selected passage checked"
+      }
+    ],
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "buddhism",
+    "date": "First millennium BCE onward",
+    "era": "Ancient accounts",
+    "region": "South Asia",
+    "tradition": "Buddhist traditions",
+    "disciplines": [
+      "Philosophy",
+      "Religion",
+      "Psychology"
+    ],
+    "themes": [
+      "process",
+      "practice"
+    ],
+    "title": "Mental life without a permanent owner",
+    "answer": "Buddhist accounts analyze changing experience and challenge attachment to an enduring, independent self.",
+    "depth": "Indian Buddhist schools developed different accounts of consciousness, cognition and mental factors. Analysis serves a practical concern: understanding the conditions of suffering and liberation. “No self” does not mean that experiences or ethical consequences simply disappear.",
+    "work": "Great works: Dhammapada; Vasubandhu’s Treasury of Higher Knowledge for a later systematic account.",
+    "limit": "This overview concerns selected Indian Buddhist debates. It cannot stand for all Buddhist schools or later Asian developments.",
+    "sources": [
+      {
+        "url": "https://plato.stanford.edu/entries/mind-indian-buddhism/",
+        "label": "Stanford Encyclopedia · Indian Buddhist mind",
+        "review": "Specialist overview, relevant sections checked"
+      }
+    ],
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "jainism",
+    "date": "First millennium BCE onward",
+    "era": "Ancient accounts",
+    "region": "South Asia",
+    "tradition": "Jain traditions",
+    "disciplines": [
+      "Philosophy",
+      "Religion",
+      "Ethics"
+    ],
+    "themes": [
+      "self",
+      "practice"
+    ],
+    "title": "Living beings as knowing selves",
+    "answer": "Jain accounts treat living beings as jīvas, selves whose knowledge is obstructed by karmic matter.",
+    "depth": "Liberation involves disentangling the self from karmic bondage. Nonviolence, restraint and knowledge belong to the same project. This differs sharply from Buddhist criticism of a permanent self, despite shared settings and concerns.",
+    "work": "Encounter: the Uttarādhyayana and later Jain accounts of knowledge and many-sidedness.",
+    "limit": "Jain schools and texts differ; “soul” is an approximate translation of jīva.",
+    "sources": [
+      {
+        "url": "https://plato.stanford.edu/entries/jaina-philosophy/",
+        "label": "Stanford Encyclopedia · Jaina philosophy",
+        "review": "Specialist overview, relevant sections checked"
+      }
+    ],
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "hippocratic",
+    "date": "Late fifth–fourth century BCE",
+    "era": "Ancient accounts",
+    "region": "Europe & Mediterranean",
+    "tradition": "Hippocratic medicine",
+    "disciplines": [
+      "Medicine",
+      "Neuroscience"
+    ],
+    "themes": [
+      "body"
+    ],
+    "title": "A bodily explanation of altered experience",
+    "answer": "On the Sacred Disease argues that the illness it discusses has a natural cause and assigns major mental functions to the brain.",
+    "depth": "Pleasure, sorrow, perception and understanding enter a bodily account. Its physiology is ancient, yet the text demonstrates that natural explanation is not a purely modern invention.",
+    "work": "Great work: On the Sacred Disease, in the Hippocratic corpus.",
+    "limit": "Traditional attribution to Hippocrates does not establish individual authorship. Its account of epilepsy is not current medicine.",
+    "sources": [
+      {
+        "url": "https://classics.mit.edu/Hippocrates/sacred.html",
+        "label": "Hippocratic corpus · translated text",
+        "review": "Relevant indexed passages checked"
+      }
+    ],
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "plato",
+    "date": "Fourth century BCE",
+    "era": "Ancient accounts",
+    "region": "Europe & Mediterranean",
+    "tradition": "Greek philosophical traditions",
+    "disciplines": [
+      "Philosophy",
+      "Literature"
+    ],
+    "themes": [
+      "self",
+      "practice"
+    ],
+    "title": "The soul contains competing impulses",
+    "answer": "Plato’s Phaedrus uses a charioteer and two horses to portray tensions within the soul.",
+    "depth": "Reason, aspiration and unruly desire become intelligible through a dramatic image. The dialogue connects the account with love, beauty and the direction of a life. Its literary form is part of the argument.",
+    "work": "Great work: Phaedrus, especially 246a onward.",
+    "limit": "A philosophical image is not a diagram of anatomical parts. Plato’s dialogues develop more than one account of soul.",
+    "sources": [
+      {
+        "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0174%3Atext%3DPhaedrus%3Apage%3D246",
+        "label": "Perseus · Phaedrus 246a",
+        "review": "Existing learning-bank passage"
+      }
+    ],
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "mengzi",
+    "date": "Fourth–third centuries BCE",
+    "era": "Ancient accounts",
+    "region": "East Asia",
+    "tradition": "Confucian traditions",
+    "disciplines": [
+      "Philosophy",
+      "Ethics",
+      "Education"
+    ],
+    "themes": [
+      "heart",
+      "practice"
+    ],
+    "title": "Understanding grows with character",
+    "answer": "Mengzi connects the development of the heart-mind with understanding human nature.",
+    "depth": "Xīn includes capacities that English often separates into thinking and feeling. The account belongs to moral cultivation: understanding oneself is connected to the kind of person one becomes, not only to acquiring information.",
+    "work": "Great work: Mengzi, especially Jin Xin I, opening passage.",
+    "limit": "Mengzi offers one influential position. Confucian thinkers disagree about nature, learning and cultivation.",
+    "sources": [
+      {
+        "url": "https://ctext.org/mengzi/jin-xin-i/zh",
+        "label": "Chinese Text Project · Mengzi",
+        "review": "Indexed opening passage checked; full-page retrieval intermittent"
+      }
+    ],
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "zhuangzi",
+    "date": "Fourth–third centuries BCE core; later compilation",
+    "era": "Ancient accounts",
+    "region": "East Asia",
+    "tradition": "Daoist traditions",
+    "disciplines": [
+      "Philosophy",
+      "Literature",
+      "Sport & skill"
+    ],
+    "themes": [
+      "process",
+      "practice"
+    ],
+    "title": "Dreams and skill unsettle certainty",
+    "answer": "Zhuangzi uses changing perspectives, dreams and practiced movement to disturb confidence in fixed identities and judgments.",
+    "depth": "The butterfly dream makes waking identity less secure. Elsewhere, Cook Ding’s trained movement offers a way to consider intelligence in action. Stories do philosophical work through shifts in perspective.",
+    "work": "Great work: Zhuangzi, chapters 2 and 3.",
+    "limit": "These episodes support several interpretations. They do not amount to a modern scientific claim that reality is a simulation.",
+    "sources": [
+      {
+        "url": "https://ctext.org/zhuangzi/adjustment-of-controversies/ens",
+        "label": "Chinese Text Project · chapter 2",
+        "review": "Selected passage checked"
+      }
+    ],
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "aristotle",
+    "date": "Fourth century BCE",
+    "era": "Ancient accounts",
+    "region": "Europe & Mediterranean",
+    "tradition": "Greek philosophical traditions",
+    "disciplines": [
+      "Philosophy",
+      "Biology"
+    ],
+    "themes": [
+      "life",
+      "body"
+    ],
+    "title": "Mind belongs within an account of life",
+    "answer": "Aristotle studies soul through the capacities of living things, including nutrition, perception and thought.",
+    "depth": "Psychē is broader than modern English “mind.” In On the Soul, the soul is the actuality of a living body, rather than simply another object inside it. The status of intellect introduces further interpretive difficulties.",
+    "work": "Great work: On the Soul, Book II; then Book III on thinking.",
+    "limit": "Calling this either modern materialism or straightforward body–soul dualism loses important distinctions.",
+    "sources": [
+      {
+        "url": "https://classics.mit.edu/Aristotle/soul.2.ii.html",
+        "label": "On the Soul · J. A. Smith translation",
+        "review": "Selected passage checked"
+      }
+    ],
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "yoga",
+    "date": "Early centuries CE; dating debated",
+    "era": "Ancient accounts",
+    "region": "South Asia",
+    "tradition": "Sāṃkhya & Yoga traditions",
+    "disciplines": [
+      "Philosophy",
+      "Religion",
+      "Psychology"
+    ],
+    "themes": [
+      "awareness",
+      "practice"
+    ],
+    "title": "Still mental activity to distinguish the seer",
+    "answer": "Classical Yoga distinguishes changing mental activity from puruṣa, the conscious seer.",
+    "depth": "Citta, often translated as mind, belongs to the changing processes of nature. Concentration and disciplined practice aim at liberation. This distinction makes it especially misleading to translate every relevant term simply as “mind.”",
+    "work": "Great work: Patañjali’s Yoga Sūtras, with commentary.",
+    "limit": "Classical Yoga is a specific philosophical tradition; it is not interchangeable with all Hindu thought or modern postural yoga.",
+    "sources": [
+      {
+        "url": "https://iep.utm.edu/yoga/",
+        "label": "Internet Encyclopedia of Philosophy · Yoga",
+        "review": "Specialist overview, relevant passages checked"
+      }
+    ],
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "augustine",
+    "date": "c. 397–400 CE",
+    "era": "Ancient accounts",
+    "region": "Africa",
+    "tradition": "Christian traditions",
+    "disciplines": [
+      "Religion",
+      "Philosophy",
+      "Literature"
+    ],
+    "themes": [
+      "self",
+      "awareness"
+    ],
+    "title": "Memory becomes a study of the self",
+    "answer": "Augustine examines memory, desire and the difficulty of knowing oneself in an address to God.",
+    "depth": "Confessions combines autobiography with philosophical and theological investigation. Memory contains images, learning and emotions, yet the person who remembers cannot fully comprehend that capacity. The form of the work makes self-examination part of the inquiry.",
+    "work": "Great work: Confessions, Book X.",
+    "limit": "This is Augustine’s Christian account, not a summary of all Christian traditions or a clinical case history.",
+    "sources": [
+      {
+        "url": "https://www.newadvent.org/fathers/110110.htm",
+        "label": "Confessions X · translated text",
+        "review": "Selected passage checked"
+      }
+    ],
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "judaism",
+    "date": "Late-antique compilation; earlier teachings",
+    "era": "Ancient accounts",
+    "region": "West Asia & North Africa",
+    "tradition": "Jewish traditions",
+    "disciplines": [
+      "Religion",
+      "Philosophy"
+    ],
+    "themes": [
+      "life",
+      "self"
+    ],
+    "title": "An unseen soul sustains the body",
+    "answer": "A passage in Berakhot compares the soul’s relation to the body with God’s relation to the world.",
+    "depth": "The analogy describes an unseen, sustaining presence. It is theological reasoning within a rabbinic discussion, not an anatomical localization. Jewish writings contain multiple terms and accounts of life, spirit, intellect and soul.",
+    "work": "Encounter: Babylonian Talmud, Berakhot 10a.",
+    "limit": "One rabbinic passage does not define Judaism’s single theory of mind. English “soul” does not erase differences among Hebrew terms.",
+    "sources": [
+      {
+        "url": "https://www.sefaria.org/Berakhot.10a?lang=en",
+        "label": "Sefaria · Berakhot 10a",
+        "review": "Passage checked in indexed translation"
+      }
+    ],
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "islamic-philosophy",
+    "date": "Ninth–twelfth centuries CE",
+    "era": "500–1500",
+    "region": "West Asia & North Africa",
+    "tradition": "Islamic philosophical traditions",
+    "disciplines": [
+      "Philosophy",
+      "Medicine",
+      "Religion"
+    ],
+    "themes": [
+      "self",
+      "awareness"
+    ],
+    "title": "Intellect within a science of the soul",
+    "answer": "Arabic-writing philosophers examined sensation, imagination and intellect within broader accounts of soul and life.",
+    "depth": "Thinkers including al-Kindī, al-Rāzī and Ibn Sīnā engaged Greek philosophical and medical traditions while developing distinct positions. For Ibn Sīnā, self-awareness helps distinguish soul from bodily perception. Translation and disagreement are part of this history.",
+    "work": "Encounter: Ibn Sīnā’s writings on soul; the “flying person” thought experiment.",
+    "limit": "Arabic philosophy includes diverse religious affiliations. These thinkers did not share one Islamic model.",
+    "sources": [
+      {
+        "url": "https://plato.stanford.edu/entries/arabic-islamic-mind/",
+        "label": "Stanford Encyclopedia · Arabic and Islamic mind",
+        "review": "Specialist overview, relevant sections checked"
+      }
+    ],
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "ghazali",
+    "date": "Early twelfth century CE",
+    "era": "500–1500",
+    "region": "West Asia & North Africa",
+    "tradition": "Islamic & Sufi traditions",
+    "disciplines": [
+      "Religion",
+      "Philosophy",
+      "Literature"
+    ],
+    "themes": [
+      "awareness",
+      "practice"
+    ],
+    "title": "Certainty must be tested and lived",
+    "answer": "Al-Ghazali subjects inherited belief, sense perception and reasoning to scrutiny, then describes the importance of Sufi practice.",
+    "depth": "Deliverance from Error recounts an intellectual and spiritual crisis. Dreams expose the possibility that apparent certainty can fail. Knowing through disciplined experience is distinguished from merely describing that experience.",
+    "work": "Great work: Deliverance from Error.",
+    "limit": "This is a crafted retrospective account and theological argument, not a neutral report of all Muslim intellectual life.",
+    "sources": [
+      {
+        "url": "https://www.ghazali.org/books/md/gz101.htm",
+        "label": "Deliverance from Error · translated text",
+        "review": "Selected passage checked"
+      }
+    ],
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "jikji",
+    "date": "1377 CE surviving metal-type edition",
+    "era": "500–1500",
+    "region": "East Asia",
+    "tradition": "Korean Seon Buddhist traditions",
+    "disciplines": [
+      "Religion",
+      "Philosophy",
+      "Media history"
+    ],
+    "themes": [
+      "awareness",
+      "practice"
+    ],
+    "title": "Pointing to mind, printing a book",
+    "answer": "Jikji places Buddhist teachings about mind within the early history of movable-metal-type printing.",
+    "depth": "Compiled by Baegun, the work gathers teachings associated with Buddhist patriarchs. Its fuller title includes “pointing directly” and mind. The surviving 1377 volume precedes Gutenberg’s Bible; it is the oldest surviving book printed with movable metal type, not the invention of all printing.",
+    "work": "Great work: Jikji; read selected passages alongside its physical and printing history.",
+    "limit": "Printing technology and Buddhist claims about realization are distinct kinds of evidence.",
+    "sources": [
+      {
+        "url": "https://www.bnf.fr/fr/le-jikji-un-tresor-de-limprimerie",
+        "label": "Bibliothèque nationale de France · Jikji",
+        "review": "Existing bank record; institutional history checked"
+      }
+    ],
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "nahua",
+    "date": "Fifteenth–sixteenth centuries; colonial records",
+    "era": "1500–1800",
+    "region": "Americas",
+    "tradition": "Nahua traditions",
+    "disciplines": [
+      "Philosophy",
+      "Education",
+      "Poetry"
+    ],
+    "themes": [
+      "heart",
+      "relations"
+    ],
+    "title": "A person develops a face and heart",
+    "answer": "Accounts of Nahua education connect personhood with cultivating judgment, character and a capable heart.",
+    "depth": "The paired imagery of face and heart places self-formation within education and communal life. Poetry and skilled expression are part of the philosophical record. Much surviving evidence passed through colonial recording and translation.",
+    "work": "Encounter: accounts of education preserved in Sahagún’s Florentine Codex, with specialist interpretation.",
+    "limit": "This is a scholarly reconstruction from uneven sources, not a universal Indigenous philosophy or an unmediated precolonial voice.",
+    "sources": [
+      {
+        "url": "https://iep.utm.edu/aztec-philosophy/",
+        "label": "Internet Encyclopedia of Philosophy · Aztec philosophy",
+        "review": "Specialist overview, education section checked"
+      }
+    ],
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "sikh",
+    "date": "Sixteenth-century hymn; scripture compiled 1604",
+    "era": "1500–1800",
+    "region": "South Asia",
+    "tradition": "Sikh traditions",
+    "disciplines": [
+      "Religion",
+      "Poetry",
+      "Music"
+    ],
+    "themes": [
+      "awareness",
+      "practice"
+    ],
+    "title": "Mind addressed through sacred verse",
+    "answer": "A hymn in the Guru Granth Sahib addresses mind in relation to divine light, pride and recognition of its origin.",
+    "depth": "The passage combines direct address, teaching and musical-poetic form. Transformation involves the Guru’s instruction and a changed relation to ego. Its devotional setting matters as much as an isolated philosophical gloss.",
+    "work": "Great work: Guru Granth Sahib, ang 441.",
+    "limit": "The English rendering is an interpretation. A single hymn cannot summarize Sikh accounts of mind.",
+    "sources": [
+      {
+        "url": "https://www.srigranth.org/servlet/gurbani.gurbani?Action=Page&Param=441",
+        "label": "Sri Granth · ang 441",
+        "review": "Selected passage checked"
+      }
+    ],
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "descartes",
+    "date": "1637 CE",
+    "era": "1500–1800",
+    "region": "Europe & Mediterranean",
+    "tradition": "Early modern rationalism",
+    "disciplines": [
+      "Philosophy"
+    ],
+    "themes": [
+      "self",
+      "awareness"
+    ],
+    "title": "The thinker survives radical doubt",
+    "answer": "Descartes treats the activity of doubting as evidence that the thinking subject exists.",
+    "depth": "In Part IV of the Discourse on Method, he argues for the distinction of thinking mind from body. Doubt is a method for establishing certainty, not simply an expression of indecision. The argument’s later influence does not make it humanity’s first examination of mind.",
+    "work": "Great work: Discourse on Method, Part IV; companion Meditations.",
+    "limit": "Certainty of thinking and the claim that mind is an independent substance are distinct argumentative steps.",
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/59/pg59-images.html",
+        "label": "Discourse on Method · translated text",
+        "review": "Selected passage checked"
+      }
+    ],
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "elisabeth",
+    "date": "1643 CE correspondence",
+    "era": "1500–1800",
+    "region": "Europe & Mediterranean",
+    "tradition": "Early modern rationalism",
+    "disciplines": [
+      "Philosophy"
+    ],
+    "themes": [
+      "body",
+      "self"
+    ],
+    "title": "A body–mind theory must explain interaction",
+    "answer": "Elisabeth of Bohemia presses Descartes to explain how an immaterial soul could determine bodily motion.",
+    "depth": "Her letters make the explanatory demand precise: saying mind and body differ does not explain how they act together. The correspondence also attends to the practical relation of thought, emotion and bodily condition.",
+    "work": "Great work: Elisabeth–Descartes correspondence, beginning May 1643.",
+    "limit": "Elisabeth is an active philosophical interlocutor; reducing her to an objection erases the range of her work.",
+    "sources": [
+      {
+        "url": "https://plato.stanford.edu/entries/elisabeth-bohemia/",
+        "label": "Stanford Encyclopedia · Elisabeth of Bohemia",
+        "review": "Specialist overview checked"
+      }
+    ],
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "spinoza",
+    "date": "1677 CE publication",
+    "era": "1500–1800",
+    "region": "Europe & Mediterranean",
+    "tradition": "Early modern rationalism",
+    "disciplines": [
+      "Philosophy",
+      "Ethics"
+    ],
+    "themes": [
+      "body",
+      "heart"
+    ],
+    "title": "One reality, understood in different ways",
+    "answer": "Spinoza treats mind and body as the same thing understood through thought and extension.",
+    "depth": "The Ethics joins an account of nature with an analysis of affect, action and freedom. Mental life belongs within nature rather than requiring a separate substance that intervenes in it.",
+    "work": "Great work: Ethics, Parts II and III.",
+    "limit": "This position differs from both Cartesian dualism and a simple claim that thoughts are nothing but brain events.",
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/3800/pg3800-images.html",
+        "label": "Ethics · R. H. M. Elwes translation",
+        "review": "Relevant indexed propositions checked"
+      }
+    ],
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "amo",
+    "date": "1734 CE",
+    "era": "1500–1800",
+    "region": "Africa & Europe",
+    "tradition": "Early modern philosophical debate",
+    "disciplines": [
+      "Philosophy"
+    ],
+    "themes": [
+      "body",
+      "self"
+    ],
+    "title": "An African philosopher contests sensation",
+    "answer": "Anton Wilhelm Amo’s account of mind and body complicates familiar histories of European philosophy.",
+    "depth": "His dissertation on the impassivity of the human mind assigns sensation to the living body rather than treating it as a passive alteration of an immaterial mind. The interpretation of his account of interaction remains a scholarly issue.",
+    "work": "Great work: On the Impassivity of the Human Mind; consult a modern critical translation.",
+    "limit": "Amo’s work belongs to specific eighteenth-century debates. His African origin does not make it a proxy for all African philosophy.",
+    "sources": [
+      {
+        "url": "https://compass.onlinelibrary.wiley.com/doi/10.1111/phc3.12571",
+        "label": "Chris Meyns · Amo’s philosophy of mind",
+        "review": "Scholarly article, introduction and sensation sections checked"
+      }
+    ],
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "hume",
+    "date": "1748 CE",
+    "era": "1500–1800",
+    "region": "Europe & Mediterranean",
+    "tradition": "Empiricism",
+    "disciplines": [
+      "Philosophy",
+      "Psychology"
+    ],
+    "themes": [
+      "process",
+      "information"
+    ],
+    "title": "Ideas examined through experience",
+    "answer": "Hume distinguishes lively impressions from the ideas involved in remembering and imagining.",
+    "depth": "His Enquiry studies the materials and habits of human understanding, including how experience supports expectations. An account of mind emerges through analysis of perception and inference rather than an appeal to a readily known inner substance.",
+    "work": "Great work: An Enquiry Concerning Human Understanding, sections II–V.",
+    "limit": "Hume’s argument about knowledge should not be confused with a laboratory measurement of memory.",
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/9662/pg9662-images.html",
+        "label": "Hume · Enquiry",
+        "review": "Relevant indexed passages checked"
+      }
+    ],
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "dickinson",
+    "date": "Nineteenth century CE",
+    "era": "1800–1950",
+    "region": "Americas",
+    "tradition": "American poetic traditions",
+    "disciplines": [
+      "Poetry",
+      "Literature"
+    ],
+    "themes": [
+      "awareness",
+      "body"
+    ],
+    "title": "A poem tests the scale of thought",
+    "answer": "Emily Dickinson compares the brain with sky, sea and God, making representation itself the subject of a poem.",
+    "depth": "The comparison brings a physical organ into contact with the vastness of what it can conceive. Poetry allows a reader to experience conceptual strain through form and wording. It need not be reduced to a coded statement of a scientific theory.",
+    "work": "Great work: The Brain—is wider than the Sky.",
+    "limit": "This reading is an editorial interpretation of the poem, not a claim that Dickinson anticipated a particular neuroscience theory.",
+    "sources": [
+      {
+        "url": "https://modpo.org/explore/text-of-dickinsons-the-brain-is-wider-than-the-sky/",
+        "label": "ModPo · Dickinson text",
+        "review": "Existing bank text; interpretive annotation"
+      }
+    ],
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "darwin",
+    "date": "1871 CE; linked edition 1877",
+    "era": "1800–1950",
+    "region": "Europe & Mediterranean",
+    "tradition": "Evolutionary naturalism",
+    "disciplines": [
+      "Biology",
+      "Psychology"
+    ],
+    "themes": [
+      "life",
+      "body"
+    ],
+    "title": "Human minds enter evolutionary history",
+    "answer": "Darwin compares human and animal mental capacities as part of an evolutionary account of human origins.",
+    "depth": "Memory, emotion and social behavior become subjects of comparison across species. An account of mental continuity challenges a categorical separation between humans and other animals. His text also contains racial and sexual hierarchies that require critical examination.",
+    "work": "Great work: The Descent of Man, chapters on mental powers.",
+    "limit": "Evolutionary continuity does not establish that all species have identical experience; Darwin’s social rankings are not current scientific conclusions.",
+    "sources": [
+      {
+        "url": "https://darwin-online.org.uk/converted/published/1877_Descent_F948/1877_Descent_F948.html",
+        "label": "Darwin Online · 1877 edition",
+        "review": "Relevant chapters checked"
+      }
+    ],
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "james",
+    "date": "1890 CE",
+    "era": "1800–1950",
+    "region": "Americas",
+    "tradition": "Pragmatism & early psychology",
+    "disciplines": [
+      "Psychology",
+      "Philosophy",
+      "Sport & skill"
+    ],
+    "themes": [
+      "process",
+      "practice"
+    ],
+    "title": "Experience flows; habits take shape",
+    "answer": "William James describes thought as personal, changing and continuous, rather than a pile of separate mental units.",
+    "depth": "His psychology also studies attention and habit. Practiced action makes the relation between conscious effort and bodily learning concrete. Introspection and physiology appear together in his project.",
+    "work": "Great work: The Principles of Psychology, chapters on the stream of thought and habit.",
+    "limit": "James’s descriptions are historical arguments and observations, not a substitute for present experimental evidence.",
+    "sources": [
+      {
+        "url": "https://www.yorku.ca/pclassic/James/Principles/prin9.htm",
+        "label": "Principles of Psychology · chapter IX",
+        "review": "Selected passage checked"
+      }
+    ],
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "dubois",
+    "date": "1903 CE",
+    "era": "1800–1950",
+    "region": "Americas",
+    "tradition": "African American intellectual traditions",
+    "disciplines": [
+      "Sociology",
+      "Literature",
+      "Music"
+    ],
+    "themes": [
+      "relations",
+      "self"
+    ],
+    "title": "The social world enters self-consciousness",
+    "answer": "Du Bois describes double consciousness within the experience of Black Americans under racial domination.",
+    "depth": "A person’s relation to self can be shaped by having to confront a hostile society’s judgment. The Souls of Black Folk brings argument, narrative and musical references together, making history and power central to an account of experience.",
+    "work": "Great work: The Souls of Black Folk, opening chapter and The Sorrow Songs.",
+    "limit": "Double consciousness is not a generic synonym for indecision or a clinical diagnosis. Its historical setting is essential.",
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/408/408-h/408-h.htm",
+        "label": "The Souls of Black Folk · full text",
+        "review": "Selected passage checked"
+      }
+    ],
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "watson",
+    "date": "1913 CE",
+    "era": "1800–1950",
+    "region": "Americas",
+    "tradition": "Behaviorism",
+    "disciplines": [
+      "Psychology"
+    ],
+    "themes": [
+      "body",
+      "information"
+    ],
+    "title": "Psychology turns toward public behavior",
+    "answer": "John B. Watson proposes an objective experimental psychology organized around behavior rather than introspective reports.",
+    "depth": "The shift changes what counts as evidence. Prediction and control of behavior become explicit aims, while the scientific role of consciousness is disputed. Later behaviorisms differ from Watson’s program.",
+    "work": "Great work: Psychology as the Behaviorist Views It.",
+    "limit": "Methodological exclusion of introspection is not itself a demonstration that subjective experience does not exist.",
+    "sources": [
+      {
+        "url": "https://psychclassics.yorku.ca/Watson/views.htm",
+        "label": "Watson · 1913 article",
+        "review": "Selected passage checked"
+      }
+    ],
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "soseki",
+    "date": "1914 CE",
+    "era": "1800–1950",
+    "region": "East Asia",
+    "tradition": "Modern Japanese literature",
+    "disciplines": [
+      "Literature",
+      "Psychology"
+    ],
+    "themes": [
+      "relations",
+      "heart"
+    ],
+    "title": "A novel makes inward life difficult to know",
+    "answer": "Natsume Sōseki’s Kokoro examines intimacy, secrecy and guilt through relationships and narrated memory.",
+    "depth": "Its title’s association with heart and mind resists a clean English division between feeling and thought. Readers encounter another person’s inward life through incomplete accounts and a consequential written confession.",
+    "work": "Great work: Kokoro.",
+    "limit": "This is a particular modern novel, not an account of what all Japanese people believe about mind.",
+    "sources": [
+      {
+        "url": "https://www.penguin.co.uk/books/178231/kokoro-by-soseki-natsume/9780143106036",
+        "label": "Penguin · Kokoro edition",
+        "review": "Publisher synopsis and existing syllabus record"
+      }
+    ],
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "freud",
+    "date": "1916–17 CE lectures",
+    "era": "1800–1950",
+    "region": "Europe & Mediterranean",
+    "tradition": "Psychoanalysis",
+    "disciplines": [
+      "Psychology",
+      "Medicine"
+    ],
+    "themes": [
+      "process",
+      "self"
+    ],
+    "title": "Mental life exceeds conscious access",
+    "answer": "Freud interprets dreams, slips and symptoms through unconscious mental processes and conflict.",
+    "depth": "The subject’s own explanation may leave out the motives shaping an action. Psychoanalytic interpretation therefore changes the relation between self-report and explanation, while raising difficult issues about how interpretations can be tested.",
+    "work": "Great work: Introductory Lectures on Psychoanalysis.",
+    "limit": "Evidence for unconscious processing does not validate every Freudian interpretation, developmental theory or therapeutic claim.",
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/38219",
+        "label": "Freud · introductory lectures",
+        "review": "Publication record and work description checked"
+      }
+    ],
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "vygotsky",
+    "date": "1934 CE",
+    "era": "1800–1950",
+    "region": "Europe & Mediterranean",
+    "tradition": "Soviet cultural-historical psychology",
+    "disciplines": [
+      "Psychology",
+      "Linguistics",
+      "Education"
+    ],
+    "themes": [
+      "relations",
+      "information"
+    ],
+    "title": "Thinking develops with language",
+    "answer": "Vygotsky studies the changing relation between thought, word meaning and speech in development.",
+    "depth": "Language is not simply a container into which fully formed thoughts are placed. Inner speech and social communication belong to a developmental account of mental life. Education becomes central to understanding cognition.",
+    "work": "Great work: Thinking and Speech, chapter 7.",
+    "limit": "The relation between language and thinking does not imply that people without speech cannot think.",
+    "sources": [
+      {
+        "url": "https://www.marxists.org/archive/vygotsky/works/words/ch07.htm",
+        "label": "Vygotsky · Thinking and Speech",
+        "review": "Selected chapter passages checked"
+      }
+    ],
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "merleau",
+    "date": "1945 CE",
+    "era": "1800–1950",
+    "region": "Europe & Mediterranean",
+    "tradition": "Phenomenology",
+    "disciplines": [
+      "Philosophy",
+      "Art",
+      "Psychology"
+    ],
+    "themes": [
+      "body",
+      "awareness"
+    ],
+    "title": "Perception begins with lived embodiment",
+    "answer": "Merleau-Ponty investigates the body as the lived basis of perception and action.",
+    "depth": "Our own body is not ordinarily encountered only as an object among other objects. Skilled movement and perception disclose a practical relation to a world already meaningful to us. This approach connects philosophy with psychology and the arts.",
+    "work": "Great work: Phenomenology of Perception.",
+    "limit": "Description of lived experience and experimental explanation answer related but different tasks.",
+    "sources": [
+      {
+        "url": "https://plato.stanford.edu/entries/merleau-ponty/",
+        "label": "Stanford Encyclopedia · Merleau-Ponty",
+        "review": "Specialist overview, relevant passages checked"
+      }
+    ],
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "turing",
+    "date": "1950 CE",
+    "era": "1950–present",
+    "region": "Europe & Mediterranean",
+    "tradition": "Computing & analytic philosophy",
+    "disciplines": [
+      "Computing",
+      "Philosophy"
+    ],
+    "themes": [
+      "information"
+    ],
+    "title": "Intelligence becomes a testable performance",
+    "answer": "Alan Turing replaces a broad dispute over machine thinking with the imitation game.",
+    "depth": "His article explores objections, learning and the possibility of intelligent machines. It makes the choice of a test part of the philosophical problem. Success in a conversational test and possession of felt experience are not identical claims.",
+    "work": "Great work: Computing Machinery and Intelligence.",
+    "limit": "This is a proposed approach to machine intelligence, not an established test for consciousness.",
+    "sources": [
+      {
+        "url": "https://www.csee.umbc.edu/courses/471/papers/turing.pdf",
+        "label": "Turing · 1950 article",
+        "review": "Opening argument and test description checked"
+      }
+    ],
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "clark-art",
+    "date": "1963–64 CE",
+    "era": "1950–present",
+    "region": "Americas",
+    "tradition": "Brazilian experimental art",
+    "disciplines": [
+      "Art",
+      "Philosophy"
+    ],
+    "themes": [
+      "body",
+      "process"
+    ],
+    "title": "An artwork happens through participation",
+    "answer": "Lygia Clark’s Caminhando makes a participant’s action central to the work.",
+    "depth": "Cutting along a paper Möbius strip changes the experience as it unfolds. The work offers an encounter with perception, choice and bodily action rather than only a finished object to observe. This is an interpretive connection to mind, not an experimental result.",
+    "work": "Great work: Caminhando (Walking).",
+    "limit": "Do not equate participation in an artwork with evidence for a particular theory of consciousness.",
+    "sources": [
+      {
+        "url": "https://www.moma.org/artists/27445-lygia-clark",
+        "label": "MoMA · Lygia Clark",
+        "review": "Existing museum bank record; interpretive annotation"
+      }
+    ],
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "akan",
+    "date": "Twentieth–twenty-first-century philosophical accounts",
+    "era": "1950–present",
+    "region": "Africa",
+    "tradition": "Akan philosophical traditions",
+    "disciplines": [
+      "Philosophy",
+      "Ethics"
+    ],
+    "themes": [
+      "relations",
+      "self"
+    ],
+    "title": "Personhood includes a contested moral dimension",
+    "answer": "Akan philosophy has generated debates over the relation between being human, having a soul and becoming a person.",
+    "depth": "Kwasi Wiredu and Kwame Gyekye differ over how moral and social standing enters personhood. The disagreement belongs inside the account. Describing a tradition requires attention to its arguments as well as its vocabulary.",
+    "work": "Encounter: the debate between Wiredu and Gyekye, with references to their works.",
+    "limit": "Modern philosophical interpretations should not be projected unchanged into an undated African past. Akan thought is not all African thought.",
+    "sources": [
+      {
+        "url": "https://plato.stanford.edu/entries/akan-person/",
+        "label": "Stanford Encyclopedia · Akan personhood",
+        "review": "Specialist overview, relevant sections checked"
+      }
+    ],
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "maori",
+    "date": "Late twentieth-century model; living tradition",
+    "era": "1950–present",
+    "region": "Oceania",
+    "tradition": "Māori health traditions",
+    "disciplines": [
+      "Medicine",
+      "Psychology",
+      "Religion"
+    ],
+    "themes": [
+      "relations",
+      "body"
+    ],
+    "title": "Mental life belongs with family, body and spirit",
+    "answer": "Mason Durie’s Te Whare Tapa Whā model joins mental, physical, spiritual and family dimensions of health.",
+    "depth": "Taha hinengaro is one dimension alongside taha tinana, taha wairua and taha whānau. The model makes interdependence explicit. It contributes to this history through an account of wellbeing rather than a claim to locate consciousness in one organ.",
+    "work": "Encounter: Te Whare Tapa Whā and its four dimensions.",
+    "limit": "This modern formulation has a date and an author. It is not a timeless formula for all Māori people.",
+    "sources": [
+      {
+        "url": "https://www.health.govt.nz/maori-health/maori-health-models",
+        "label": "New Zealand Ministry of Health · Māori models",
+        "review": "Institutional model description checked"
+      }
+    ],
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "dine",
+    "date": "Twentieth-century testimony; living tradition",
+    "era": "1950–present",
+    "region": "Americas",
+    "tradition": "Diné healing traditions",
+    "disciplines": [
+      "Religion",
+      "Medicine",
+      "History"
+    ],
+    "themes": [
+      "relations",
+      "practice"
+    ],
+    "title": "Returning from war includes restoring balance",
+    "answer": "Diné veterans describe ceremonial healing after military service in testimony presented by the National Museum of the American Indian.",
+    "depth": "The accounts connect recovery with family, community and hózhó, a condition of balance. They provide named, situated voices about distress and restoration instead of a generalized category of “Indigenous mind.”",
+    "work": "Encounter: Native Words, Native Warriors, Coming Home.",
+    "limit": "These testimonies do not speak for all Diné people or all Native nations. Public testimony is not permission to reproduce restricted ceremonial knowledge.",
+    "sources": [
+      {
+        "url": "https://b.asp.si.edu/nk360/code-talkers/coming-home/",
+        "label": "National Museum of the American Indian · testimony",
+        "review": "Museum testimony and context checked"
+      }
+    ],
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "extended",
+    "date": "1998 CE",
+    "era": "1950–present",
+    "region": "Multiple regions",
+    "tradition": "Embodied & extended cognition",
+    "disciplines": [
+      "Philosophy",
+      "Psychology",
+      "Computing",
+      "Sport & skill"
+    ],
+    "themes": [
+      "body",
+      "information"
+    ],
+    "title": "Thinking can depend on action and surroundings",
+    "answer": "Clark and Chalmers argue that some cognitive processes can extend through tools and environments.",
+    "depth": "Their proposal distinguishes merely using an external aid from that aid functioning as part of a cognitive system. Related embodied approaches study how bodily capacities shape cognition. These are connected but nonidentical positions.",
+    "work": "Great work: The Extended Mind; compare research on embodied cognition.",
+    "limit": "Extended cognition does not automatically imply that every tool is conscious or that felt experience extends in the same way.",
+    "sources": [
+      {
+        "url": "https://home.cs.colorado.edu/~mozer/Teaching/syllabi/CogSci/readings/ClarkChalmers1998.pdf",
+        "label": "Clark & Chalmers · The Extended Mind",
+        "review": "Indexed paper passages checked; direct retrieval intermittent"
+      }
+    ],
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "music",
+    "date": "2011 CE",
+    "era": "1950–present",
+    "region": "Multiple regions",
+    "tradition": "Experimental neuroscience",
+    "disciplines": [
+      "Music",
+      "Neuroscience",
+      "Psychology"
+    ],
+    "themes": [
+      "body",
+      "heart"
+    ],
+    "title": "Musical pleasure becomes measurable",
+    "answer": "Salimpoor and colleagues report dopamine release associated with intense musical pleasure.",
+    "depth": "The study distinguishes anticipation from peak emotional experience. A measurable bodily process enters an account of listening, while musical meaning and personal history remain further levels of explanation.",
+    "work": "Encounter: Anatomically distinct dopamine release during anticipation and experience of peak emotion to music.",
+    "limit": "Selected listeners and music-evoked peaks do not represent every musical experience. A correlate does not provide a complete explanation of music.",
+    "sources": [
+      {
+        "url": "https://www.nature.com/articles/nn.2726",
+        "label": "Nature Neuroscience · Salimpoor et al.",
+        "review": "Article abstract checked"
+      }
+    ],
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "levin",
+    "date": "2025-04-14",
+    "era": "1950–present",
+    "region": "Multiple regions",
+    "tradition": "Contemporary research",
+    "disciplines": [
+      "Biology",
+      "Neuroscience"
+    ],
+    "themes": [
+      "life",
+      "information"
+    ],
+    "title": "Cognition investigated beyond neurons",
+    "answer": "Michael Levin and collaborators study coordinated information patterns in tissues without nervous systems.",
+    "depth": "The work broadens the experimental study of biological organization. Adaptive coordination can be investigated without assuming that every coordinated system has subjective experience.",
+    "work": "Encounter: Revealing non-trivial information structures in aneural biological tissues via functional connectivity.",
+    "limit": "Functional connectivity is a statistical relationship. Neither network structure nor coordinated repair establishes subjective experience. The sample is small.",
+    "sources": [
+      {
+        "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012149",
+        "label": "Blackiston, Dromiack, Grasso and colleagues, including Michael Levin",
+        "review": "Existing learning-bank record · Abstract and publication record checked"
+      }
+    ],
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "solms",
+    "date": "2019",
+    "era": "1950–present",
+    "region": "Multiple regions",
+    "tradition": "Contemporary research",
+    "disciplines": [
+      "Neuroscience",
+      "Psychology"
+    ],
+    "themes": [
+      "heart",
+      "body"
+    ],
+    "title": "Feeling placed at the center",
+    "answer": "Mark Solms argues for an account of consciousness centered on affect and the regulation of bodily needs.",
+    "depth": "The proposal connects felt experience with the problems a living organism must solve. It is a theoretical position in an active debate, not a consensus definition of consciousness.",
+    "work": "Encounter: The Hard Problem of Consciousness and the Free Energy Principle.",
+    "limit": "A theoretical synthesis. The proposed explanation of subjective experience remains contested; feeling, cognition and cortical processing are not interchangeable terms.",
+    "sources": [
+      {
+        "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.02714/full",
+        "label": "Mark Solms",
+        "review": "Existing learning-bank record · Abstract and full-text structure checked"
+      }
+    ],
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "berg",
+    "date": "2025-10-27",
+    "era": "1950–present",
+    "region": "Multiple regions",
+    "tradition": "Contemporary research",
+    "disciplines": [
+      "Computing",
+      "Psychology",
+      "Philosophy"
+    ],
+    "themes": [
+      "information",
+      "awareness"
+    ],
+    "title": "Artificial systems report experience",
+    "answer": "Cameron Berg and collaborators examine reports of subjective experience produced by language models.",
+    "depth": "Model self-reports can become objects of systematic investigation. Interpreting them requires separating linguistic behavior, experimental conditions and a claim that experience is actually present.",
+    "work": "Encounter: Large Language Models Report Subjective Experience Under Self-Referential Processing.",
+    "limit": "The authors explicitly state that these results are not direct evidence of consciousness. Model self-reports cannot simply be treated as human testimony.",
+    "sources": [
+      {
+        "url": "https://arxiv.org/abs/2510.24797",
+        "label": "Cameron Berg, Diogo de Lucena and Judd Rosenblatt",
+        "review": "Existing learning-bank record · Abstract and publication record checked"
+      }
+    ],
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "cogitate",
+    "date": "2025 CE",
+    "era": "1950–present",
+    "region": "Multiple regions",
+    "tradition": "Experimental neuroscience",
+    "disciplines": [
+      "Neuroscience",
+      "Psychology",
+      "Philosophy"
+    ],
+    "themes": [
+      "body",
+      "awareness"
+    ],
+    "title": "Competing theories face shared tests",
+    "answer": "An adversarial collaboration tests predictions from global neuronal workspace and integrated information theories.",
+    "depth": "Researchers agree on tests across multiple laboratories and measurement methods. Findings challenge important predictions of both theories. The study makes disagreement experimentally productive rather than announcing a final solution to consciousness.",
+    "work": "Encounter: the COGITATE consortium’s 2025 Nature paper.",
+    "limit": "The experiment tests specified predictions under particular conditions, not every claim of either theory.",
+    "sources": [
+      {
+        "url": "https://www.nature.com/articles/s41586-025-08888-1",
+        "label": "Nature · COGITATE collaboration",
+        "review": "Abstract and existing bank annotation checked"
+      }
+    ],
+    "checked": "2026-10-10"
+  }
+]

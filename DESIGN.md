@@ -48,7 +48,7 @@ components:
 
 MIND(s) uses a compact journalism layout: a black masthead, white reading surfaces, red emphasis, sans-serif typography throughout. The user explicitly selected the black, white and red journalism direction and direct code construction. The specific measurements and component treatments below document the implementation; they are not additional recorded user approvals.
 
-This document describes `dist/style.css`, `dist/app.js` and the five HTML pages: proposal, model syllabus, learning bank, pronunciation collection and participation, including the scoped pronunciation additions in `dist/mind-atlas.css` and `dist/mind-atlas.js`. The shared system favors readable source records, visible limits and direct navigation. It uses typography and rules; the pronunciation page also uses sourced objects and signed-language demonstrations as evidence.
+This document describes `dist/style.css`, `dist/app.js` and the six HTML pages: proposal, model syllabus, learning bank, pronunciation collection, global history and participation, including the scoped pronunciation additions in `dist/mind-atlas.css` and `dist/mind-atlas.js`. The shared system favors readable source records, visible limits and direct navigation. It uses typography and rules; the pronunciation page also uses sourced objects and signed-language demonstrations as evidence.
 
 ## Colors
 
@@ -103,6 +103,16 @@ The scoped section at `mind-words.html#body` uses a schematic body beside the se
 At 700px and below, the figure and reading panel stack; the SVG height changes from 490px to 330px. Controls wrap and retain a 44px minimum height. Selection updates pressed states, the SVG description, caption and polite status. All evidence panels remain available without JavaScript. Print hides the figure and controls, exposes all accounts, and uses 11pt evidence text.
 
 Local review, 10 October 2026: all eight selections passed at 1440px and 390px, with no horizontal overflow and rendered Public Sans/Apple SD Gothic Neo. The independent finish reviewer reported SHIP for the scoped screenshots and code. This section is local only at `/Users/wegehaum/Documents/ChatGPT/META/minds/dist/mind-words.html#body`; this record does not verify live deployment.
+
+### Global history
+
+The global-history page extends the shared journalism design with a compact introduction and black synthesis panel. Nine recurring approaches form a three-column grid with red selected states. Six period controls use an ink selected state. Source-linked account rows pair a narrow date column with the account, native source disclosure, review depth and visible limits. The 44 accounts are selected evidence, not an exhaustive inventory; period groups and themes are navigation and editorial comparison aids.
+
+At 760px and below, the synthesis and account rows stack, themes form two columns, periods form three columns, and filters wrap into a two-column layout. Search and tradition controls span both columns. Headings wrap naturally; all text inherits the sans-serif system. Print exposes filtered records and source details and sets account evidence text to 11pt.
+
+Theme, period, region, tradition, discipline and search filters combine. URL keys are `theme`, `era`, `region`, `tradition`, `discipline` and `q`; changes use `history.replaceState`. Native buttons expose pressed states, the result count uses a polite live status, and reset focuses search. Stable account fragments open source details and clear conflicting filters. Without JavaScript, all accounts and native disclosures remain readable while unavailable filtering controls stay hidden.
+
+Local review, 10 October 2026: 1440px and 390px checks covered filters, URL state, direct links, no horizontal overflow, actual sans-serif fonts and source access without JavaScript. The scoped independent finish reviewer reported SHIP. This addition is local only at `/Users/wegehaum/Documents/ChatGPT/META/minds/dist/history.html`; this record does not verify live deployment.
 
 ## Do's and Don'ts
 
