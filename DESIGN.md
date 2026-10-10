@@ -48,7 +48,7 @@ components:
 
 MIND(s) uses a compact journalism layout: a black masthead, white reading surfaces, red emphasis, sans-serif typography throughout. The user explicitly selected the black, white and red journalism direction and direct code construction. The specific measurements and component treatments below document the implementation; they are not additional recorded user approvals.
 
-This document describes `dist/style.css`, `dist/app.js` and the five HTML pages: proposal, model syllabus, learning bank, pronunciation collection and participation. The shared system favors readable source records, visible limits and direct navigation. It uses typography and rules without decorative imagery or animation.
+This document describes `dist/style.css`, `dist/app.js` and the five HTML pages: proposal, model syllabus, learning bank, pronunciation collection and participation, including the scoped pronunciation additions in `dist/mind-atlas.css` and `dist/mind-atlas.js`. The shared system favors readable source records, visible limits and direct navigation. It uses typography and rules; the pronunciation page also uses sourced objects and signed-language demonstrations as evidence.
 
 ## Colors
 
@@ -74,13 +74,15 @@ At 850px, horizontal padding becomes 26px, gaps contract, syllabus meeting lists
 
 The mobile assessment table retains a 510px minimum width inside a horizontally scrollable container. This is an intentional current accommodation, with scroll discoverability a nonblocking review note. Do not shrink its text to force all columns into the viewport.
 
+The pronunciation page's semantic comparison uses two four-item branches around a central MIND circle on desktop. At 850px, the circle contracts and examples change from four columns to two. At 600px, connectors disappear, the center becomes a full-width rectangular label, and the branches form two columns. Section introductions, the two signed-language studies and the three visual studies stack on mobile. Museum images use `object-fit: contain` to preserve the full objects.
+
 ## Elevation & Depth
 
 The system is flat. Borders, white space and gray inset panels provide grouping. There are no shadows, floating cards or layered decorative surfaces. The masthead and footer use solid ink backgrounds.
 
 ## Shapes
 
-Controls, panels and labels have square corners. Thin straight rules are the recurring shape. Primary actions are filled rectangles; the “Shared work” label is a small outlined rectangle. Do not introduce pills or rounded card containers into the existing patterns.
+Controls, panels and labels have square corners. Thin straight rules are the recurring shape. Primary actions are filled rectangles; the “Shared work” label is a small outlined rectangle. The pronunciation circle and desktop semantic center are scoped circular forms. Do not introduce pills or rounded card containers into the existing patterns.
 
 ## Components
 
@@ -91,6 +93,8 @@ Controls, panels and labels have square corners. Thin straight rules are the rec
 - **Results and fallback:** a polite live status announces the count; a visible empty state explains recovery. Source records remain readable without JavaScript. Filtering and print controls appear only when JavaScript can operate them.
 - **Syllabus:** six sustained works appear as ruled rows with historical context, entry point, intellectual scope and expandable reading/source notes. A nine-language comparison uses responsive text rows, followed by ancient sources, arts, research companions and pacing. Week labels align with teaching content; gray writing panels distinguish assignments. Assessment uses a real table, with horizontal scrolling on narrow screens and unrestricted overflow for print.
 - **Keyboard and motion:** a skip link becomes visible on focus. Links, buttons, inputs, selects and summaries receive a red 3px focus outline with 4px offset. Reduced-motion preferences disable smooth scrolling and animation. Preserve semantic landmarks, native controls and visible labels.
+- **Semantic comparison:** eight selected, overlapping clusters use native buttons with `aria-pressed` and `aria-controls`. Selection marks the heading in red with an underline and displays its examples in a warm gray panel. Each example links a dictionary and the existing recording. All panels remain readable without JavaScript and in print; playback requires JavaScript. Connections describe selected meanings, not language ancestry or a universal definition.
+- **Signed-language and visual studies:** ASL THINK uses an explicit load button before inserting the provider's iframe; BSL MIND uses native video controls. Source links remain visible. Three visual studies distinguish modern sans-serif 心, an Egyptian heart amulet and Rodin's *The Thinker*. Keep museum attribution and contextual interpretation adjacent to each object.
 
 ## Do's and Don'ts
 
@@ -109,3 +113,5 @@ Local review record, 10 October 2026: all four pages were reviewed at 1440px and
 
 ## WATER-inspired listening edition — 10 October 2026
 The user requested more beauty based on the WATER site. The pronunciation page now gives the radial collection the dominant width, with a warm white surface, red segmented selection ring, language labels and the active word in the center. The center has a working Listen control. Word meanings and playback controls remain beside the circle on desktop; mobile uses the active-word circle above controls and the searchable word list. All 50 source records, human audio files and credits remain unchanged. These scoped styles supersede the earlier pronunciation layout description; other pages retain their design.
+
+Scoped additions, 10 October 2026: the semantic comparison, signed-language resources and three visual studies extend this listening edition. Browser review covered cluster selection, Korean audio, BSL playback, image loading, actual sans-serif fonts and layouts at 1440px and 390px without horizontal overflow. ASL iframe insertion was checked; YouTube playback remains unverified. Finish-review disposition: ship the scoped sections. This is a review record, not approval of an exhaustive linguistic classification.

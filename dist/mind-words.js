@@ -19,6 +19,8 @@ el('replay').addEventListener('click',()=>one(selected));
 stop.addEventListener('click',()=>{cancel();status.textContent='Stopped.';});
 playAll.addEventListener('click',()=>{if(playing){audio.pause();clearTimeout(timer);playing=false;playAll.textContent='Continue';playAll.setAttribute('aria-pressed','false');status.textContent='Paused.';return;}if(queue.length){playing=true;playAll.textContent='Pause';playAll.setAttribute('aria-pressed','true');if(audio.ended)play(queue[position]);else {status.textContent='Playing '+selected.language+' · '+(position+1)+' of '+queue.length;audio.play().catch(()=>{cancel();status.textContent='Could not resume. Select a word to restart.';});}return;}queue=rows.filter(r=>!r.hidden).map(r=>byId.get(r.dataset.id));if(!queue.length)return;position=0;playing=true;playAll.textContent='Pause';playAll.setAttribute('aria-pressed','true');play(queue[0]);});
 el('word-search').addEventListener('input',e=>{cancel();const q=e.target.value.trim().toLocaleLowerCase();let n=0;for(const row of rows){const w=byId.get(row.dataset.id);row.hidden=![w.language,w.word,w.roman,w.meaning].join(' ').toLocaleLowerCase().includes(q);if(!row.hidden)n++;}el('word-count').textContent=n+' of '+data.length+' languages';status.textContent=n?'Select a word or play the matching languages.':'No matching words.';});
+document.addEventListener('mind:hear',e=>{const w=byId.get(e.detail);if(w)one(w);});
+document.addEventListener('mind:pause',cancel);
 window.addEventListener('pagehide',cancel);
 const svg=el('spoken-wheel'),ns='http://www.w3.org/2000/svg';
 function make(tag,attrs,parent){const x=document.createElementNS(ns,tag);for(const [k,v]of Object.entries(attrs))x.setAttribute(k,v);parent.append(x);return x;}

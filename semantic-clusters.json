@@ -1,0 +1,158 @@
+[
+  {
+    "id": "heart",
+    "title": "Heart & feeling",
+    "subtitle": "Feeling and thought share a word.",
+    "note": "Heart and mind overlap in these dictionary senses. This does not mean the words have identical uses or that their speakers share one theory of emotion.",
+    "examples": [
+      {
+        "word": "ko",
+        "sense": "mind; heart"
+      },
+      {
+        "word": "zh",
+        "sense": "heart; mind"
+      },
+      {
+        "word": "ja",
+        "sense": "heart; mind"
+      },
+      {
+        "word": "bn",
+        "sense": "mind; heart"
+      }
+    ]
+  },
+  {
+    "id": "thought",
+    "title": "Thought",
+    "subtitle": "Thinking, a thought, the thinking mind.",
+    "note": "These entries connect mental life with thinking or a thought. Grammar and context determine whether an English translation needs a faculty, an activity or its content.",
+    "examples": [
+      {
+        "word": "cy",
+        "sense": "mind; thought"
+      },
+      {
+        "word": "tl",
+        "sense": "mind; thought"
+      },
+      {
+        "word": "hy",
+        "sense": "mind; thought"
+      }
+    ]
+  },
+  {
+    "id": "reason",
+    "title": "Reason & understanding",
+    "subtitle": "Judgment, intellect and comprehension.",
+    "note": "English “mind” can translate terms whose listed senses emphasize reasoning or understanding. The words are alternatives to compare in context, not a scale of intelligence.",
+    "examples": [
+      {
+        "word": "ar",
+        "sense": "mind; reason"
+      },
+      {
+        "word": "de",
+        "sense": "mind; understanding"
+      },
+      {
+        "word": "sw",
+        "sense": "mind; intellect"
+      },
+      {
+        "word": "ha",
+        "sense": "good sense; rationality"
+      }
+    ]
+  },
+  {
+    "id": "spirit",
+    "title": "Spirit & psyche",
+    "subtitle": "Mental life and spirit overlap.",
+    "note": "These entries extend beyond an exclusively cognitive gloss. “Spirit,” “psyche” and “soul” themselves need interpretation; their presence in a dictionary does not establish a shared religious doctrine.",
+    "examples": [
+      {
+        "word": "fr",
+        "sense": "mind; spirit"
+      },
+      {
+        "word": "nl",
+        "sense": "mind; spirit"
+      },
+      {
+        "word": "af",
+        "sense": "mind; spirit"
+      },
+      {
+        "word": "fa",
+        "sense": "psyche; soul; spirit"
+      }
+    ]
+  },
+  {
+    "id": "brain",
+    "title": "Brain",
+    "subtitle": "An organ and mental life share a name.",
+    "note": "These words have both brain and mind senses. The lexical overlap is evidence about usage; it does not settle the philosophical relation between brain and mind.",
+    "examples": [
+      {
+        "word": "el",
+        "sense": "mind; brain"
+      },
+      {
+        "word": "he",
+        "sense": "mind; brain"
+      },
+      {
+        "word": "ur",
+        "sense": "mind; brain"
+      }
+    ]
+  },
+  {
+    "id": "attention",
+    "title": "Attention & care",
+    "subtitle": "Attending, noticing and taking care.",
+    "note": "Hausa hankali includes attention and focus. English uses the verb “mind” for attending or taking care. This compares a noun’s senses with a verb’s uses, not identical grammatical categories.",
+    "examples": [
+      {
+        "word": "ha",
+        "sense": "attention; focus"
+      },
+      {
+        "word": "en",
+        "sense": "verb: attend; take care"
+      }
+    ]
+  },
+  {
+    "id": "intention",
+    "title": "Intention & will",
+    "subtitle": "What someone means or wants to do.",
+    "note": "Korean 마음 also has intention and will senses. English “mind” can name an intention or inclination. The same Korean word therefore appears here and in Heart & feeling.",
+    "examples": [
+      {
+        "word": "ko",
+        "sense": "intention; will"
+      },
+      {
+        "word": "en",
+        "sense": "intention; inclination"
+      }
+    ]
+  },
+  {
+    "id": "memory",
+    "title": "Memory",
+    "subtitle": "Remembering is part of mind’s word history.",
+    "note": "English mind descends through Old English gemynd, associated with memory. “Keep in mind” preserves a remembering use today. This historical example is distinct from the modern-language comparisons elsewhere in the map.",
+    "examples": [
+      {
+        "word": "en",
+        "sense": "remembering: keep in mind"
+      }
+    ]
+  }
+]

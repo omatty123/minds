@@ -993,5 +993,107 @@
     "access": "Open institutional article",
     "core": false,
     "checked": "2026-10-10"
+  },
+  {
+    "id": "asl-mind",
+    "title": "MIND in American Sign Language",
+    "author": "HandSpeak, Jolanta Lapiak",
+    "date": "Reference entry",
+    "kind": "Language reference",
+    "topics": [
+      "Language",
+      "Psychology"
+    ],
+    "url": "https://www.handspeak.com/word/1385/",
+    "claim": "The ASL dictionary entry provides a demonstration, sign description and historical example for MIND.",
+    "limit": "An English headword is an index to a sign; it does not establish one-to-one translation in every context.",
+    "use": "Compare signed expression with the spoken-word collection; follow the linked ASL storytelling resource.",
+    "review": "Dictionary meaning, sign description and related resource links read",
+    "focus": "Other",
+    "access": "Open provider page; video terms remain with its provider",
+    "core": false,
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "asl-think",
+    "title": "THINK and related uses in ASL",
+    "author": "Bill Vicars, ASL University",
+    "date": "Reference entry",
+    "kind": "Language reference",
+    "topics": [
+      "Language",
+      "Psychology"
+    ],
+    "url": "https://www.lifeprint.com/asl101/pages-signs/t/think.htm",
+    "claim": "A teaching page demonstrates THINK and discusses related forms and contextual uses.",
+    "limit": "Learning a language requires contextual instruction; one isolated demonstration is not a complete account of usage.",
+    "use": "Watch the source demonstration beside the semantic cluster for thought.",
+    "review": "Teaching text and source video embed inspected",
+    "focus": "Other",
+    "access": "Open provider page; video terms remain with its provider",
+    "core": false,
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "bsl-mind",
+    "title": "MIND in British Sign Language",
+    "author": "SignBSL; first recording credited to University of Bristol & Deaf Studies Trust",
+    "date": "Reference entry",
+    "kind": "Language reference",
+    "topics": [
+      "Language",
+      "Psychology"
+    ],
+    "url": "https://www.signbsl.com/sign/mind",
+    "claim": "The dictionary collects recordings under the English headword mind and identifies their providers.",
+    "limit": "Listed variants and English synonym labels must not be treated as identical across contexts or as ASL equivalents.",
+    "use": "Compare a BSL example with ASL resources while preserving each language’s identity.",
+    "review": "Dictionary entry and first video inspected; browser playback checked",
+    "focus": "Other",
+    "access": "Open provider page; video terms remain with its provider",
+    "core": false,
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "mind-heart-amulet",
+    "title": "Heart amulet with human head",
+    "author": "Ancient Egyptian object; Metropolitan Museum of Art",
+    "date": "ca. 1550–721 BCE",
+    "kind": "Cultural work",
+    "topics": [
+      "Art",
+      "History",
+      "Philosophy"
+    ],
+    "url": "https://www.metmuseum.org/art/collection/search/547782",
+    "claim": "This funerary amulet combines a stylized stone heart with a small human head. The museum dates it approximately 1550–721 BCE.",
+    "limit": "Its form alone does not establish a theory of mind. Pair it with textual evidence about heart, mind and memory.",
+    "use": "Compare material representations of the heart with the Greenfield Papyrus source.",
+    "review": "Museum object text, image and public-domain status checked",
+    "focus": "Other",
+    "access": "Open museum entry and public-domain image",
+    "core": false,
+    "checked": "2026-10-10"
+  },
+  {
+    "id": "mind-thinker",
+    "title": "The Thinker",
+    "author": "Auguste Rodin; Metropolitan Museum of Art",
+    "date": "Modeled ca. 1880; cast ca. 1910",
+    "kind": "Cultural work",
+    "topics": [
+      "Art",
+      "History",
+      "Philosophy"
+    ],
+    "url": "https://www.metmuseum.org/art/collection/search/191811",
+    "claim": "The sculpture gives thought a bodily form through a seated, concentrated figure. This cast dates to around 1910, from a model conceived around 1880.",
+    "limit": "The meaning belongs to a particular artwork and its history, not to every seated posture.",
+    "use": "Compare sculpture with lexical and bodily representations of mental life.",
+    "review": "Museum object text, image and public-domain status checked",
+    "focus": "Other",
+    "access": "Open museum entry and public-domain image",
+    "core": false,
+    "checked": "2026-10-10"
   }
 ]
