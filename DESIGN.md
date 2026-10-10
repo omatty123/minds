@@ -106,3 +106,6 @@ Local review record, 10 October 2026: all four pages were reviewed at 1440px and
 ## Pronunciation companion
 
 `mind-words.html` uses a radial word selector on desktop and a two-column list on mobile. The playback controls keep a stable position above the changing word details. Red marks the selected word. Each recording has a lexical source, attribution and license. Phrase recordings are identified in both the list and player. Browser inspection at 1440px and 390px confirmed no horizontal page overflow and sans-serif rendering for every script used in the word selectors.
+
+## WATER-inspired listening edition — 10 October 2026
+The user requested more beauty based on the WATER site. The pronunciation page now gives the radial collection the dominant width, with a warm white surface, red segmented selection ring, language labels and the active word in the center. The center has a working Listen control. Word meanings and playback controls remain beside the circle on desktop; mobile uses the active-word circle above controls and the searchable word list. All 50 source records, human audio files and credits remain unchanged. These scoped styles supersede the earlier pronunciation layout description; other pages retain their design.
