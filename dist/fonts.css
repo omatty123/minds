@@ -26,3 +26,6 @@
   font-display: swap;
   src: url(fonts/public-sans-700.ttf) format('truetype');
 }
+
+/* Two-glyph Noto Sans KR subset: 심 心. SIL OFL. */
+@font-face{font-family:'MIND Korean';font-style:normal;font-weight:600;font-display:swap;src:url(fonts/mind-sim-heart-600.ttf) format('truetype')}

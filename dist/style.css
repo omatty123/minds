@@ -12,3 +12,8 @@
 /* Keep the expanded seven-page navigation readable on narrow screens. */
 @media(max-width:850px){.nav>div{flex-wrap:wrap;justify-content:flex-start;column-gap:22px;row-gap:0}.nav a{white-space:nowrap}}
 @media(max-width:600px){.nav>div{column-gap:18px}.nav a{padding:11px 0 8px}}
+
+/* Shared 심 心 identity: explicit sans-serif glyphs, not system serif fallbacks. */
+.brand-lockup{display:flex;align-items:center;gap:23px;flex-shrink:0}.heart-type,.heart-brand{font-family:'MIND Korean','Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif;font-weight:600}.heart-brand{display:flex;gap:10px;font-size:2.6rem;line-height:1.1;text-decoration:none;color:#f15b65;white-space:nowrap}.heart-brand:hover{color:white}.footer-brand .heart-type{display:block;font-size:2rem;line-height:1.3;margin-top:8px;color:#f15b65}
+@media(max-width:600px){.mast-inner{flex-wrap:wrap;gap:10px}.brand-lockup{width:100%;justify-content:space-between;gap:16px}.heart-brand{font-size:2.2rem;gap:9px}.mast-inner p{padding:0;border:0;font-size:.76rem}.mast-inner .brand-break{display:none}}
+@media print{.heart-brand,.footer-brand .heart-type{color:black}.brand-lockup{gap:18px}.heart-brand{font-size:24pt}}

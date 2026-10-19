@@ -5,3 +5,5 @@
 @media print{.explore-nav,.explore-tools,.copy-idea,.copy-status,.home-actions,dialog,.continue-mind{display:none!important}.mind-opening{display:block}.opening-art{display:none}.explore-section[hidden]{display:block!important}.explore-entry[hidden]{display:flex!important}.explore-heading{display:block}.explore-list{display:block}.explore-entry{break-inside:avoid;padding:14px 0}.explore-entry h3{font-size:15pt}.entry-field,.entry-links>a{font-size:11pt}.art-pair{break-inside:avoid}.explore-section{padding:18px 0}}
 
 .explore-tools{scroll-margin-top:95px}
+
+.continue-mind>.heart-signature{display:flex;gap:24px;align-items:center;margin:0 0 24px}.heart-signature>.heart-type{font-size:4.6rem;line-height:1.1;color:var(--red);white-space:nowrap}.heart-signature p{margin:8px 0 0}.heart-signature h2{margin:0}@media(max-width:600px){.continue-mind>.heart-signature{align-items:flex-start;flex-direction:column;gap:12px}.heart-signature>.heart-type{font-size:3.7rem}}

@@ -165,3 +165,6 @@ Works, concepts and faculty use two columns; thinkers use three columns. Below 1
 Category hash links select one section when JavaScript is available. Search filters that section, with a result count and clear action. Copy for Post-it provides plain text; clipboard failure selects the entry and supplies a manual-copy instruction. Artwork links open a native dialog with a close button and Escape support, restoring focus on close. Without JavaScript, all 54 entries and source links remain available and image links open the files. Print exposes all entries. The independent note tool at `gallery.html` retains selection and square-note printing.
 
 Local QA reported 1440px and 390px views, rendered Public Sans, no horizontal overflow, category routing, section search, copying, dialog Escape/focus behavior and no-JavaScript access. This documents the local implementation at `/Users/wegehaum/Documents/ChatGPT/META/minds/dist/index.html`; deployment verification is pending.
+
+## 심 心 identity — 19 October 2026
+The shared masthead and footer pair MIND(s) with prominent 심 心. The homepage repeats the pair in its closing signature. A self-hosted two-glyph Noto Sans KR subset (SIL OFL; license in dist/fonts/) ensures sans-serif rendering. 심 is identified as the Sino-Korean reading of 心. The header mark links to the existing meaning clusters.
