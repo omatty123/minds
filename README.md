@@ -6,8 +6,9 @@ Live address after successful deployment: https://omatty123.github.io/minds/
 
 ## Work on the site
 
-- `build.py` generates eight HTML pages from the authored page content and `bank.json`.
-- `gallery_page.py` authors the Gallery Walk homepage; `dist/gallery.css` and `dist/gallery.js` provide the note board and print controls. The previous homepage is retained at `proposal.html`.
+- `build.py` generates nine HTML pages from the authored page content and `bank.json`.
+- `explore.json` supplies the homepage’s 54 entries: 19 works, 12 thinkers, 12 concepts and 11 LU faculty connections. `explore_page.py` renders it; `dist/explore.css` and `dist/explore.js` provide category navigation, search, Post-it copying and artwork enlargement.
+- `gallery_page.py` authors the preserved Gallery Walk tool at `gallery.html`; `dist/gallery.css` and `dist/gallery.js` provide its 25-note board and print controls. The original proposal remains at `proposal.html`.
 - `syllabus-content.html` contains the syllabus prose; `slate.json` defines the six sustained works. `build.py` renders the slate, language comparison and proposed pacing.
 - `mind-words.json` contains the pronunciation collection and audio attribution. `mind_words_page.py` renders it; `dist/mind-words.js` and `.css` provide the player and layout. Audio files are credited individually; human voices only.
 - `semantic-clusters.json` defines eight selected, overlapping meaning clusters. `mind_atlas.py` adds these, signed-language resources and three visual studies to the pronunciation page; `dist/mind-atlas.css` and `.js` provide their responsive layout and interactions. Dictionary links and audio references come from `mind-words.json`.
@@ -91,8 +92,19 @@ New handout references include the Center for Deep Listening's account of Oliver
 
 ## Gallery Walk note board — 19 October 2026
 
-The homepage now presents 25 proposed notes in four themes: Mind & body, Minds beyond humans, Cultivating mind, and Expressing mind. Visitors can filter the board, copy a note, select notes across filters, and print selected notes as 3-inch squares. The previous homepage remains available at `proposal.html`; the research collections and existing gallery handout remain available.
+The first homepage revision presented 25 proposed notes in four themes: Mind & body, Minds beyond humans, Cultivating mind, and Expressing mind. Visitors can filter the board, copy a note, select notes across filters, and print selected notes as 3-inch squares. The previous homepage remains available at `proposal.html`; the research collections and existing gallery handout remain available.
 
 Visitors can add their own notes. These are stored only in that browser’s local storage and are not submitted or published. The authored notes remain readable without JavaScript. Source and context disclosures distinguish established works from ideas for which a work or edition remains to be selected. No faculty endorsement is implied.
 
-Local QA reported 1440px and 390px layouts without horizontal overflow and actual Public Sans rendering, two selected notes printed across filters, and custom-note persistence after reload. This record describes the local build at `/Users/wegehaum/Documents/ChatGPT/META/minds/dist/index.html`; deployment verification remains pending.
+Local QA reported 1440px and 390px layouts without horizontal overflow and actual Public Sans rendering, two selected notes printed across filters, and custom-note persistence after reload. This dated review described the first homepage revision. The note board is now preserved at `/Users/wegehaum/Documents/ChatGPT/META/minds/dist/gallery.html`.
+
+
+## Works, thinkers, concepts and LU faculty — 19 October 2026
+
+The current homepage replaces the event-centered opening with four explicit categories: WORKS, THINKERS, CONCEPTS and LU FACULTY. It contains 19 works, 12 thinkers, 12 concepts and 11 selected faculty connections. Category hash links select a section; search applies within that section. Each entry offers source links and a Copy for Post-it action. All 54 entries and source links remain readable without JavaScript. The 25-note selection and printing tool remains at `gallery.html`; the proposal remains at `proposal.html`.
+
+Five public-domain museum images introduce Goya’s *The Sleep of Reason Produces Monsters*, Hakuin’s Bodhidharma portrait, a Sri Lankan Buddha, Rodin’s *The Thinker* and an Egyptian heart amulet. Captions retain object context and Metropolitan Museum of Art links. Clicking an image opens a native enlargement dialog; Escape closes it and restores focus. Without JavaScript, image links open the image files.
+
+Faculty entries describe selected public expertise, with profiles checked 19 October 2026. Suggested connections are editorial possibilities, not evidence of participation or endorsement. The list is not a complete campus inventory.
+
+Local QA reported 1440px and 390px layouts, rendered Public Sans, no horizontal overflow, category routing, section search, copying, artwork enlargement and Escape/focus behavior, and all 54 entries without JavaScript. This records the local build at `/Users/wegehaum/Documents/ChatGPT/META/minds/dist/index.html`; deployment verification is pending.

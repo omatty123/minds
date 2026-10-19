@@ -1,0 +1,530 @@
+{
+  "works": [
+    {
+      "id": "uisang",
+      "title": "Uisang · Diagram of the Dharma Realm",
+      "meta": "Poetry · art · Buddhism · Korean history",
+      "body": "A poem arranged as a seal-diagram. Uisang’s Ocean Seal brings text, image, recitation and the interpenetration of all things into one work.",
+      "url": "https://www.buddhistelibrary.org/en/albums/central/Dhamma_books/04_Hwaom_I_web.pdf",
+      "link": "Read Hwaŏm I · translation (PDF)",
+      "related": []
+    },
+    {
+      "id": "jikji",
+      "title": "Jikji · Pointing Directly to Mind",
+      "meta": "Buddhism · print · art · technology",
+      "body": "A Korean Buddhist work on mind and awakening. Its 1377 edition is the oldest surviving book printed with movable metal type.",
+      "url": "bank.html#jikji-text",
+      "link": "Explore this work",
+      "related": []
+    },
+    {
+      "id": "ding",
+      "title": "Zhuangzi · Cook Ding",
+      "meta": "Chinese thought · athletics · performance",
+      "body": "Practiced movement and cultivated attention. Bring the butcher’s account into conversation with music and sport.",
+      "url": "bank.html#zhuangzi",
+      "link": "Explore this work",
+      "related": []
+    },
+    {
+      "id": "turing",
+      "title": "Turing · Computing Machinery and Intelligence",
+      "meta": "Computing · language · philosophy",
+      "body": "A concrete text for examining how we recognize thinking in a machine.",
+      "url": "possibilities.html#machine",
+      "link": "Explore this work",
+      "related": []
+    },
+    {
+      "id": "oliveros",
+      "title": "Oliveros · Sonic Meditations",
+      "meta": "Music · attention · community",
+      "body": "Text scores make attention and collective listening part of the musical work itself.",
+      "url": "https://www.deeplistening.rpi.edu/deep-listening/",
+      "link": "Explore this work",
+      "related": []
+    },
+    {
+      "id": "dhamma",
+      "title": "Dhammapada · Verses on mind",
+      "meta": "Buddhism · poetry · ethics",
+      "body": "Mental cultivation, attention and conduct within a Buddhist account of liberation.",
+      "url": "bank.html#dhammapada",
+      "link": "Explore this work",
+      "related": []
+    },
+    {
+      "id": "dickinson-sky",
+      "title": "Dickinson · The Brain—is wider than the Sky—",
+      "meta": "Poetry · philosophy · neuroscience",
+      "body": "A short poem makes mind, world and scale available through the precision of poetic form.",
+      "url": "bank.html#dickinson",
+      "link": "Explore this work",
+      "related": []
+    },
+    {
+      "id": "dickinson-cleaving",
+      "title": "Dickinson · I felt a Cleaving in my Mind—",
+      "meta": "Poetry · inner experience",
+      "body": "Division, sequence and the effort to reconnect thought. A compact work for close attention to language.",
+      "url": "gallery.html#note-dickinson-cleaving",
+      "link": "Explore this work",
+      "related": []
+    },
+    {
+      "id": "dickinson-funeral",
+      "title": "Dickinson · I felt a Funeral, in my Brain,",
+      "meta": "Poetry · music · psychology",
+      "body": "Sound, movement and the breakdown of sense make an inward experience take poetic form.",
+      "url": "bank.html#dickinson-funeral",
+      "link": "Explore this work",
+      "related": []
+    },
+    {
+      "id": "dream",
+      "title": "Zhuangzi · The butterfly dream",
+      "meta": "Chinese literature · philosophy",
+      "body": "Dreaming, transformation and the limits of a fixed account of self.",
+      "url": "bank.html#zhuangzi-dream",
+      "link": "Explore this work",
+      "related": []
+    },
+    {
+      "id": "borges",
+      "title": "Borges · Funes, His Memory",
+      "meta": "Literature · memory · philosophy",
+      "body": "A person who cannot forget makes perfect memory a problem for thinking.",
+      "url": "https://thereader.mitpress.mit.edu/borges-memory-funes-the-memorious/",
+      "link": "Explore this work",
+      "related": []
+    },
+    {
+      "id": "dubois",
+      "title": "Du Bois · The Souls of Black Folk",
+      "meta": "History · literature · music",
+      "body": "Double-consciousness, racial power and the social self. The Sorrow Songs make listening part of reading.",
+      "url": "bank.html#dubois",
+      "link": "Explore this work",
+      "related": []
+    },
+    {
+      "id": "hyecho",
+      "title": "Hyecho · A Buddhist pilgrimage account",
+      "meta": "History · translation · religion",
+      "body": "Observation, interpretation and religious life across cultures. Korean Buddhist translation expertise belongs in this conversation.",
+      "url": "bank.html#hyecho",
+      "link": "Explore this work",
+      "related": []
+    },
+    {
+      "id": "ghazali",
+      "title": "Deliverance from Error",
+      "meta": "Al-Ghazālī · Islamic philosophy",
+      "body": "An autobiographical search for reliable knowledge, from radical doubt to religious practice.",
+      "url": "bank.html#ghazali",
+      "link": "Read the source",
+      "related": []
+    },
+    {
+      "id": "kokoro",
+      "title": "Kokoro",
+      "meta": "Natsume Sōseki · Japanese novel",
+      "body": "Trust, guilt and the difficulty of knowing another person. The title itself joins heart and mind.",
+      "url": "bank.html#soseki",
+      "link": "Read the source",
+      "related": []
+    },
+    {
+      "id": "lathe",
+      "title": "The Lathe of Heaven",
+      "meta": "Ursula K. Le Guin · fiction",
+      "body": "Dreams alter reality; a supposed cure becomes a struggle over whose imagined world others must inhabit.",
+      "url": "bank.html#leguin-lathe",
+      "link": "Read the source",
+      "related": []
+    },
+    {
+      "id": "sacks",
+      "title": "The Man Who Mistook His Wife for a Hat",
+      "meta": "Oliver Sacks · clinical narratives",
+      "body": "Recognition, memory and identity through accounts of people living with neurological differences.",
+      "url": "bank.html#sacks-hat",
+      "link": "Read the source",
+      "related": []
+    },
+    {
+      "id": "chant",
+      "title": "Gregorian chant",
+      "meta": "Music · sacred text · embodied practice",
+      "body": "Breath, memorization, collective attention and acoustic space. Select a named chant and recording with a music specialist.",
+      "url": "gallery.html#note-chant",
+      "link": "See the proposed encounter",
+      "related": []
+    },
+    {
+      "id": "caminhando",
+      "title": "Caminhando / Walking",
+      "meta": "Lygia Clark · participatory art",
+      "body": "An artwork unfolds through a participant’s action: cutting a paper Möbius strip makes choice and perception part of its form.",
+      "url": "bank.html#clark",
+      "link": "Read the source",
+      "related": []
+    }
+  ],
+  "thinkers": [
+    {
+      "id": "levin",
+      "title": "Michael Levin",
+      "meta": "Biology · cognition beyond brains",
+      "body": "Cellular communication and collective problem-solving broaden the study of cognition. Adaptive behavior and felt experience remain distinct claims.",
+      "url": "bank.html?researcher=Michael+Levin",
+      "link": "Explore Levin’s research",
+      "related": []
+    },
+    {
+      "id": "solms",
+      "title": "Mark Solms",
+      "meta": "Neuropsychology · feeling",
+      "body": "An account of consciousness that places feeling and bodily needs at its center. Begin with The Hidden Spring, then examine the research.",
+      "url": "bank.html?researcher=Mark+Solms",
+      "link": "Explore Solms’s research",
+      "related": []
+    },
+    {
+      "id": "berg",
+      "title": "Cameron Berg",
+      "meta": "AI · consciousness research",
+      "body": "Work on artificial systems, learning and reports of experience. Examine what the experiments establish and what remains an interpretation.",
+      "url": "bank.html?researcher=Cameron+Berg",
+      "link": "Explore Berg’s research",
+      "related": []
+    },
+    {
+      "id": "uisang",
+      "title": "Uisang / Ŭisang",
+      "meta": "Korean Buddhism · Hwaŏm",
+      "body": "The Ocean Seal gives philosophical thought a visual and recitable form. Its Buddhist account of interpenetration belongs beside the poem’s patterned design.",
+      "url": "https://www.buddhistelibrary.org/en/albums/central/Dhamma_books/04_Hwaom_I_web.pdf",
+      "link": "Read the translated work",
+      "related": []
+    },
+    {
+      "id": "zhuangzi",
+      "title": "Zhuangzi",
+      "meta": "Chinese philosophy · transformation",
+      "body": "Dreams, skilled action and shifting perspectives unsettle a fixed account of the knowing self.",
+      "url": "history.html#zhuangzi",
+      "link": "Read the source",
+      "related": []
+    },
+    {
+      "id": "dickinson",
+      "title": "Emily Dickinson",
+      "meta": "Poetry · inward experience",
+      "body": "The brain, the sky, a funeral, a cleaving: poems use exact language to make thought and its disruptions perceptible.",
+      "url": "history.html#dickinson",
+      "link": "Read the source",
+      "related": []
+    },
+    {
+      "id": "ghazali",
+      "title": "Al-Ghazālī",
+      "meta": "Islamic thought · certainty",
+      "body": "Examines the limits of perception and reasoning within an account of religious knowledge and practice.",
+      "url": "history.html#ghazali",
+      "link": "Read the source",
+      "related": []
+    },
+    {
+      "id": "dubois",
+      "title": "W. E. B. Du Bois",
+      "meta": "History · sociology · social self",
+      "body": "Double-consciousness describes self-understanding under racial domination. The social world enters the experience of being a person.",
+      "url": "history.html#dubois",
+      "link": "Read the source",
+      "related": []
+    },
+    {
+      "id": "oliveros",
+      "title": "Pauline Oliveros",
+      "meta": "Composition · listening",
+      "body": "Makes attention, listening and participation material for musical work. Sonic Meditations offers a concrete place to begin.",
+      "url": "https://www.deeplistening.rpi.edu/deep-listening/",
+      "link": "Read the source",
+      "related": []
+    },
+    {
+      "id": "turing",
+      "title": "Alan Turing",
+      "meta": "Computing · intelligence",
+      "body": "Turns judgments about machine thinking into an explicit test. His essay gives AI discussions a shared text and a history.",
+      "url": "history.html#turing",
+      "link": "Read the source",
+      "related": []
+    },
+    {
+      "id": "james",
+      "title": "William James",
+      "meta": "Psychology · habit · experience",
+      "body": "The stream of thought, attention and habit connect everyday experience with the early development of psychology.",
+      "url": "history.html#james",
+      "link": "Read the source",
+      "related": []
+    },
+    {
+      "id": "amo",
+      "title": "Anton Wilhelm Amo",
+      "meta": "Philosophy · sensation",
+      "body": "An African philosopher working in eighteenth-century Europe contests the attribution of sensation to the mind.",
+      "url": "history.html#amo",
+      "link": "Read the source",
+      "related": []
+    }
+  ],
+  "concepts": [
+    {
+      "id": "consciousness",
+      "title": "Consciousness",
+      "meta": "Experience · awareness",
+      "body": "Having an experience, such as pain or seeing color. Distinguish this from solving a problem or producing a convincing verbal report.",
+      "url": "bank.html#cogitate",
+      "link": "Read the source",
+      "related": [
+        [
+          "Mark Solms",
+          "#thinker-solms"
+        ],
+        [
+          "Cameron Berg",
+          "#thinker-berg"
+        ]
+      ]
+    },
+    {
+      "id": "placebo",
+      "title": "Placebo / nocebo",
+      "meta": "Expectation · body",
+      "body": "The contexts and expectations surrounding treatment can affect symptoms and experience. Changes in symptoms are not a universal cure.",
+      "url": "https://www.nccih.nih.gov/health/placebo-effect",
+      "link": "NCCIH · placebo research",
+      "related": []
+    },
+    {
+      "id": "animism",
+      "title": "Animism",
+      "meta": "Personhood · living worlds",
+      "body": "Relationships with animals, places and other beings understood as persons or agents. Specific communities and traditions must lead the comparison.",
+      "url": "history.html",
+      "link": "Explore cultural accounts",
+      "related": []
+    },
+    {
+      "id": "panpsychism",
+      "title": "Panpsychism",
+      "meta": "Mind · matter",
+      "body": "Philosophical views that make mentality or experience fundamental and widespread in nature. Distinct from animism and from the claim that everything thinks like a human.",
+      "url": "https://plato.stanford.edu/entries/panpsychism/",
+      "link": "Stanford Encyclopedia · panpsychism",
+      "related": []
+    },
+    {
+      "id": "self",
+      "title": "Self / soul / person",
+      "meta": "Identity · continuity",
+      "body": "These terms name different problems across traditions: the owner of experience, a life’s continuity, spiritual existence and social recognition.",
+      "url": "mind-words.html#body",
+      "link": "Explore the body diagram",
+      "related": []
+    },
+    {
+      "id": "heart",
+      "title": "Heart-mind",
+      "meta": "Language · feeling · judgment",
+      "body": "心, 마음 and other words connect aspects of feeling, intention and thought. Their meanings overlap without becoming interchangeable.",
+      "url": "mind-words.html#meanings",
+      "link": "Explore meanings across languages",
+      "related": []
+    },
+    {
+      "id": "memory",
+      "title": "Memory",
+      "meta": "Recall · imagination · identity",
+      "body": "Remembering sustains knowledge and a sense of self. Funes makes total recall troubling; learning a poem makes memory tangible.",
+      "url": "possibilities.html?route=memory",
+      "link": "Explore memory activities",
+      "related": [
+        [
+          "Borges",
+          "#work-borges"
+        ],
+        [
+          "Dickinson",
+          "#thinker-dickinson"
+        ]
+      ]
+    },
+    {
+      "id": "embodiment",
+      "title": "Embodied & distributed cognition",
+      "meta": "Movement · tools · other people",
+      "body": "Thinking can depend on bodily action, gesture, material tools and social coordination. Hands and surroundings can participate in the work of thought.",
+      "url": "history.html#extended",
+      "link": "Explore the account",
+      "related": []
+    },
+    {
+      "id": "attention",
+      "title": "Attention & skilled action",
+      "meta": "Music · sport · learning",
+      "body": "Selection and practice shape what becomes available to thought and action. Cook Ding, singing and sport bring skilled movement into view.",
+      "url": "possibilities.html",
+      "link": "Explore activities",
+      "related": [
+        [
+          "Cook Ding",
+          "#work-ding"
+        ]
+      ]
+    },
+    {
+      "id": "trance",
+      "title": "Chant & collective trance",
+      "meta": "Sound · ritual · altered experience",
+      "body": "Rhythm, repetition and movement can organize shared experience. Chant and trance are not synonyms; study named practices in their settings.",
+      "url": "possibilities.html#trance",
+      "link": "Explore the encounter",
+      "related": []
+    },
+    {
+      "id": "double",
+      "title": "Double-consciousness",
+      "meta": "Race · self · power",
+      "body": "Du Bois describes the tension of knowing oneself through a society that devalues one’s personhood. This is a historically specific account of the social self.",
+      "url": "bank.html#dubois",
+      "link": "Read Du Bois",
+      "related": []
+    },
+    {
+      "id": "ai",
+      "title": "Artificial minds",
+      "meta": "Intelligence · experience · agency",
+      "body": "What makes a mind “real”? Performance, subjective experience, agency and moral standing need separate examination.",
+      "url": "bank.html?discipline=Philosophy",
+      "link": "Explore the research",
+      "related": []
+    }
+  ],
+  "faculty": [
+    {
+      "id": "mark-phelan",
+      "title": "Mark Phelan",
+      "meta": "Philosophy · cognitive science",
+      "body": "Researches philosophy of mind and how mental states are attributed. His public lecture Knowing Others and Ourselves offers a campus starting point.",
+      "url": "https://www.lawrence.edu/people/mark-phelan/",
+      "link": "LU profile",
+      "related": [],
+      "connection": "AI, other minds and the evidence behind attributing consciousness."
+    },
+    {
+      "id": "chunyue-teng",
+      "title": "Chunyue Teng",
+      "meta": "Cognitive neuroscience",
+      "body": "Studies visual attention, working memory and cognitive control using EEG, behavioral measures and computational models.",
+      "url": "https://www.lawrence.edu/people/chunyue-teng/",
+      "link": "LU profile",
+      "related": [],
+      "connection": "Perception, memory and the experimental study of mind."
+    },
+    {
+      "id": "karen-leigh-post",
+      "title": "Karen Leigh-Post",
+      "meta": "Voice · music",
+      "body": "Author of Mind-Body Awareness for Singers; applies cognitive neuroscience and perceptual-motor research to vocal performance.",
+      "url": "https://www.lawrence.edu/people/karen-leigh-post/",
+      "link": "LU profile",
+      "related": [],
+      "connection": "A work that directly joins mind, body and musical practice."
+    },
+    {
+      "id": "julie-mcquinn",
+      "title": "Julie McQuinn",
+      "meta": "Musicology",
+      "body": "Teaches music and memory, music and disability, opera and film music. Her research addresses music, identity and meaning.",
+      "url": "https://www.lawrence.edu/people/julie-mcquinn/",
+      "link": "LU profile",
+      "related": [],
+      "connection": "Memory, identity and the ways music shapes experience."
+    },
+    {
+      "id": "sonja-lynn-downing",
+      "title": "Sonja Lynn Downing",
+      "meta": "Ethnomusicology",
+      "body": "Studies Balinese gamelan, dance and musical learning. Author of Gamelan Girls.",
+      "url": "https://www.lawrence.edu/people/sonja-lynn-downing/",
+      "link": "LU profile",
+      "related": [],
+      "connection": "Embodied learning, ensemble coordination and cultural context."
+    },
+    {
+      "id": "bob-williams",
+      "title": "Bob Williams",
+      "meta": "Education · cognitive science · linguistics",
+      "body": "Studies gesture, collaborative reasoning and how people construct meaning in interaction.",
+      "url": "https://www.lawrence.edu/people/bob-williams/",
+      "link": "LU profile",
+      "related": [],
+      "connection": "Mind in the hands; thinking with people, objects and gestures."
+    },
+    {
+      "id": "melissa-h-range",
+      "title": "Melissa H. Range",
+      "meta": "English · poetry",
+      "body": "Teaches poetry and nineteenth-century American literature, with emphasis on women writers and writers of color.",
+      "url": "https://www.lawrence.edu/people/melissa-h-range/",
+      "link": "LU profile",
+      "related": [],
+      "connection": "Dickinson, the language of inward experience and memorization."
+    },
+    {
+      "id": "matty-wegehaupt",
+      "title": "Matty Wegehaupt",
+      "meta": "East Asian Studies · translation",
+      "body": "Teaches East Asian cultures and religions; contributed to the translation of Hyecho’s travel records and has translated Beopjeong.",
+      "url": "https://www.lawrence.edu/people/matty-wegehaupt/",
+      "link": "LU profile",
+      "related": [],
+      "connection": "Korean Buddhist texts, Uisang, Jikji and mind across languages."
+    },
+    {
+      "id": "martyn-smith",
+      "title": "Martyn Smith",
+      "meta": "Religious Studies",
+      "body": "Studies religion, place and shared meaning; teaches Islam, religion and ecology, and religion and technology.",
+      "url": "https://www.lawrence.edu/people/martyn-smith/",
+      "link": "LU profile",
+      "related": [],
+      "connection": "Religious accounts of self and the worlds communities inhabit."
+    },
+    {
+      "id": "kuo-ming-sung",
+      "title": "Kuo-ming Sung",
+      "meta": "Chinese · linguistics · East Asian Studies",
+      "body": "Professor of Chinese and Linguistics, with training in Romance linguistics.",
+      "url": "https://www.lawrence.edu/people/kuo-ming-sung/",
+      "link": "LU profile",
+      "related": [],
+      "connection": "Comparative language, translation and the vocabulary of mind."
+    },
+    {
+      "id": "benjamin-rinehart",
+      "title": "Benjamin Rinehart",
+      "meta": "Studio art · printmaking · book arts",
+      "body": "Makes socially engaged prints, books and movable works that invite physical and psychological interaction.",
+      "url": "https://www.lawrence.edu/people/benjamin-rinehart/",
+      "link": "LU profile",
+      "related": [],
+      "connection": "Jikji, the artist’s book, perception and participatory art."
+    }
+  ]
+}

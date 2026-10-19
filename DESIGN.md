@@ -48,7 +48,7 @@ components:
 
 MIND(s) uses a compact journalism layout: a black masthead, white reading surfaces, red emphasis, sans-serif typography throughout. The user explicitly selected the black, white and red journalism direction and direct code construction. The specific measurements and component treatments below document the implementation; they are not additional recorded user approvals.
 
-This document describes `dist/style.css`, `dist/app.js` and the seven HTML pages: proposal, model syllabus, learning bank, pronunciation collection, global history, campus possibilities and participation, including the scoped pronunciation additions in `dist/mind-atlas.css` and `dist/mind-atlas.js`. The shared system favors readable source records, visible limits and direct navigation. It uses typography and rules; the pronunciation page also uses sourced objects and signed-language demonstrations as evidence.
+This document describes `dist/style.css`, `dist/app.js` and the nine HTML pages: exploration homepage, Gallery Walk note tool, proposal, model syllabus, learning bank, pronunciation collection, global history, campus possibilities and participation, including the scoped pronunciation additions in `dist/mind-atlas.css` and `dist/mind-atlas.js`. The shared system favors readable source records, visible limits and direct navigation. It uses typography and rules; the pronunciation page also uses sourced objects and signed-language demonstrations as evidence.
 
 ## Colors
 
@@ -70,7 +70,7 @@ The shared content container is 1280px maximum with 42px horizontal padding. The
 
 Desktop layouts use two columns for the opening and explanatory sections, and three columns for discipline and research summaries. Source rows use a 180px metadata column beside the reading column. Paragraph widths are constrained locally where long lines would impair reading.
 
-At 850px, horizontal padding becomes 26px, gaps contract, syllabus meeting lists become one column, filters become two columns, and source metadata narrows to 135px. At 600px, padding becomes 20px, main content grids stack, filters become one column, and source metadata forms a wrapping row. The seven-link navigation wraps into visible rows at 850px and below, with tighter spacing at 600px; link text stays unbroken. The edition date is hidden in the mobile masthead.
+At 850px, horizontal padding becomes 26px, gaps contract, syllabus meeting lists become one column, filters become two columns, and source metadata narrows to 135px. At 600px, padding becomes 20px, main content grids stack, filters become one column, and source metadata forms a wrapping row. The shared navigation wraps into visible rows at 850px and below, with tighter spacing at 600px; link text stays unbroken. The edition date is hidden in the mobile masthead.
 
 The mobile assessment table retains a 510px minimum width inside a horizontally scrollable container. This is an intentional current accommodation, with scroll discoverability a nonblocking review note. Do not shrink its text to force all columns into the viewport.
 
@@ -145,12 +145,23 @@ The user requested more beauty based on the WATER site. The pronunciation page n
 Scoped additions, 10 October 2026: the semantic comparison, signed-language resources and three visual studies extend this listening edition. Browser review covered cluster selection, Korean audio, BSL playback, image loading, actual sans-serif fonts and layouts at 1440px and 390px without horizontal overflow. ASL iframe insertion was checked; YouTube playback remains unverified. Finish-review disposition: ship the scoped sections. This is a review record, not approval of an exhaustive linguistic classification.
 
 
-## Gallery Walk homepage — 19 October 2026
+## Gallery Walk note tool — first 19 October 2026 revision
 
-The homepage uses a compact MIND heading, a four-theme guide and a scannable board of 25 notes. Public Sans, black text, red controls and fine rules preserve the existing design. Restrained neutral, peach, gray and sage note surfaces distinguish themes without simulated paper effects. The previous proposal layout is retained at `proposal.html`.
+The retained `gallery.html` tool uses a compact MIND heading, a four-theme guide and a scannable board of 25 notes. Public Sans, black text, red controls and fine rules preserve the existing design. Restrained neutral, peach, gray and sage note surfaces distinguish themes without simulated paper effects. The previous proposal layout is retained at `proposal.html`.
 
 The note grid uses three columns on desktop, two below 1000px and one below 650px. Theme filters, selection controls and copy actions retain visible labels; source and context notes use native disclosures. Custom notes are browser-local. The authored content remains readable without JavaScript, while unavailable controls stay hidden.
 
 Selected-note printing uses two columns of 3-inch squares with dashed cutting outlines. Print omits navigation, controls and source disclosures, with note text at least 11pt. Selection can include notes outside the current filter. Local QA reported no horizontal overflow at 1440px and 390px, actual Public Sans rendering, two selected notes printed across filters and custom-note persistence. This is a local implementation record, not confirmation of live deployment.
 
 Custom notes use a 3-inch minimum print height and expand when necessary to prevent text overlap.
+
+
+## Exploration homepage — current 19 October 2026 revision
+
+`dist/explore.css` and `dist/explore.js` extend the black, white and red Public Sans system. A compact introduction sits beside three full-object museum images on desktop. Four prominent, sticky category links read WORKS, THINKERS, CONCEPTS and LU FACULTY, each with its entry count. Red fill marks the active category. The page uses ruled entries rather than sticky-note styling; descriptions and source links remain adjacent. Two more museum objects appear after the works. All five artworks retain captions, dates and source credits.
+
+Works, concepts and faculty use two columns; thinkers use three columns. Below 1000px, the introduction moves above the art and thinkers use two columns. Below 600px, entries use one column and the four category labels remain visible in a compact row. The artwork strip preserves full images with `object-fit: contain`. Headings wrap naturally.
+
+Category hash links select one section when JavaScript is available. Search filters that section, with a result count and clear action. Copy for Post-it provides plain text; clipboard failure selects the entry and supplies a manual-copy instruction. Artwork links open a native dialog with a close button and Escape support, restoring focus on close. Without JavaScript, all 54 entries and source links remain available and image links open the files. Print exposes all entries. The independent note tool at `gallery.html` retains selection and square-note printing.
+
+Local QA reported 1440px and 390px views, rendered Public Sans, no horizontal overflow, category routing, section search, copying, dialog Escape/focus behavior and no-JavaScript access. This documents the local implementation at `/Users/wegehaum/Documents/ChatGPT/META/minds/dist/index.html`; deployment verification is pending.

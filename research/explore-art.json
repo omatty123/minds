@@ -1,0 +1,35 @@
+[
+  {
+    "file": "dist/images/goya-reason.jpg",
+    "title": "Plate 43 from \"Los Caprichos\": The sleep of reason produces monsters (El sueño de la razon produce monstruos)",
+    "object_id": 338473,
+    "source": "https://www.metmuseum.org/art/collection/search/338473",
+    "image_source": "https://images.metmuseum.org/CRDImages/dp/original/DP816992.jpg",
+    "public_domain": true,
+    "credit": "Gift of M. Knoedler & Co., 1918",
+    "transformation": "Full image resized to fit 1400 × 1400 pixels; JPEG quality 90. No crop or generated content.",
+    "checked": "2026-10-19"
+  },
+  {
+    "file": "dist/images/hakuin-bodhidharma.jpg",
+    "title": "Portrait of Bodhidharma",
+    "object_id": 78145,
+    "source": "https://www.metmuseum.org/art/collection/search/78145",
+    "image_source": "https://images.metmuseum.org/CRDImages/as/original/DP355572.jpg",
+    "public_domain": true,
+    "credit": "Gift of Florence and Herbert Irving, 2015",
+    "transformation": "Full image resized to fit 1400 × 1400 pixels; JPEG quality 90. No crop or generated content.",
+    "checked": "2026-10-19"
+  },
+  {
+    "file": "dist/images/buddha-meditation.jpg",
+    "title": "Buddha Seated in Meditation",
+    "object_id": 72301,
+    "source": "https://www.metmuseum.org/art/collection/search/72301",
+    "image_source": "https://images.metmuseum.org/CRDImages/as/original/DP219472.jpg",
+    "public_domain": true,
+    "credit": "Purchase, Louis V. Bell, Harris Brisbane Dick, Fletcher, and Rogers Funds and Joseph Pulitzer Bequest; The Miriam and Ira D. Wallach Foundation Fund; Florence and Herbert Irving, Cynthia Hazen Polsky and Anne H. Bass Gifts, 2010",
+    "transformation": "Full image resized to fit 1400 × 1400 pixels; JPEG quality 90. No crop or generated content.",
+    "checked": "2026-10-19"
+  }
+]
