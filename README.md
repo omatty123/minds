@@ -6,7 +6,8 @@ Live address after successful deployment: https://omatty123.github.io/minds/
 
 ## Work on the site
 
-- `build.py` generates seven HTML pages from the authored page content and `bank.json`.
+- `build.py` generates eight HTML pages from the authored page content and `bank.json`.
+- `gallery_page.py` authors the Gallery Walk homepage; `dist/gallery.css` and `dist/gallery.js` provide the note board and print controls. The previous homepage is retained at `proposal.html`.
 - `syllabus-content.html` contains the syllabus prose; `slate.json` defines the six sustained works. `build.py` renders the slate, language comparison and proposed pacing.
 - `mind-words.json` contains the pronunciation collection and audio attribution. `mind_words_page.py` renders it; `dist/mind-words.js` and `.css` provide the player and layout. Audio files are credited individually; human voices only.
 - `semantic-clusters.json` defines eight selected, overlapping meaning clusters. `mind_atlas.py` adds these, signed-language resources and three visual studies to the pronunciation page; `dist/mind-atlas.css` and `.js` provide their responsive layout and interactions. Dictionary links and audio references come from `mind-words.json`.
@@ -86,3 +87,12 @@ Local QA covered 1440px and 390px layouts, filters, shortlist selection, URL res
 `dist/downloads/mind-gallery-handout.pdf` is a one-page, source-linked selection of six proposed works and objects, with a QR code to the site homepage. It supplements the discussion draft; it does not replace the six-work syllabus. `mind-qr.png` and `mind-qr.svg` provide reusable QR assets with a four-module quiet zone. `tools/build_gallery_handout.py` rebuilds these files using reportlab, qrcode and Pillow; it is a manual artifact build, separate from the dependency-free HTML build. Fonts are the existing Public Sans assets. All handout text is at least 11 pt. The generated PDF and the standalone PNG were independently decoded to verify the exact QR target, https://omatty123.github.io/minds/.
 
 New handout references include the Center for Deep Listening's account of Oliveros's Sonic Meditations and an MIT Press author excerpt on Borges's Funes. Linked sources are in the PDF; catalog and introductory source review is not a completed teaching review of every edition or score. The local PDF render was inspected before publication. No private faculty strategy or correspondence is included in the public files.
+
+
+## Gallery Walk note board — 19 October 2026
+
+The homepage now presents 25 proposed notes in four themes: Mind & body, Minds beyond humans, Cultivating mind, and Expressing mind. Visitors can filter the board, copy a note, select notes across filters, and print selected notes as 3-inch squares. The previous homepage remains available at `proposal.html`; the research collections and existing gallery handout remain available.
+
+Visitors can add their own notes. These are stored only in that browser’s local storage and are not submitted or published. The authored notes remain readable without JavaScript. Source and context disclosures distinguish established works from ideas for which a work or edition remains to be selected. No faculty endorsement is implied.
+
+Local QA reported 1440px and 390px layouts without horizontal overflow and actual Public Sans rendering, two selected notes printed across filters, and custom-note persistence after reload. This record describes the local build at `/Users/wegehaum/Documents/ChatGPT/META/minds/dist/index.html`; deployment verification remains pending.

@@ -7,7 +7,7 @@ E=html.escape
 BASE='https://omatty123.github.io/minds/'
 
 def page(file,title,body):
- nav=''.join(f'<a href="{p}"'+(' aria-current="page"' if p==file else '')+f'>{label}</a>' for p,label in [('index.html','The proposal'),('history.html','Global history'),('possibilities.html','Possibilities'),('syllabus.html','Model syllabus'),('bank.html','Learning bank'),('mind-words.html','Hear MIND'),('participate.html','Take part')])
+ nav=''.join(f'<a href="{p}"'+(' aria-current="page"' if p==file else '')+f'>{label}</a>' for p,label in [('index.html','Gallery notes'),('proposal.html','The proposal'),('history.html','Global history'),('possibilities.html','Possibilities'),('syllabus.html','Model syllabus'),('bank.html','Learning bank'),('mind-words.html','Hear MIND'),('participate.html','Take part')])
  doc=f'''<!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>{E(title)} | MIND(s)</title><meta name="description" content="An interdisciplinary proposal for First-Year Studies: a model syllabus and a source-linked learning bank on minds, feeling, skill and consciousness."><meta name="theme-color" content="#151515"><link rel="canonical" href="{BASE+file}"><meta property="og:title" content="{E(title)} | MIND(s)"><meta property="og:description" content="An open faculty proposal. Explore the model syllabus and learning bank."><meta property="og:type" content="website"><link rel="icon" href="favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="fonts.css"><link rel="stylesheet" href="style.css"><script src="app.js" defer></script></head>
 <body><a class="skip" href="#main">Skip to content</a><header class="masthead"><div class="mast-inner"><a class="wordmark" href="index.html" aria-label="MIND(s) home">MIND<span>(s)</span></a><p>A proposal for<br class="brand-break"> First-Year Studies</p><span class="edition">Working edition<br>10 October 2026</span></div></header><nav class="nav" aria-label="Main navigation"><div>{nav}</div></nav><main id="main">{body}</main><footer><div><a class="footer-brand" href="index.html">MIND(s)</a><p>An independent faculty proposal for a future Lawrence University First-Year Studies theme.<br>Developed by Matty Wegehaupt. Not an adopted curriculum or institutional endorsement.</p></div><div class="footer-links"><a href="participate.html#editorial">Editorial standards</a><a href="https://github.com/omatty123/minds">Source &amp; revisions</a><span>Research checked 10 October 2026</span></div></footer></body></html>'''
@@ -31,7 +31,7 @@ home+='''</div><p class="editor-note">These are initial research priorities. The
 <section class="closing"><h2>Build something colleagues can teach together.</h2><p>The next step is to test the works, improve the sequence, and invite disciplinary expertise into the proposal.</p><a class="button" href="participate.html">Contribute to MIND(s)</a></section>'''
 home=home.replace('<section class="front-section">', '<section class="front-section"><div class="section-heading"><h2>Hear words for mind.</h2><a href="mind-words.html">Explore the human-voice collection →</a></div><p>Languages connect thinking, feeling and understanding in different ways. Listen to individual speakers and compare the words. Explore <a href="mind-words.html#meanings">meaning clusters</a>, <a href="mind-words.html#signs">sign languages</a> and <a href="mind-words.html#symbols">visual representations of mind</a>.</p></section><section class="front-section">',1)
 home=home.replace('<section class="front-section">', '<section class="front-section"><div class="section-heading"><h2>Before Gutenberg: directly pointing to mind</h2><a href="syllabus.html#jikji">Begin with Jikji →</a></div><p>The oldest surviving book printed with movable metal type is a book about mind. Printed in Korea in 1377, <em>Jikji</em> brings Buddhist teachings and the history of books directly into MIND(s). Its English title: <em>Essential Passages Pointing Directly to the Mind</em>.</p></section><section class="front-section">',1)
-page('index.html','A shared study of minds',home)
+page('proposal.html','A shared study of minds',home)
 
 SLATE=json.loads((ROOT/'slate.json').read_text())
 slate_rows=''
@@ -84,4 +84,7 @@ shutil.copyfile(ROOT/'history.json',OUT/'history.json')
 from possibilities_page import render as render_possibilities
 page('possibilities.html','Campus possibilities',render_possibilities(ROOT))
 shutil.copyfile(ROOT/'possibilities.json',OUT/'possibilities.json')
-print('Built 7 pages and',len(DATA),'source entries.')
+print('Built 8 pages and',len(DATA),'source entries.')
+
+from gallery_page import render as render_gallery
+page('index.html','Gallery Walk notes',render_gallery())

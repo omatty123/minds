@@ -143,3 +143,14 @@ Local review record, 10 October 2026: all four pages were reviewed at 1440px and
 The user requested more beauty based on the WATER site. The pronunciation page now gives the radial collection the dominant width, with a warm white surface, red segmented selection ring, language labels and the active word in the center. The center has a working Listen control. Word meanings and playback controls remain beside the circle on desktop; mobile uses the active-word circle above controls and the searchable word list. All 50 source records, human audio files and credits remain unchanged. These scoped styles supersede the earlier pronunciation layout description; other pages retain their design.
 
 Scoped additions, 10 October 2026: the semantic comparison, signed-language resources and three visual studies extend this listening edition. Browser review covered cluster selection, Korean audio, BSL playback, image loading, actual sans-serif fonts and layouts at 1440px and 390px without horizontal overflow. ASL iframe insertion was checked; YouTube playback remains unverified. Finish-review disposition: ship the scoped sections. This is a review record, not approval of an exhaustive linguistic classification.
+
+
+## Gallery Walk homepage — 19 October 2026
+
+The homepage uses a compact MIND heading, a four-theme guide and a scannable board of 25 notes. Public Sans, black text, red controls and fine rules preserve the existing design. Restrained neutral, peach, gray and sage note surfaces distinguish themes without simulated paper effects. The previous proposal layout is retained at `proposal.html`.
+
+The note grid uses three columns on desktop, two below 1000px and one below 650px. Theme filters, selection controls and copy actions retain visible labels; source and context notes use native disclosures. Custom notes are browser-local. The authored content remains readable without JavaScript, while unavailable controls stay hidden.
+
+Selected-note printing uses two columns of 3-inch squares with dashed cutting outlines. Print omits navigation, controls and source disclosures, with note text at least 11pt. Selection can include notes outside the current filter. Local QA reported no horizontal overflow at 1440px and 390px, actual Public Sans rendering, two selected notes printed across filters and custom-note persistence. This is a local implementation record, not confirmation of live deployment.
+
+Custom notes use a 3-inch minimum print height and expand when necessary to prevent text overlap.
